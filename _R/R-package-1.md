@@ -9,12 +9,12 @@ For more details, see [Park (2017)](http://journals.sfu.ca/ijietap/index.php/iji
 
 
 + [CRAN](https://cran.r-project.org/web/packages/weibullness/index.html) 
-
 + [github](https://github.com/appliedstat/R/tree/master/weibullness)
++ [rdrr.io] (https://rdrr.io/cran/weibullness/)
 
 ------
 
-> install.packages("weibullness") 
-> library(weibullness)
-> help(weibullness)
+> install.packages("weibullness") <br />
+> library(weibullness)  <br />
+> help(weibullness) 
 

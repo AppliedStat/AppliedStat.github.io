@@ -1,6 +1,6 @@
 ---
 layout: archive
-// title: "R"
+title: "R"
 permalink: /R/
 author_profile: true
 ---

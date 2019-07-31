@@ -28,7 +28,7 @@ Education
 
 Work Experience
 ======
-* 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr)
+* 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr) \n 
 <!--
   * Github University   
   * Duties included: Tagging issues   
@@ -39,7 +39,9 @@ Work Experience
 
 * [CUSG Outstanding Professor](https://drive.google.com/open?id=0B-GVxDJZNtwYVG9jZDJJSGFNNU0)  recognized by Clemson University Student Government
 
-* Assistant / Associate / [Tenure-granted Professor](https://drive.google.com/open?id=0B-GVxDJZNtwYUGg3ZjNGeHU5QTQ) of Mathematical and Statistical Sciences(https://www.clemson.edu/science/departments/math-stat/) at Clemson University (2001-2015)
+* Assistant / Associate / [Tenure-granted Professor](https://drive.google.com/open?id=0B-GVxDJZNtwYUGg3ZjNGeHU5QTQ) of [Mathematical and Statistical Sciences](https://www.clemson.edu/science/departments/math-stat/) at [Clemson University](https://www.clemson.edu/) (2001-2015)
+
+
 
 Publications
 ======

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Chanseok Park"
+title                    : "Sound wins over noise"
 title_separator          : "-"
 name                     : &name "Chanseok Park"
 description              : &description "personal description"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  R: 
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _R
   - scope:
       path: ""
-      type: portfolio
+      type: R
     values:
       layout: single
       author_profile: true

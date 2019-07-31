@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Professor Chanseok Park"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chanseok Park"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AppliedStat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Chanseok Park"
+  name             : "Dr. Park"
   avatar           : "profile.png"
   bio              : "I am Chanseok Park in Department of Industrial Engineering at Pusan National University."
   location         : "Busan, South Korea"
-  employer         : "Department of Industrial Engineering, Pusan National University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : #"Pusan National University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wn4mdy0AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Chanseok_Park"
@@ -99,10 +99,10 @@ author:
   github           : "AppliedStat"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/cspark727/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/charlestonpark"
   orcid            : "https://orcid.org/0000-0002-2208-3498"
   pinterest        :
   soundcloud       :

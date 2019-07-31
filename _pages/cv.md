@@ -17,7 +17,7 @@ Current Position
 
 
 
-
+<p>
 Education
 ======
 * Ph.D in Statistics, Pennsylvania State University
@@ -28,7 +28,8 @@ Education
 
 Work Experience
 ======
-* 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr) \n 
+* 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr) 
+
 <!--
   * Github University   
   * Duties included: Tagging issues   

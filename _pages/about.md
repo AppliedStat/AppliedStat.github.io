@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 permalink: /
 excerpt: "About me"
 author_profile: true
@@ -10,8 +10,9 @@ redirect_from:
 
 Current Position
 ------
-* Director of Applied Statistics Laboratory
-* rofessor of Industrial Engineering at Pusan National University
+* Director of [Applied Statistics Laboratory](https://sites.google.com/view/appliedstatlab) 
+* Professor of [Industrial Engineering](http://ie.pusan.ac.kr) at 
+[Pusan National University](http://pusan.ac.kr)
 
 Education
 ------
@@ -45,11 +46,10 @@ and his Doctorate in Statistics
 under the supervision of Late Professor Bruce G. Lindsay from the Pennsylvania State University.
 
 He is at present a tenured full professor of 
-[Industrial Engineering](http://ie.pusan.ac.kr) at 
-[Pusan National University](http://pusan.ac.kr)
-(부산대학교 산업공학과), Busan, Republic of Korea (South Korea). 
+Industrial Engineering at Pusan National University (부산대학교 산업공학과), 
+Busan, Republic of Korea (South Korea). 
 He is also a Director of the 
-[Applied Statistics Laboratory (응용통계연구실)](https://sites.google.com/view/appliedstatlab) 
+Applied Statistics Laboratory (응용통계연구실) 
 in the department where he leads the applied statistics group, teaches statistics courses, and conducts various research on quality and reliability engineering, competing risks model, robust inference, solid mechanics, etc.  He also served from 2017 to 2019 as chair of the department at Pusan National University.
 
 Before joining Pusan National University, he was a faculty member of Mathematical Sciences at Clemson University, Clemson SC, USA from 2001 to 2015. He was an assistant professor from August 15, 2001 until he was promoted to the tenured associate professor at Clemson University on August 15, 2007.

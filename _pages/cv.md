@@ -15,14 +15,14 @@ Current Position
 * Director of Applied Statistics Laboratory
 * rofessor of Industrial Engineering at Pusan National University
 
-<br>
+<br />
 Education
 ======
 * Ph.D in Statistics, Pennsylvania State University
 * M.S. in Mathematics, University of Texas at Austin
 * B.S. in Mechanical Engineering, Seoul National University
 
-<br>
+<br />
 Work Experience
 ======
 * 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr)
@@ -38,19 +38,21 @@ Work Experience
 
 * Assistant / Associate / [Tenure-granted Professor](https://drive.google.com/open?id=0B-GVxDJZNtwYUGg3ZjNGeHU5QTQ) of Mathematical and Statistical Sciences(https://www.clemson.edu/science/departments/math-stat/) at Clemson University (2001-2015)
 
-<br>
+<br />
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<br />
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+<br />
 Teaching
 ======
   <ul>{% for post in site.teaching %}

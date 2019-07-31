@@ -16,8 +16,6 @@ Current Position
 * rofessor of Industrial Engineering at Pusan National University 
 
 
-
-<p>
 Education
 ======
 * Ph.D in Statistics, Pennsylvania State University
@@ -25,16 +23,12 @@ Education
 * B.S. in Mechanical Engineering, Seoul National University 
 
 
-
 Work Experience
 ======
 * 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr) 
-
-<!--
   * Github University   
   * Duties included: Tagging issues   
   * Supervisor: Professor Git   
--->
 
 * 2015 - : [Full Professor](https://drive.google.com/file/d/0B-GVxDJZNtwYblN3NTFYakJHTXc/view) with tenure in [Department of Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr)
 

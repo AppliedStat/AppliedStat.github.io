@@ -1,20 +1,9 @@
 ---
 layout: archive
-title: "R"
+title: "R Packages"
 permalink: /R/
 author_profile: true
 ---
-
-
-
-Current Position
-======
-* Director of Applied Statistics Laboratory
-* Professor of Industrial Engineering at Pusan National University
-
-
-
-
 
 {% include base_path %}
 

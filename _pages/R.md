@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-{% include base_path %}
-
 
 Current Position
 ======
@@ -15,7 +13,9 @@ Current Position
 * rofessor of Industrial Engineering at Pusan National University
 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
+
+
+{% include base_path %}
+
+{% for post in site.R %}{% include archive-single.html %}{% endfor %}

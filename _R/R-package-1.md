@@ -15,6 +15,6 @@ For more details, see [Park (2017)](http://journals.sfu.ca/ijietap/index.php/iji
 ------
 
 > install.packages("weibullness") <br />
-> library(weibullness)  <br />
-> help(weibullness) 
+> library("weibullness")  <br />
+> help(package="weibullness") 
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Professor Chanseok Park"
+title                    : "Dr. Chanseok Park"
 title_separator          : "-"
 name                     : &name "Chanseok Park"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Park"
+  name             : "Chanseok PARK (박찬석)"
   avatar           : "profile.png"
   bio              : "I am Chanseok Park in Department of Industrial Engineering at Pusan National University."
   location         : "Busan, South Korea"

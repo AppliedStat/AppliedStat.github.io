@@ -11,13 +11,9 @@ For more details, see
 
 
 + [cran](https://cran.r-project.org/web/packages/weibullness/index.html)  |  [rdrr.io](https://rdrr.io/cran/weibullness/)  |  [github](https://github.com/appliedstat/R/tree/master/weibullness)
++ Usage
+  > install.packages("weibullness") <br />
+  > library("weibullness")  <br />
+  > help(package="weibullness")  <br />
 
-
-
-------
-### Usage
-> install.packages("weibullness") <br />
-> library("weibullness")  <br />
-> help(package="weibullness")  <br />
-------
 

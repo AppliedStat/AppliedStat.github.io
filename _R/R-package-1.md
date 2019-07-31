@@ -14,12 +14,12 @@ For more details, see
 + [rdrr.io](https://rdrr.io/cran/weibullness/) 
 + [github](https://github.com/appliedstat/R/tree/master/weibullness)
 
-<br />
 
 
 ------
 ### Usage
 > install.packages("weibullness") <br />
 > library("weibullness")  <br />
-> help(package="weibullness") 
+> help(package="weibullness")  <br />
 ------
+

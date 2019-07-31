@@ -13,16 +13,17 @@ redirect_from:
 Current Position
 ======
 * Director of Applied Statistics Laboratory
-* rofessor of Industrial Engineering at Pusan National University
+* rofessor of Industrial Engineering at Pusan National University <br />
 
-<br />
+
 Education
 ======
 * Ph.D in Statistics, Pennsylvania State University
 * M.S. in Mathematics, University of Texas at Austin
-* B.S. in Mechanical Engineering, Seoul National University
+* B.S. in Mechanical Engineering, Seoul National University <br />
 
-<br />
+
+
 Work Experience
 ======
 * 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr)

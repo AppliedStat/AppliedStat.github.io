@@ -1,7 +1,7 @@
 ---
 title: "weibullness"
 excerpt: "Goodness-of-Fit Test for Weibull (Weibullness Test) "
-collection: R
+collection: publications
 ---
 
 This R package performs a goodness-of-fit test of Weibull distribution (weibullness test). 

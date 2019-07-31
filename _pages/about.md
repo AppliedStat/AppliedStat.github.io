@@ -4,8 +4,6 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /index.htm
-  - /index.html
   - /about.html
 ---
 

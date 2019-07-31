@@ -10,21 +10,18 @@ redirect_from:
 
 
 Current Position
-======
+------
 * Director of Applied Statistics Laboratory
 * rofessor of Industrial Engineering at Pusan National University
 
-
 Education
-======
+------
 * Ph.D in Statistics, Pennsylvania State University
 * M.S. in Mathematics, University of Texas at Austin
 * B.S. in Mechanical Engineering, Seoul National University
 
-
-
 Work Experience
-======
+------
 * 2017 - 2019: Chair of [Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr)
 
 * 2015 - : [Full Professor](https://drive.google.com/file/d/0B-GVxDJZNtwYblN3NTFYakJHTXc/view) with tenure in [Department of Industrial Engineering](ie.pusan.ac.kr) at [Pusan National University](pusan.ac.kr)
@@ -35,7 +32,7 @@ Work Experience
 
 
 Biography
-======
+------
 Chanseok Park was born and reared in Cheong Ju City (淸州市), South Korea.
 
 After completing Yoido High School in Seoul, 

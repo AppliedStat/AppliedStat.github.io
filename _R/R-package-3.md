@@ -1,16 +1,17 @@
 ---
-title: "rt.test"
-excerpt: "Robustified t-test"
+title: "rQCC"
+excerpt: "Robust Quality Control Chart (under development)"
 collection: R
 ---
-This R package performs one-sample t-test based on robustified statistics using median/MAD 
-(TA) and Hodges-Lehmann/Shamos (TB). 
-For more details, see [Park and Wang (2018)](https://arxiv.org/abs/1807.02215). 
+This R package constructs robust quality control chart based 
+on the median and Hodges-Lehmann estimators (location) and 
+the MAD and Shamos estimators (scale) which are unbiased with a sample of finite size. 
 
 ### Links
- [cran](https://cran.r-project.org/web/packages/rt.test/) | [rdrr.io](https://rdrr.io/cran/rt.test/) | [github](https://github.com/AppliedStat/R/tree/master/rt.test) 
+ [github](https://github.com/AppliedStat/R/tree/master/rQCC) 
 
 ### Usage
-   > install.packages("rt.test") <br />
-   > library("rt.test")  <br />
-   > help(package="rt.test")  
+   > Download: [rQC_0.19.8.tar.gz](https://github.com/AppliedStat/R)
+   > Linux: sudo  R CMD INSTALL  rQC_0.19.8.tar.gz
+   > library("rQCC")  <br />
+   > help(package="rQCC")  

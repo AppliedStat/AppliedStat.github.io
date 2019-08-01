@@ -1,20 +1,40 @@
 ---
-title: "Teaching experience 1"
+title: "Engineering Statistics - II "
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course (IE-24211)"
 permalink: /teaching/2019-fall-teaching-1
-venue: "University 1, Department"
+venue: "PNU, Department of IE"
 date: 2019-08-01
-location: "City, Country"
+location: "Busan, Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Description
 ======
++ Engineering Statistics II (IE-24211) 
+  will focus on basic concepts and theories of statistics.  <br />
++ Topics covered in this class include point estimation, 
+  interval estimation, sampling, linear regression, and statistical hypothesis testing.
++ We will also study various statistical applications widely used for engineering. 
+  The popular 
+  [R statistical language](https://www.r-project.org/) 
+  or Rstudio will be handled in this class.
 
-Heading 2
-======
 
-Heading 3
+Objectives 
 ======
+Upon successful completion of this course, students will be able to:
+1. Understand basic concepts on statistics theories.
+1. Obtain point estimates.
+1. Obtain interval estimates.
+1. Understand basic sampling techniques.
+1. Obtain a simple linear regression estimate.
+1. Construct various statistical hypothesis testing.
+1. Learn how to program basic statistical programs using R language.
+
+Links
+======
++ Syllabus
++ [R Programs and supplemental notes](https://github.com/AppliedStat/course/tree/master/Statistics)
++ [R4pda](http://r4pda.co.kr/) (R written in Korean)
+
+

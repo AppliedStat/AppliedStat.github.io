@@ -1,19 +1,16 @@
 ---
-title: "Engineering Statistics - II "
+title: "Statistical Models and Analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course (IE-68722)"
 permalink: /teaching/2019-fall-teaching-2
 venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"
 ---
 
-This is an undergraduate course Engineering Statistics II
- which is sequel to Engineering Statistics I.
-
 Description
 ======
-+ Engineering Statistics II (IE-24211) 
++ XXXXXXXX  Engineering Statistics II (IE-24211) 
   will focus on basic concepts and theories of statistics.  <br />
 + Topics covered in this class include point estimation, 
   interval estimation, sampling, linear regression, and statistical hypothesis testing.

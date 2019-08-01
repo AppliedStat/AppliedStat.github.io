@@ -1,12 +1,15 @@
 ---
 title: "Statistical Models and Analysis"
 collection: teaching
-type: "Graduate course (IE-68722)"
+type: "Graduate course"
 permalink: /teaching/2019-fall-teaching-2
 venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"
 ---
+
+Statistical Models and Analysis (IE-68722) is a graduate course for Fall, 2019.
+
 
 Description
 ======

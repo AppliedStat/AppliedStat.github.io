@@ -1,7 +1,7 @@
 ---
 title: "Engineering Statistics - II "
 collection: teaching
-type: "IE-24211"
+type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
 venue: "PNU, Department of IE"
 date: 2019-08-01
@@ -39,3 +39,5 @@ Links
 + Syllabus
 + [R Programs and supplemental notes](https://github.com/AppliedStat/course/tree/master/Statistics)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
+
+

@@ -18,8 +18,8 @@ author_profile: true
 
 Full Publication list
 ======
-+ [Reviewed Publications](https://sites.google.com/view/appliedstat/publication)
-+ [Manuscripts](https://sites.google.com/view/appliedstat/manuscript) 
++ [Peer Reviewed Publications](https://sites.google.com/view/appliedstat/publication)
++ [Conference Papers and Manuscripts](https://sites.google.com/view/appliedstat/manuscript) 
 
 Patents
 ======

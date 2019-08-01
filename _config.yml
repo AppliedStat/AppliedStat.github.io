@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Professor of Department of Industrial Engineering at Pusan National University."
   location         : "Busan, Korea"
-  employer         : #"Pusan National University"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wn4mdy0AAAAJ&hl=en"
+  employer         : # "Pusan National University"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=wn4mdy0AAAAJ&hl"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Chanseok_Park"
   uri              :
@@ -100,7 +100,7 @@ author:
   google_plus      : "https://sites.google.com/view/appliedstat"
   keybase          :
   instagram        : "cspark727"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "charlestonpark"
   orcid            : "https://orcid.org/0000-0002-2208-3498"

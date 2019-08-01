@@ -2,7 +2,7 @@
 title: "Engineering Statistics - II "
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-fall-teaching-1
+permalink: /teaching/2019-fall-teaching-2
 venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"

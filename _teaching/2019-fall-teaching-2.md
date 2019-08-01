@@ -1,62 +1,42 @@
 ---
-title: "Statistical Models and Analysis"
+title: "Engineering Statistics - II "
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-2
 venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"
 ---
-Statistical Models and Analysis (IE-68722) is a graduate course for Fall, 2019.
+Engineering Statistics - II  is an undergraduate course for Fall, 2019.
+
 
 Description
 ======
-+ First, the course will review basic linear models in statistics 
-  including simple regression, multiple regression, regression 
-  with categorical variables and polynomials, etc.
-+ After studying basic linear regression models, 
-  we will focus on general F-test, basic model selection methods, 
-  and building appropriate models.
-+ Time permitting, we will also consider how to deal with outliers 
-  and influential observations. 
-+ The popular [R statistical language](https://www.r-project.org/), 
-  [Python3](https://www.python.org/), and Minitab will be handled in this class.
-+ We will also consider various practical applications widely used for engineering. 
++ Engineering Statistics II (IE-24211) 
+  will focus on basic concepts and theories of statistics.  <br />
++ Topics covered in this class include point estimation, 
+  interval estimation, sampling, linear regression, and statistical hypothesis testing.
++ We will also study various statistical applications widely used for engineering. 
+  The popular 
+  [R statistical language](https://www.r-project.org/) 
+  or Rstudio will be handled in this class.
 
 
 Objectives 
 ======
 Upon successful completion of this course, students will be able to:
-1. Program statistical softwares (Minitab and R). 
-1. Derive parameter estimates under the simple linear regression model. 
-1. Do basic statistical inference for the simple linear regression model. 
-1. Know how to use matrix algebra in regression models. 
-1. Extend the simple linear regression model to the
-      multiple linear regression model using the matrix algebra. 
-1. Set up polynomial regression models. 
-1. Analyze and infer the multiple linear regression model. 
-1. Understand how to diagnose the problems from regression models. 
-1. Know the general linear _F_-test. 
-1. Use categorical predictior variables in the regression model setup. 
-1. Use _all possible regression._ 
-1. Understand several  model selection procedures. 
-1. Build an appropriate model. 
-1. Detect outliers and influential observations. 
-
-
-Why regression?
-======
-+ [Key Types of Regressions: Which One to Use?](https://towardsdatascience.com/key-types-of-regressions-which-one-to-use-c1f25407a8a4)
-+ [What is “linear” regression model?](https://towardsdatascience.com/what-is-linear-regression-model-f24f1a24f9bb)
-+ [R Vs Python: What’s the Difference?](https://www.guru99.com/r-vs-python.html)
-+ [Why R for Data Science – and not  Python?](http://blog.ephorie.de/why-r-for-data-science-and-not-python)
-
+1. Understand basic concepts on statistics theories.
+1. Obtain point estimates.
+1. Obtain interval estimates.
+1. Understand basic sampling techniques.
+1. Obtain a simple linear regression estimate.
+1. Construct various statistical hypothesis testing.
+1. Learn how to program basic statistical programs using R language.
 
 Links
 ======
-+ Syllabus (not yet)
-+ [R Codes and Supplemental Notes](https://github.com/AppliedStat/LM/)
++ Syllabus
++ [R Programs and supplemental notes](https://github.com/AppliedStat/course/tree/master/Statistics)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
-+ [Minitab (trial SW)](http://www.minitab.com/en-us/products/minitab/free-trial/)
-+ [Minitab (manual)](https://www.minitab.com/uploadedFiles/Documents/getting-started/Minitab17_GettingStarted-en.pdf)
+
 

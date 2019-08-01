@@ -32,7 +32,7 @@ _IISE Transactions_,
 To Appear. 
 doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.1636428)
 
-1. Zhang, Y., Y. Ma, C. Park, J.-H. Byun (2019).a
+1. Zhang, Y., Y. Ma, C. Park, J.-H. Byun (2019). 
  A New Interpretation on Quality Loss for Evaluation Process Performance. 
 _Quality Engineering_, To Appear.
 
@@ -58,10 +58,17 @@ doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
 
 
+---
+
 Full Publication list
 ======
 + [Peer Reviewed Publications](https://sites.google.com/view/appliedstat/publication)
 + [Conference Papers and Manuscripts](https://sites.google.com/view/appliedstat/manuscript) 
+
+
+
+---
+
 
 Patents
 ======

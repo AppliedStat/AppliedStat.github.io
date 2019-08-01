@@ -60,7 +60,7 @@ doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
 ---
 
-Full Publication list
+Full Publication List
 ======
 + [Peer Reviewed Publications](https://sites.google.com/view/appliedstat/publication)
 + [Conference Papers and Manuscripts](https://sites.google.com/view/appliedstat/manuscript) 

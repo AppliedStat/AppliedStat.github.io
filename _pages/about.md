@@ -56,3 +56,7 @@ Before joining Pusan National University, he was a faculty member of Mathematica
 
 He has been on the editorial board of Journal of Probability and Statistics and International Journal of Quality Engineering and Technology. His research interests include engineering statistics, robust inference, reliability, competing risks model, statistical computing and simulation, acoustics, and solid mechanics.
 
+His real name in Korean is 박찬석 (朴燦奭). 
+His pen name (號) and courtesy name (字) are 亞ㅅ士 and 眞巖(참바우), respectively. 
+
+

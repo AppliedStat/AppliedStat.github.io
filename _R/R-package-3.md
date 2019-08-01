@@ -11,7 +11,7 @@ the MAD and Shamos estimators (scale) which are unbiased with a sample of finite
  [github](https://github.com/AppliedStat/R/tree/master/rQCC) 
 
 ### Usage
-   > Download: [rQC_0.19.8.tar.gz](https://github.com/AppliedStat/R)
-   > Linux: sudo  R CMD INSTALL  rQC_0.19.8.tar.gz
+   > Download: [rQC_0.19.8.tar.gz](https://github.com/AppliedStat/R) <br />
+   > Install (linux): $ sudo  R CMD INSTALL  rQC_0.19.8.tar.gz    <br />
    > library("rQCC")  <br />
    > help(package="rQCC")  

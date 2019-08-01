@@ -1,0 +1,23 @@
+# main links links
+main:
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "R"
+    url: /R/
+        
+  - title: "Teaching"
+    url: /teaching/    
+ 
+  - title: "Miscellaneous"
+    url: /misc/
+ 
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "Guide"
+    url: /markdown/

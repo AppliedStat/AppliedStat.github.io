@@ -10,3 +10,10 @@ author_profile: true
 {% for post in site.R %}
   {% include archive-single.html %}
 {% endfor %}
+
+<br />
+
+R Codes
+======
+Collection of R codes used in the published articles: 
+ [R Codes](https://github.com/AppliedStat/R-code). 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,17 +11,29 @@ author_profile: true
 
 {% include base_path %}
 
-Recent Publications
-======
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-
 
 [Full Publication list](https://sites.google.com/view/appliedstat/publication)
 ======
 
 
+
+
+Patents
+======
+
++ Chanseok Park, Myeong Hun Ko, Hyeon Ho Song, Joo Hyeong Lee, Jin Young Lim, Do Hee Kim, Ji Hyeon Park <br />
+  _Smart phone stand_
+  Publication date: 2018/11/21, 
+  Patent office: KR, 
+  Patent number: 30-0982614, 
+  Application number: 30-2018-000584
++ Park Chanseok, Byeon Mu Jeong, Kim Seung Su <br />
+  _Paper holder with pen_ 
+  Publication date: 2018-5-25, 
+  Patent office: Korea, 
+  Patent number: 30-0958616,
+  Application number: 30-2018-0005862
 

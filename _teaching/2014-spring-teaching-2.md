@@ -2,7 +2,7 @@
 title: "Engineering Statistics - II "
 collection: teaching
 type: "IE-24211"
-permalink: /teaching/
+permalink: /teaching/2019-fall-teaching-1
 venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"

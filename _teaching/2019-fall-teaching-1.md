@@ -7,7 +7,6 @@ venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"
 ---
-
 Engineering Statistics - II  is an undergraduate course for Fall, 2019.
 
 

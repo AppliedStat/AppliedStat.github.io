@@ -16,7 +16,6 @@ author_profile: true
 {% endfor %}
 
 
-
 Full Publication list
 ======
 + [Reviewed Publications](https://sites.google.com/view/appliedstat/publication)

@@ -3,8 +3,6 @@ title: "Experimental Design and Regression Analysis"
 excerpt: "Short description of portfolio item number"
 collection: teaching
 ---
-
-
 Experimental Design and Regression Analysis (IE-34243) 
 is an undergraduate course for Fall, 2019.
 

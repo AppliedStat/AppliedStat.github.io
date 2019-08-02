@@ -1,9 +1,9 @@
 ---
 title: "Engineering Statistics - II "
+excerpt: "Short description of portfolio item number"
 collection: teaching
 ---
 Engineering Statistics - II  is an undergraduate course for Fall, 2019.
-
 
 Description
 ======

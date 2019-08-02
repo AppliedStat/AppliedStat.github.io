@@ -1,5 +1,6 @@
 ---
 title: "Thesis Research"
+excerpt: "Short description of portfolio item number"
 collection: teaching
 ---
 Thesis Research (IE-62888 and IE-85641).

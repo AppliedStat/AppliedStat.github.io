@@ -1,5 +1,6 @@
 ---
 title: "Statistical Models and Analysis"
+excerpt: "Short description of portfolio item number"
 collection: teaching
 ---
 Statistical Models and Analysis (IE-68722) is a graduate course for Fall, 2019.

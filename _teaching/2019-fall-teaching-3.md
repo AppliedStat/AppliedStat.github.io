@@ -3,7 +3,6 @@ title: "Statistical Models and Analysis"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-fall-teaching-3
-venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"
 ---

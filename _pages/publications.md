@@ -51,7 +51,7 @@ Full Publication List
 + [Books and Book Chapters](/publications/pub-book)
 + [Peer-reviewed Journal Papers](/publications/pub-journal)
 + [Conference Papers and Manuscripts](/publications/pub-conf)
-+ [Patent](/publications/pub-patent)
++ [Patents](/publications/pub-patent)
 
 
 

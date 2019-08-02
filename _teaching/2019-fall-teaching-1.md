@@ -3,7 +3,6 @@ title: "Experimental Design and Regression Analysis"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
-venue: "PNU, Department of IE"
 date: 2019-08-01
 location: "Busan, Korea"
 ---

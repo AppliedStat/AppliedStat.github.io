@@ -3,7 +3,7 @@ title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
 <!-- YEAR 2019 -->
-1. Ouyang, L., C. Park, J.-H. Byun, and M. Leeds (2019). Robust Design in the Case of Data Contamination and Model Departure.
+19. Ouyang, L., C. Park, J.-H. Byun, and M. Leeds (2019). Robust Design in the Case of Data Contamination and Model Departure.
 _Statistical Quality Technologies: Theory and Practice (Springer ICSA Book Series in Statistics)_, To Appear.
 
 19. Park, C., S. Dey, L. Ouyang, J.-H. Byun, and M. Leeds (2019).
@@ -42,6 +42,15 @@ Ensemble RBF modeling technique for quality design.
 _Journal of Management Science and Engineering_, To Appear,
 doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
-18. TEST   
+19. TEST 19   
+
+18. TEST 18
+
+18. TEST 18 
+
+17. TEST 17 
+
+
+0. TEST 0 
 
 

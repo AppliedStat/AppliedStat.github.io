@@ -5,17 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 1. Ouyang, L., C. Park, J.-H. Byun, and M. Leeds (2019). Robust Design in the Case of Data Contamination and Model Departure. 
 _Statistical Quality Technologies: Theory and Practice (Springer ICSA Book Series in Statistics)_, To Appear.  
 
@@ -55,6 +44,21 @@ Ensemble RBF modeling technique for quality design.
 _Journal of Management Science and Engineering_, To Appear, 
 doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
+
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+---
+
+Full Publication List
+======
+{% for post in site.publications %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 ---

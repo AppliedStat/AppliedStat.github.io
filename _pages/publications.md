@@ -46,52 +46,30 @@ doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
----
-
-Full Publication List
+Full Publication List 
 ======
-{% for post in site.publications %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
-
-My md link test
-======
-+ [Peer Reviewed Publications](/publications/R-package-3.md)
++ [Books and Book Chapters](/publications/pub-book)
++ [Peer Reviewed Journals](/publications/pub-journal)
++ [Conference Papers and Manuscripts](/publications/pub-conf)
++ [Patent](/publications/pub-patent)
 
 
 ---
 
-Full Publication List
+Full Publication List (at google)
 ======
 + [Peer Reviewed Publications](https://sites.google.com/view/appliedstat/publication)
 + [Conference Papers and Manuscripts](https://sites.google.com/view/appliedstat/manuscript) 
 
 
 
+
+
+
+
 ---
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-
-Patents
-======
-+ Chanseok Park, Myeong Hun Ko, Hyeon Ho Song, Joo Hyeong Lee, Jin Young Lim, Do Hee Kim, Ji Hyeon Park <br />
-  _Smart phone stand_   <br />
-  Publication date: 2018/11/21, 
-  Patent office: KR, 
-  Patent number: 30-0982614, 
-  Application number: 30-2018-000584
-+ Chanseok Park, Mu Jeong Byeon, Seung Su Kim <br />
-  _Paper holder with pen_   <br />
-  Publication date: 2018-5-25, 
-  Patent office: Korea, 
-  Patent number: 30-0958616,
-  Application number: 30-2018-0005862
-
+{% include base_path %}

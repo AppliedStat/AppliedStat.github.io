@@ -45,15 +45,15 @@ doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
 18. Park, C. (2018). 
 A Note on the Existence of the Location Parameter Estimate of the Three-Parameter Weibull Model using the Weibull Plot. Mathematical Problems in Engineering, vol. 2018, Article ID 6056975. 
-doi:[10.1155/2018/6056975](https://doi.org/10.1016/ )
+doi:[10.1155/2018/6056975](https://doi.org/0.1155/2018/6056975)
 
 18. Park, C. (2018). A quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.  Journal of Algorithms & Computational Technology,  12(3), 253-272. 
-doi:[10.1177/1748301818779007](https://doi.org/10.1016/)
+doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)
 
 
 18. Park, J.P., C. Park, Y.J. Oh, J.H. Kim and C.B. Bahn (2018). 
 Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation Model for Alloy 182 Weld Considering Right-Censored Data and the Covariate Effect. Nuclear Engineering and Technology, 50(1), 107-115. 
-doi:[10.1016/j.net.2017.09.005](https://doi.org/10.1016/)
+doi:[10.1016/j.net.2017.09.005](10.1016/j.net.2017.09.005)
 
 
 17. Park, C. (2017). 
@@ -61,9 +61,12 @@ Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of 
 [ [Article](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://cran.r-project.org/web/packages/weibullness/index.html) ]
 
 17. Park, C., L. Ouyang, J.-H. Byun, and M. Leeds (2017). Robust Design Under Normal Model Departure. Computers and Industrial Engineering, 113, 206-220. 
-doi:[10.1016/j.cie.2017.09.010](https://doi.org/10.1016/)
+doi:[10.1016/j.cie.2017.09.010](https://doi.org/10.1016/j.cie.2017.09.010)
 
 
 17. Park, J.P., C. Park,  J. Cho, and C.B. Bahn (2017). Effects of Cracking Test Conditions on Estimation Uncertainty for Weibull Parameters Considering Time-Dependent Censoring Interval. Materials, 10 (1), 3. 
-doi:[10.3390/ma10010003](https://doi.org/10.1016/)
+doi:[10.3390/ma10010003](https://doi.org/10.3390/ma10010003)
+
+
+
 

@@ -51,12 +51,14 @@ doi:[10.1155/2018/6056975](https://doi.org/10.1016/ )
 doi:[10.1177/1748301818779007](https://doi.org/10.1016/)
 
 
-18. Park, J.P., C. Park, Y.J. Oh, J.H. Kim and C.B. Bahn (2018). Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation Model for Alloy 182 Weld Considering Right-Censored Data and the Covariate Effect. Nuclear Engineering and Technology, 50(1), 107-115. 
+18. Park, J.P., C. Park, Y.J. Oh, J.H. Kim and C.B. Bahn (2018). 
+Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation Model for Alloy 182 Weld Considering Right-Censored Data and the Covariate Effect. Nuclear Engineering and Technology, 50(1), 107-115. 
 doi:[10.1016/j.net.2017.09.005](https://doi.org/10.1016/)
 
 
-17. Park, C. (2017). Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of the three-parameter Weibull model using the sample correlation coefficient. International Journal of Industrial Engineering: Theory, Applications and Practice, 24(4), 376-391.  
-[ [Article](journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://cran.r-project.org/web/packages/weibullness/index.html) ]
+17. Park, C. (2017). 
+Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of the three-parameter Weibull model using the sample correlation coefficient. International Journal of Industrial Engineering: Theory, Applications and Practice, 24(4), 376-391.
+[ [Article](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://cran.r-project.org/web/packages/weibullness/index.html) ]
 
 17. Park, C., L. Ouyang, J.-H. Byun, and M. Leeds (2017). Robust Design Under Normal Model Departure. Computers and Industrial Engineering, 113, 206-220. 
 doi:[10.1016/j.cie.2017.09.010](https://doi.org/10.1016/)

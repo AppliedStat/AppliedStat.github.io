@@ -49,17 +49,10 @@ doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 Full Publication List 
 ======
 + [Books and Book Chapters](/publications/pub-book)
-+ [Peer Reviewed Journals](/publications/pub-journal)
++ [Peer-reviewed Journal Papers](/publications/pub-journal)
 + [Conference Papers and Manuscripts](/publications/pub-conf)
 + [Patent](/publications/pub-patent)
 
-
----
-
-Full Publication List (at google)
-======
-+ [Peer Reviewed Publications](https://sites.google.com/view/appliedstat/publication)
-+ [Conference Papers and Manuscripts](https://sites.google.com/view/appliedstat/manuscript) 
 
 
 

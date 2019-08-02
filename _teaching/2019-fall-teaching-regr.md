@@ -2,7 +2,13 @@
 title: "Statistical Models and Analysis"
 excerpt: "Short description of portfolio item number"
 collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/
+venue: "PNU, Department"
+date: 2019-01-01
+location: "Busan, Korea"
 ---
+
 Statistical Models and Analysis (IE-68722) is a graduate course for Fall, 2019.
 
 Description

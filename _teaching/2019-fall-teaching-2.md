@@ -1,10 +1,7 @@
 ---
 title: "Engineering Statistics - II "
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-2
-date: 2019-08-01
-location: "Busan, Korea"
 ---
 Engineering Statistics - II  is an undergraduate course for Fall, 2019.
 

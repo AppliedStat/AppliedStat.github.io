@@ -1,10 +1,7 @@
 ---
 title: "Statistical Models and Analysis"
 collection: teaching
-type: "Graduate course"
 permalink: /teaching/2019-fall-teaching-3
-date: 2019-08-01
-location: "Busan, Korea"
 ---
 Statistical Models and Analysis (IE-68722) is a graduate course for Fall, 2019.
 

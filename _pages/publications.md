@@ -61,6 +61,13 @@ Full Publication List
 {% endfor %}
 
 
+
+
+My md link test
+======
++ [Peer Reviewed Publications](/publications/R-package-3.md)
+
+
 ---
 
 Full Publication List

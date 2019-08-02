@@ -2,7 +2,6 @@
 title: "Experimental Design and Regression Analysis"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/
 venue: "PNU, Department"
 date: 2019-01-01
 location: "Busan, Korea"

@@ -2,7 +2,7 @@
 title: "Statistical Models and Analysis"
 collection: teaching
 type: "Graduate course"
-venue: "PNU, Department"
+venue: "IE-68722"
 date: 2019-09-01
 location: "Busan, Korea"
 ---

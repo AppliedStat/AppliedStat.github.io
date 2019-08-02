@@ -2,15 +2,16 @@
 title: "Thesis Research"
 collection: teaching
 type: "Thesis"
-venue: "PNU, Department"
+venue: "IE-62888,85641" 
 date: 2019-09-01
 location: "Busan, Korea"
 ---
+Graduate Thesis Research.
 
 
-Thesis Research (IE-62888 and IE-85641).
+
 IE-62888 is a research course for Master-level graduate and 
-IE-8564) is a research course for PhD-level graduate.
+IE-85641 is a research course for PhD-level graduate.
 
 
 Description

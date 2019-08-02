@@ -1,7 +1,6 @@
 ---
 title: "Engineering Statistics - II "
 collection: teaching
-permalink: /teaching/2019-fall-teaching-2
 ---
 Engineering Statistics - II  is an undergraduate course for Fall, 2019.
 

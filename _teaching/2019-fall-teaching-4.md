@@ -1,7 +1,6 @@
 ---
 title: "Thesis Research"
 collection: teaching
-permalink: /teaching/2019-fall-teaching-4
 ---
 Thesis Research (IE-62888 and IE-85641).
 IE-62888 is a research course for Master-level graduate and 

@@ -45,7 +45,7 @@ doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
 18. **Park, C**. (2018). 
 A Note on the Existence of the Location Parameter Estimate of the Three-Parameter Weibull Model using the Weibull Plot. Mathematical Problems in Engineering, vol. 2018, Article ID 6056975. 
-doi:[10.1155/2018/6056975](https://doi.org/0.1155/2018/6056975)
+doi:[10.1155/2018/6056975](https://doi.org/10.1155/2018/6056975)
 
 18. **Park, C**. (2018). A quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.  Journal of Algorithms & Computational Technology,  12(3), 253-272. 
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)

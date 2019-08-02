@@ -1,7 +1,11 @@
 ---
 title: "Experimental Design and Regression Analysis"
-excerpt: "Short description of portfolio item number"
 collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/
+venue: "PNU, Department"
+date: 2019-01-01
+location: "Busan, Korea"
 ---
 Experimental Design and Regression Analysis (IE-34243) 
 is an undergraduate course for Fall, 2019.

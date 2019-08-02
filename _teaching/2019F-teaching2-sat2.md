@@ -1,8 +1,13 @@
 ---
-title: "Engineering Statistics - II "
-excerpt: "Short description of portfolio item number"
+title: "Engineering Statistics - II"
+excerpt: "Engineering Statistics - II"
 collection: teaching
+type: "Undergraduate course"
+venue: "PNU, Department"
+date: 2019-01-01
+location: "Busan, Korea"
 ---
+
 Engineering Statistics - II  is an undergraduate course for Fall, 2019.
 
 Description

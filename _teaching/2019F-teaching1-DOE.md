@@ -1,5 +1,6 @@
 ---
 title: "Experimental Design and Regression Analysis"
+excerpt: "Experimental Design and Regression Analysis"
 collection: teaching
 type: "Undergraduate course"
 venue: "PNU, Department"

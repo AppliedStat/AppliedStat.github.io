@@ -1,10 +1,9 @@
 ---
 title: "Thesis Research"
-excerpt: "Graduate-level thesis"
 collection: teaching
 type: "Thesis"
 venue: "PNU, Department"
-date: 2019-01-01
+date: 2019-09-01
 location: "Busan, Korea"
 ---
 

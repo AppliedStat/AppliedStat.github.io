@@ -1,10 +1,9 @@
 ---
 title: "Experimental Design and Regression Analysis"
-excerpt: "Experimental Design and Regression Analysis"
 collection: teaching
 type: "Undergraduate course"
 venue: "PNU, Department"
-date: 2019-01-01
+date: 2019-09-01
 location: "Busan, Korea"
 ---
 Experimental Design and Regression Analysis (IE-34243) 

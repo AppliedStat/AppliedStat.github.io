@@ -1,10 +1,9 @@
 ---
 title: "Engineering Statistics - II"
-excerpt: "Engineering Statistics - II"
 collection: teaching
 type: "Undergraduate course"
 venue: "PNU, Department"
-date: 2019-01-01
+date: 2019-09-01
 location: "Busan, Korea"
 ---
 

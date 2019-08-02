@@ -16,8 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-1. Ouyang, L., C. Park, J.-H. Byun, and M. Leeds (2019).  
-Robust Design in the Case of Data Contamination and Model Departure. 
+1. Ouyang, L., C. Park, J.-H. Byun, and M. Leeds (2019). Robust Design in the Case of Data Contamination and Model Departure. 
 _Statistical Quality Technologies: Theory and Practice (Springer ICSA Book Series in Statistics)_, To Appear.  
 
 1. Park, C., S. Dey, L. Ouyang, J.-H. Byun, and M. Leeds (2019). 

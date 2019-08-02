@@ -4,8 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+{% include base_path %}
 
-<!--
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h1>2019 Fall Semester </h1>
 <UL>
@@ -13,7 +16,6 @@ author_profile: true
  <LI> <A href="/teaching/2019-fall-teaching-stat2">Engineering Statistics 2</A>
 </UL>
 
--->
 
 
 + [Books and Book Chapters](/teaching/2019-fall-teaching-DOE)
@@ -77,4 +79,3 @@ Special Topics in Quality Control (IE-85301)
 </UL>
 </font>
 
-{% include base_path %}

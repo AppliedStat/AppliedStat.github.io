@@ -134,7 +134,7 @@ International Journal of Information and Management Sciences,
 Parameter Estimation for the Reliability of Load-Sharing Systems.
 IIE Transactions,
 **42**, 753 - 765.
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2010) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2010)]
 doi:[10.1080/07408171003670991](https://doi.org/10.1080/07408171003670991)
 
 2010. Lio, Y.L. and **C. Park** (2010).
@@ -148,14 +148,14 @@ Statistical Hypothesis Testing for Dot-Matrix Type Products.
 International Journal of Quality Engineering and Technology,
 **1**, 27 - 39.
 doi:[10.1504/IJQET.2009.030499](https://doi.org/10.1504/IJQET.2009.030499)
-[ Corrections ]
+[[Corrections](https://drive.google.com/file/d/0B-GVxDJZNtwYakhWN0lySUFtWWc/view)]
 
 2008. Lio, Y.L. and **C. Park** (2008).
 A Bootstrap Control Chart for Birnbaum-Saunders Percentiles.
 Quality and Reliability Engineering International,
 **24**(5), 585 - 600.
 doi:[10.1002/qre.924](https://doi.org/10.1002/qre.924)
-[ Corrections ]
+[[Corrections](https://drive.google.com/file/d/0B-GVxDJZNtwYU19STV9UaDFnRVU/view)]
 
 2008. Park, J.S., W.J. Jang, S.B. Lee and **C. Park** (2008).
 Acquisition model for 3D shape measurement data.
@@ -185,6 +185,6 @@ in competing risks among several groups.
 Journal of Statistical Planning and Inference,
 **136**, 1718-1745.  
 doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2006) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006)]
 
 

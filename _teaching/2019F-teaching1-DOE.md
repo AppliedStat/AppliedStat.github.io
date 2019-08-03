@@ -7,10 +7,7 @@ date: 2019-09-01
 location: "Busan, Korea"
 ---
 
-
-
-
-Experimental Design and Regression Analysis (IE-34243) 
+Experimental Design and Regression Analysis 
 is an undergraduate course for Fall, 2019.
 
 

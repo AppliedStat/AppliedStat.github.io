@@ -7,7 +7,7 @@ date: 2019-09-01
 location: "Busan, Korea"
 ---
 
-Statistical Models and Analysis (IE-68722) is a graduate course for Fall, 2019.
+Statistical Models and Analysis is a graduate course for Fall, 2019.
 
 Description
 ======

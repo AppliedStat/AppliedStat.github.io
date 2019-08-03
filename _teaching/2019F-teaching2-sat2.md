@@ -7,8 +7,6 @@ date: 2019-09-01
 location: "Busan, Korea"
 ---
 
-
-
 Engineering Statistics - II  is an undergraduate course for Fall, 2019.
 
 Description

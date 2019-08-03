@@ -6,7 +6,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "R"
+  - title: "R packages"
     url: /R/
         
   - title: "Teaching"

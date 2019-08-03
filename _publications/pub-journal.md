@@ -225,7 +225,7 @@ Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorith
 IEEE Trans. on Reliability,
 **54**, 282 - 290.
 doi:[10.1109/TR.2005.846360](https://doi.org/10.1109/TR.2005.846360)
-[ R Code ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2005)]
 
 2005. **Park**, **C**. and W.J. Padgett (2005). 
 New Cumulative Damage Models for Failure Using Stochastic Processes as Initial Damage.
@@ -256,7 +256,7 @@ Parametric inference of incomplete data with competing risks among several group
 IEEE Trans. on Reliability,
 **53**, 11-21.
 doi:[10.1109/TR.2003.821946](https://doi.org/10.1109/TR.2003.821946)
-[ R Code ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2004)]
 
 2004. Basu, A., **C**. **Park**, B.G. Lindsay and H. Li (2004).
 Some Variants of Minimum Disparity Estimation. Computational Statistics and Data Analysis,

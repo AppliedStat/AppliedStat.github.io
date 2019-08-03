@@ -185,7 +185,40 @@ in competing risks among several groups.
 Journal of Statistical Planning and Inference,
 **136**, 1718-1745.  
 doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006)]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006c)]
+
+2006. Park, C. and  W.J. Padgett, (2006).
+A general class of cumulative damage models for materials failure.
+Journal of Statistical Planning and Inference, 136, 3783-3801.
+doi:[10.1016/j.jspi.2005.03.009](https://doi.org/10.1016/j.jspi.2005.03.009)
+
+2006. Park, C. and W.J. Padgett, (2006).
+Analysis of Strength Distributions of Multi-Modal Failures Using the EM Algorithm.
+ Journal of Statistical Computation and Simulation, 76, 619 - 636.
+doi:[10.1080/10629360500108970](https://doi.org/10.1080/10629360500108970)
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006b)]
+
+2006. Park, C. and W.J. Padgett (2006).
+Stochastic Degradation Models with Several Accelerating Variables.
+IEEE Trans. on Reliability, 55, 379 - 390.
+doi:[10.1109/TR.2006.874937](https://doi.org/10.1109/TR.2006.874937)
+
+2006. J.Y. Jeong, J.S. Park, S.J. Kim, S.Y. Lee, W.H. Lee, C. Park, J.P. Hong, and S.B. Lee (2006).
+An experimental study of automotive bushing for radial mode.
+Key Engineering Materials, 326-328, 1097 - 1100.
+doi:[10.4028/www.scientific.net/KEM.326-328.1097](https://doi.org/10.4028/www.scientific.net/KEM.326-328.1097)
+
+2006. Lee, S.B., H. Kim, S. Hur, W. D. Kim, C.S. Woo, and C. Park (2006).
+A Viscoelastic Model For An Automotive Transmission Rubber Mount.
+Key Engineering Materials, 306-308, 995 - 1000.
+doi:[10.4028/www.scientific.net/KEM.306-308.995](https://doi.org/10.4028/www.scientific.net/KEM.306-308.995)
+
+2006. Lee, S.B. and C. Park (2006).
+Development of robust design optimization using incomplete data.
+Computers & Industrial Engineering, 50, 345 - 356.
+doi:[10.1016/j.cie.2006.06.005](https://doi.org/10.1016/j.cie.2006.06.005)
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006a)]
+| Corrections]
 
 2005. **Park**, **C**. (2005). 
 Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorithm.

@@ -130,10 +130,11 @@ Minimum Disparity Inference based on Tangent Disparities.
 International Journal of Information and Management Sciences,
 **22**, 1 - 25.
 
-2010. **Park, **C. (2010).
+2010. **Park, C**. (2010).
 Parameter Estimation for the Reliability of Load-Sharing Systems.
 IIE Transactions,
 **42**, 753 - 765.
+[ R Code ]
 doi:[10.1080/07408171003670991](https://doi.org/10.1080/07408171003670991)
 
 2010. Lio, Y.L. and **C. Park** (2010).
@@ -142,5 +143,49 @@ Journal of Statistical Computation and Simulation,
 **80**, 287 - 299.
 doi:[10.1080/00949650802627402](https://doi.org/10.1080/00949650802627402)
 
+
+2009. **Park, C**. (2009).
+Statistical Hypothesis Testing for Dot-Matrix Type Products.
+International Journal of Quality Engineering and Technology,
+**1**, 27 - 39.
+doi:[10.1504/IJQET.2009.030499](https://doi.org/10.1504/IJQET.2009.030499)
+[ Corrections ]
+
+2009. Lio, Y.L. and **C. Park** (2008).
+A Bootstrap Control Chart for Birnbaum-Saunders Percentiles.
+Quality and Reliability Engineering International,
+**24**(5), 585 - 600.
+doi:[10.1002/qre.924](https://doi.org/10.1002/qre.924)
+[ Corrections ]
+
+2009. Park, J.S., W.J. Jang, S.B. Lee and **C. Park** (2008).
+Acquisition model for 3D shape measurement data.
+International Journal of Precision Engineering and Manufacturing,
+**9**(4), 16-21.
+
+2009. Lee, S.B., S.J. Lee, S.C. Jun, D.R. Song, J.Y. Jeong, **C. Park** and W.H. Lee (2008).
+An experimental study of nonlinear viscoelastic bushing model for torsional mode.
+Elastomer,
+**43**, 25-30.
+
+2009. Lee, S.B., **C. Park**, and B.R. Cho (2007).
+Development of a highly efficient and resistant robust design.
+International Journal of Production Research,
+**45**, 157-167.
+doi:[10.1080/00207540600649202](https://doi.org/10.1080/00207540600649202)
+
+2009. **Park, C**. and W.J. Padgett (2007).
+Cumulative damage models for failure with several accelerating variables.
+Quality Technology & Quantitative Management,
+**4**, 17 - 34.
+doi:[10.1080/16843703.2007.11673132](https://doi.org/10.1080/16843703.2007.11673132)
+
+2009. Tiwari, R., K.B. Kulasekera, and **C. Park** (2006).
+Nonparametric tests for cause specific hazard rates with censored data
+in competing risks among several groups.
+Journal of Statistical Planning and Inference,
+**136**, 1718-1745.  
+doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
+[ R Code ]
 
 

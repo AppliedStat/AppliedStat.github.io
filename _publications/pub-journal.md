@@ -296,3 +296,16 @@ doi:[10.1111/1467-9884.00325](https://doi.org/10.1111/1467-9884.00325)
 Tests of Hypotheses in Multiple Samples based on Penalized Disparities.
 Journal of the Korean Statistical Society,
 **30**, 347-366.
+
+1997. **Park**, **C**., I.R. Harris and A. Basu (1997). 
+Robust predictive distributions based on the penalized blended weight Hellinger distance.
+Communications in Statistics: Simulation and Computations,
+**26**, 21-33.
+doi:[10.1080/03610919708813365](https://doi.org/10.1080/03610919708813365)
+
+1995. **Park**, **C**., A. Basu, and S. Basu (1995).
+Robust Minimum Distance Inference based on Combined Distances.
+Communications in Statistics: Simulation and Computations,
+**24**, 653-673.
+doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)
+

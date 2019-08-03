@@ -217,8 +217,8 @@ doi:[10.4028/www.scientific.net/KEM.306-308.995](https://doi.org/10.4028/www.sci
 Development of robust design optimization using incomplete data.
 Computers & Industrial Engineering, 50, 345 - 356.
 doi:[10.1016/j.cie.2006.06.005](https://doi.org/10.1016/j.cie.2006.06.005)
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006a)]
-| Corrections]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006a)
+| [Correction](https://drive.google.com/file/d/0B-GVxDJZNtwYblVjTTZOYUNsZ0U/view)]
 
 2005. **Park**, **C**. (2005). 
 Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorithm.

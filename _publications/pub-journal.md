@@ -187,4 +187,79 @@ Journal of Statistical Planning and Inference,
 doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006)]
 
+2005. **Park**, **C**. (2005). 
+Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorithm.
+IEEE Trans. on Reliability,
+**54**, 282 - 290.
+doi:[10.1109/TR.2005.846360](https://doi.org/10.1016/10.1109/TR.2005.846360)
+[ R Code ]
 
+2005. **Park**, **C**. and W.J. Padgett (2005). 
+New Cumulative Damage Models for Failure Using Stochastic Processes as Initial Damage.
+IEEE Trans. on Reliability,
+**54**, 530 - 540.
+doi:[10.1109/TR.2005.853278](https://doi.org/10.1016/10.1109/TR.2005.853278)
+
+2005. **Park**, **C**. and W.J. Padgett (2005).
+Accelerated degradation models for failure based on geometric Brownian motion and gamma processes.
+Lifetime Data Analysis,
+**11**, 511 - 527.
+doi:[10.1007/s10985-005-5237-8](https://doi.org/10.1016/10.1007/s10985-005-5237-8)
+
+2005. Cho, B.R. and **C**. **Park** (2005).
+Robust design modeling and optimization with unbalanced data.
+Computers & Industrial Engineering,
+**48**, 173-180.
+doi:[10.1016/j.cie.2005.01.004](https://doi.org/10.1016/10.1016/j.cie.2005.01.004)
+
+2005. **Park**, **C**. and A. Basu (2004).
+Minimum Disparity Estimation: Asymptotic Normality and Breakdown Point Results.
+Bulletin of Informatics and Cybernetics,
+**36**, 19-33.
+Web: http://hdl.handle.net/2324/12576
+
+2005. **Park**, **C**. and K.B. Kulasekera (2004).
+Parametric inference of incomplete data with competing risks among several groups.
+IEEE Trans. on Reliability,
+**53**, 11-21.
+doi:[10.1109/TR.2003.821946](https://doi.org/10.1016/10.1109/TR.2003.821946)
+[ R Code ]
+
+2005. Basu, A., **C**. **Park**, B.G. Lindsay and H. Li (2004).
+Some Variants of Minimum Disparity Estimation. Computational Statistics and Data Analysis,
+**45**, 741-763.
+doi:[10.1016/S0167-9473(03)00098-7](https://doi.org/10.1016/S0167-9473(03)00098-7)
+
+2005. Kulasekera, K.B. and **C**. **Park** (2004).
+Robust nonparametric regression estimation. Journal of Statistical Theory and Applications,
+**3**, 125-133.
+
+2005. **Park**, **C**. and A. Basu (2003).
+The generalized Kullback-Leibler divergence and robust inference.
+Journal of Statistical Computation and Simulation,
+**73**, 311-332.
+doi:[10.1080/0094965021000033477](https://doi.org/10.1016/10.1080/0094965021000033477)
+
+2005. **Park**, **C**. and B.R. Cho. (2003).
+Development of Robust Design Under Contaminated and Non-Normal Data.
+Quality Engineering,
+**15**, 463-469.
+doi:[10.1081/QEN-120018045](https://doi.org/10.1016/10.1081/QEN-120018045)
+
+2005. **Park**, **C**., A. Basu, and B.G. Lindsay (2002).
+The Residual Adjustment Function and Weighted Likelihood:
+A Graphical Interpretation of Robustness of Minimum Disparity Estimators.
+Computational Statistics and Data Analysis,
+**39**, 21-33.
+doi:[10.1016/S0167-9473(01)00047-0](https://doi.org/10.1016/10.1016/S0167-9473(01)00047-0)
+
+2005. Basu, A., R. Surajit, **C**. **Park** and S. Basu (2002).
+Improved power in multinomial goodness-of-fit tests.
+Journal of the Royal Statistical Society, Series D (The Statistician),
+**51**, 381-393.
+doi:[10.1111/1467-9884.00325](https://doi.org/10.1016/10.1111/1467-9884.00325)
+
+2005. **Park**, **C**., A. Basu, and I.R. Harris (2001).
+Tests of Hypotheses in Multiple Samples based on Penalized Disparities.
+Journal of the Korean Statistical Society,
+**30**, 347-366.

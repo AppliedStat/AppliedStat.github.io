@@ -8,10 +8,10 @@ on the median and Hodges-Lehmann estimators (location) and
 the MAD and Shamos estimators (scale) which are unbiased with a sample of finite size. 
 
 ### Links
- [github](https://github.com/AppliedStat/R/tree/master/rQCC) 
+ [cran](https://cran.r-project.org/web/packages/rQCC/) | [rdrr.io](https://rdrr.io/cran/rQCC/) | [github](https://github.com/AppliedStat/R/tree/master/rQCC) 
+
 
 ### Usage
-   > Download: [rQC_0.19.8.tar.gz](https://github.com/AppliedStat/R) <br />
-   > Install (linux): $ sudo  R CMD INSTALL  rQC_0.19.8.tar.gz    <br />
+   > install.packages("rQCC")  <br />
    > library("rQCC")  <br />
    > help(package="rQCC")  

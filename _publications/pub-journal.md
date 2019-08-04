@@ -17,6 +17,7 @@ doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.163642
 2019. Zhang, Y., Y. Ma, **C. Park**, J.-H. Byun (2019).
  A New Interpretation on Quality Loss for Evaluation Process Performance.
 _Quality Engineering_, To Appear.
+doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
 2019.  Wang, D., C. Jiang, and **C. Park** (2019).
 Reliability Analysis of Load-Sharing Systems with Memory.

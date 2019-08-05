@@ -2,6 +2,10 @@
 title: "Conference Papers and Manuscripts"
 collection: publications
 ---
+1. **Park, C**., H. Kim, and M. Wang (2019).
+Finite-sample properties of robust location and scale estimators.
+[arXiv:1908.00462](https://arxiv.org/abs/1908.00462) [ [R package](https://CRAN.R-project.org/package=rQCC) ]
+
 1. **Park, C**. and M. Wang (2018).
 Empirical distributions of the robustified t-test statistics.
 [arXiv:1807.02215](https://arxiv.org/abs/1807.02215) [ [R package](https://CRAN.R-project.org/package=rt.test) ]

@@ -27,6 +27,6 @@ doi:[10.1002/9780470061572.eqr119](https://doi.org/10.1002/9780470061572.eqr119)
 
 1. Park, C. (1992). Mechanical Engineering Experiments I, Revised 2nd Ed.
 Published on Feb. 29, 1992. 
-[ [PDF Files](https://drive.google.com/drive/folders/1GkXKeBilok-eESEFW0E2_-lUoaIF53SF) ]
+[ [PDF Files](https://github.com/AppliedStat/files/tree/master/book1) ]
 
 

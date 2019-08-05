@@ -11,6 +11,6 @@ For more details, see [Park and Wang (2018)](https://arxiv.org/abs/1807.02215).
  [cran](https://cran.r-project.org/web/packages/rt.test/) | [rdrr.io](https://rdrr.io/cran/rt.test/) | [github](https://github.com/AppliedStat/R/tree/master/rt.test) 
 
 ### Usage
-> install.packages("rt.test") <br />
-> library("rt.test")  <br />
-> help(package="rt.test")  
+> install.packages(\"rt.test\") <br />
+> library(\"rt.test\")  <br />
+> help(package=\"rt.test\")  

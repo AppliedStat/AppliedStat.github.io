@@ -13,6 +13,6 @@ This work was partially supported by the National Research Foundation of Korea (
 
 
 ### Usage
-   > install.packages("rQCC")  <br />
-   > library("rQCC")  <br />
-   > help(package="rQCC")  
+   > install.packages('rQCC')  <br />
+   > library('rQCC')  <br />
+   > help(package='rQCC')  

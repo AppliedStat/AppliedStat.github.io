@@ -1,6 +1,6 @@
 ---
 title: "rQCC"
-excerpt: "Robust Quality Control Chart (under development)"
+excerpt: "Robust Quality Control Chart"
 collection: R
 ---
 This R package constructs robust quality control chart based on the median and Hodges-Lehmann

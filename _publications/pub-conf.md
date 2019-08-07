@@ -14,7 +14,7 @@ Empirical distributions of the robustified t-test statistics.
 Note on the robustification of the Student t-test statistic using the median and the median absolute deviation.
 [arXiv:1805.12256](https://arxiv.org/abs/1805.12256)
 
-1. Park J.P., **C. Park**, and [C. B. Bahn](https://corrosion.pusan.ac.kr/mins/index.do) (2018).
+1. Park, J.P., **C. Park**, and [C. B. Bahn](https://corrosion.pusan.ac.kr/mins/index.do) (2018).
 A Statistical Analysis on Modeling Uncertainty Through Crack Initiation Tests.  In Jackson J., Paraventi D., Wright M. (eds) Proceedings of the 18th International Conference on Environmental Degradation of Materials in Nuclear Power Systems – Water Reactors. The Minerals, Metals & Materials Series. Springer, Cham.
 doi:[10.1007/978-3-319-68454-3_59](https://doi.org/10.1007/978-3-319-68454-3_59)
 

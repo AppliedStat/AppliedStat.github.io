@@ -4,6 +4,9 @@ title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Park, C**., H. Kim, and M. Wang (2019).
+Finite-sample properties of robust location and scale estimators.
+[arXiv:1908.00462](https://arxiv.org/abs/1908.00462) [ [R package](https://CRAN.R-project.org/package=rQCC) ]
 
 1. Ouyang, L., **C. Park**, J.-H. Byun, and M. Leeds (2019). 
 Robust Design in the Case of Data Contamination and Model Departure. 

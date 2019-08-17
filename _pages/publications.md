@@ -8,9 +8,11 @@ author_profile: true
 Finite-sample properties of robust location and scale estimators.
 [arXiv:1908.00462](https://arxiv.org/abs/1908.00462) [ [R package](https://CRAN.R-project.org/package=rQCC) ]
 
-1. Ouyang, L., **C. Park**, J.-H. Byun, and M. Leeds (2019). 
-Robust Design in the Case of Data Contamination and Model Departure. 
-_Statistical Quality Technologies: Theory and Practice (Springer ICSA Book Series in Statistics)_, To Appear.  
+1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019).
+Robust Design in the Case of Data Contamination and Model Departure.
+Statistical Quality Technologies: Theory and Practice
+(Springer ICSA Book Series in Statistics), 347-373.
+doi:[10.1007/978-3-030-20709-0_15](https://doi.org/10.1007/978-3-030-20709-0_15).
 
 1. **Park, C.**, S. Dey, L. Ouyang, J.-H. Byun, and M. Leeds (2019). 
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk. 

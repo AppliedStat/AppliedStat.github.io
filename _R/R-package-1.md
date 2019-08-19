@@ -6,7 +6,10 @@ collection: R
 This R package performs a <i>goodness-of-fit test of Weibull distribution</i> 
 (weibullness test). 
 For more details, see 
-[Park (2017)](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848). 
+[Park (2017)](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848)
+and
+[Park (2018)](https://doi.org/10.1155/2018/6056975).
+ 
 
 ### Links
 [cran](https://cran.r-project.org/web/packages/weibullness/) | [rdrr.io](https://rdrr.io/cran/weibullness/) | [github](https://github.com/appliedstat/R/tree/master/weibullness) 

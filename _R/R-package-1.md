@@ -3,8 +3,10 @@ title: "weibullness"
 excerpt: "Goodness-of-Fit Test for Weibull (Weibullness Test)"
 collection: R
 ---
-This R package performs a <i>goodness-of-fit test of Weibull distribution</i> 
-(weibullness test). 
+This R package performs a <i>goodness-of-fit test of Weibull distribution</i>
+(weibullness test) and
+provides the maximum likelihood estimates of the three-parameter Weibull distribution.
+Note that the threshold parameter is estimated based on the correlation from the Weibull plot.
 For more details, see 
 [Park (2017)](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848)
 and

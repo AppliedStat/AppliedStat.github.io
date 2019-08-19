@@ -8,8 +8,8 @@ location: "Busan, Korea"
 ---
 Graduate-level Research for Thesis.
 
-IE-62888 is a research course for Master-level graduate and 
-IE-85641 is a research course for PhD-level graduate.
+IE-62888 is a research course for Master/PhD-level graduate and 
+IE-85641 is a research course for Master-level graduate for Industrial Graduate College.
 
 
 Description

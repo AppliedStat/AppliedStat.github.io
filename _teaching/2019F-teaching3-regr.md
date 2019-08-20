@@ -55,7 +55,8 @@ Why regression?
 Links
 ======
 + Syllabus (not yet)
-+ [R Codes and Supplemental Notes](https://github.com/AppliedStat/LM/)
++ [Class Notes](https://github.com/AppliedStat/LM/tree/master/Notes)
++ [R Codes](https://github.com/AppliedStat/LM/)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
 + [Minitab (trial SW)](http://www.minitab.com/en-us/products/minitab/free-trial/)
 + [Minitab (manual)](https://www.minitab.com/uploadedFiles/Documents/getting-started/Minitab17_GettingStarted-en.pdf)

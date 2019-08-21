@@ -37,7 +37,7 @@ Upon successful completion of this course, students will be able to:
 1. Analyze and infer the multiple linear regression model. 
 1. Understand how to diagnose the problems from regression models. 
 1. Know the general linear _F_-test. 
-1. Use categorical predictior variables in the regression model setup. 
+1. Use categorical predictor variables in the regression model setup. 
 1. Use _all possible regression._ 
 1. Understand several  model selection procedures. 
 1. Build an appropriate model. 

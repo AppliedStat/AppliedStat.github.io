@@ -54,7 +54,7 @@ Why regression?
 
 Links
 ======
-+ Syllabus (not yet)
++ [Syllabus](http://academicpages.github.io/files/syl-IE-68722-2019.pdf)
 + [Class Notes](https://github.com/AppliedStat/LM/tree/master/Notes)
 + [R Codes](https://github.com/AppliedStat/LM/)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)

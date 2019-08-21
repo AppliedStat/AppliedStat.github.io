@@ -34,7 +34,9 @@ Upon successful completion of this course, students will be able to:
 
 Links
 ======
-+ [Syllabus](http://academicpages.github.io/files/syl-IE-24211-2019.pdf)
++ [Syllabus](http://academicpages.github.io/files/syllabus/syl-IE-24211-2019.pdf)
++ [Syllabus](/files/syllabus/syl-IE-24211-2019.pdf)
++ [Syllabus](files/syllabus/syl-IE-24211-2019.pdf)
 + [R Programs and supplemental notes](https://github.com/AppliedStat/course/tree/master/Statistics)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
 

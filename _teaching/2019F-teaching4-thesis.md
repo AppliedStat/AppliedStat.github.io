@@ -11,16 +11,14 @@ Graduate-level Research for Thesis.
 IE-62888 is a research course for Master/PhD-level graduate and 
 IE-85641 is a research course for Master-level graduate for Industrial Graduate College.
 
-
 Description
 ======
-+ TBA 
-+ TBA
-
++ The purpose of this course is to complete a capstone-type project
+and learn how to write his or her own thesis.
++ The student who takes this course should defend his or her thesis eventually.
 
 Objectives 
 ======
-Upon successful completion of this course, students will be able to:
-1. TBA 
-
+Upon successful completion of this course, students will be able to
+carry out their own research and write reports including journal publications.
 

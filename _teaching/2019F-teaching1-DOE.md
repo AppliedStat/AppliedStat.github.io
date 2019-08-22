@@ -35,7 +35,7 @@ Upon successful completion of this course, students will be able to:
 Links
 ======
 + [Syllabus](/files/syllabus/syl-IE-34243-2019.pdf)
-+ [Class Notes](R Codes](https://github.com/AppliedStat/course/tree/master/DOE/Notes)
++ [Class Notes](https://github.com/AppliedStat/course/tree/master/DOE/Notes)
 + [R Codes](https://github.com/AppliedStat/course/tree/master/DOE/R)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
 

@@ -20,14 +20,17 @@ Description
 Objectives 
 ======
 Upon successful completion of this course, students will be able to:
-1. Understand basics on ANOVA (analysis of variance).
-1. Understand the randomized complete block design.
-1. Understand and design factorial experiments. 
-1. Obtain a simple linear regression estimate.
-1. Do basic statistical inference for the simple linear regression model.
+1. Understand the simple linear regression model.                          
+1. Estimate the parameters under the linear regression model.
+1. Perform basic statistical inference for the linear regression model. 
+1. Know how to use matrix algebra in regression models.
 1. Analyze and infer the multiple linear regression model.
 1. Use categorical predictor variables in the regression model setup.
-1. Learn how to program basic statistical programs using R language.
+1. Understand the connection between regression and experimental design.
+1. Understand basics on ANOVA (analysis of variance).
+1. Understand the randomized complete block design.
+1. Understand and design factorial experiments.
+1. Program statistical softwares (Minitab and R).
 
 Links
 ======

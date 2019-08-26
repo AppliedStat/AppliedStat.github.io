@@ -27,7 +27,7 @@ To Appear.
 doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.1636428)
 
 1. Zhang, Y., Y. Ma, **C. Park**, J.-H. Byun (2019). 
- A New Interpretation on Quality Loss for Evaluation Process Performance. 
+ Integration of the variance of quadratic loss for evaluating process performance. 
 _Quality Engineering_, To Appear.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 

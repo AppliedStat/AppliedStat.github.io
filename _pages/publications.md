@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: "Recent Publications"
+title: "Publication List"
 permalink: /publications/
 author_profile: true
 ---
++ [Books and Book Chapters](/publications/pub-book)
++ [Peer-reviewed Journal Papers](/publications/pub-journal)
++ [Conference Papers and Manuscripts](/publications/pub-conf)
++ [Patents](/publications/pub-patent)
+
+
+Recent Publications
+======
 1. **Park, C**., H. Kim, and M. Wang (2019).
 Finite-sample properties of robust location and scale estimators.
 [arXiv:1908.00462](https://arxiv.org/abs/1908.00462) [ [R package](https://CRAN.R-project.org/package=rQCC) ]
@@ -50,17 +58,6 @@ doi:[10.1080/0305215X.2018.1472251](https://doi.org/10.1080/0305215X.2018.147225
 Ensemble RBF modeling technique for quality design. 
 _Journal of Management Science and Engineering_, To Appear, 
 doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
-
-
-
-Full Publication List 
-======
-+ [Books and Book Chapters](/publications/pub-book)
-+ [Peer-reviewed Journal Papers](/publications/pub-journal)
-+ [Conference Papers and Manuscripts](/publications/pub-conf)
-+ [Patents](/publications/pub-patent)
-
-
 
 
 

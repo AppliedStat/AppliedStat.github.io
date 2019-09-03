@@ -10,11 +10,13 @@ Note that the threshold parameter is estimated based on the correlation from the
 For more details, see 
 [Park (2017)](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848)
 and
-[Park (2018)](https://doi.org/10.1155/2018/6056975).
+[Park (2018)](https://doi.org/10.1155/2018/6056975). 
  
 
 ### Links
 [cran](https://cran.r-project.org/web/packages/weibullness/) | [rdrr.io](https://rdrr.io/cran/weibullness/) | [github](https://github.com/appliedstat/R/tree/master/weibullness) 
+<br/>
+[![](https://cranlogs.r-pkg.org/badges/grand-total/weibullness)](https://cran.rstudio.com/web/packages/weibullness/index.html)
 
 ### Usage
 > install.packages(\"weibullness\") <br />

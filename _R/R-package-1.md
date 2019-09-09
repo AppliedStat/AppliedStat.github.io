@@ -3,7 +3,6 @@ title: "weibullness"
 excerpt: "Goodness-of-Fit Test for Weibull and Three-parameter Weibull"
 collection: R
 ---
-[![](https://cranlogs.r-pkg.org/badges/grand-total/weibullness)](https://cran.r-project.org/web/packages/weibullness/) <br/>
 This R package performs a <i>goodness-of-fit test of Weibull distribution</i>
 (weibullness test) and
 provides the maximum likelihood estimates of the three-parameter Weibull distribution.
@@ -17,13 +16,9 @@ and
 [cran](https://cran.r-project.org/web/packages/weibullness/) | [rdrr.io](https://rdrr.io/cran/weibullness/) | [github](https://github.com/appliedstat/R/tree/master/weibullness) 
 
 
-[Click me](http://www.google.com){: .btn}
-
-[button url="http://www.google.com"]
-
-<button name="button">Click me</button>
-
-<button name="button" onclick="http://www.google.com">Click me</button>
+[![rdrr](https://img.shields.io/badge/%20-rdrr.io-yellowgreen.svg)](https://rdrr.io/cran/weibullness/)
+[![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/weibullness)
+[![cran](https://cranlogs.r-pkg.org/badges/grand-total/weibullness)](https://cran.r-project.org/web/packages/weibullness/) 
 
 ### Usage
 > install.packages(\"weibullness\") <br />

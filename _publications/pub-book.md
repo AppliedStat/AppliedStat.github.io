@@ -27,13 +27,13 @@ doi:[10.1002/9780470061572.eqr119](https://doi.org/10.1002/9780470061572.eqr119)
 Basic numerical analysis technique.
 (In _Statistical Computing: Existing Methods and Recent Developments_).
 Alpha Science International. ISBN: 978-1842652022.
-[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-22) ]
+[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-2) ]
 
 1. Basu, A. and **C**. **Park** (2004).
 Nonparametric smoothing.
 (In _Statistical Computing: Existing Methods and Recent Developments_).
 Alpha Science International. ISBN: 978-1842652022.
-[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-22) ]
+[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-2) ]
 
 1. **Park**, **C**. (1992).
 Mechanical Engineering Experiments I, Revised 2nd Ed.

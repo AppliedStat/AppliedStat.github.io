@@ -3,7 +3,7 @@ title: "rt.test"
 excerpt: "Robustified t-test"
 collection: R
 ---
-[![](https://cranlogs.r-pkg.org/badges/grand-total/rt.test)](https://cran.r-project.org/web/packages/rt.test/)
+[![](https://cranlogs.r-pkg.org/badges/grand-total/rt.test)](https://cran.r-project.org/web/packages/rt.test/) <br/>
 This R package performs one-sample t-test based on robustified statistics using median/MAD 
 (TA) and Hodges-Lehmann/Shamos (TB). 
 For more details, see [Park and Wang (2018)](https://arxiv.org/abs/1807.02215). 

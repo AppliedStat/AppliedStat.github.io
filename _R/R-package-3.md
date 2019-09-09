@@ -3,7 +3,7 @@ title: "rQCC"
 excerpt: "Robust Quality Control Chart"
 collection: R
 ---
-[![](https://cranlogs.r-pkg.org/badges/grand-total/rQCC)](https://cran.r-project.org/web/packages/rQCC/)
+[![](https://cranlogs.r-pkg.org/badges/grand-total/rQCC)](https://cran.r-project.org/web/packages/rQCC/) <br/>
 This R package constructs robust quality control chart based on the median and Hodges-Lehmann
 estimators (location) and the median absolute deviation (MAD) and Shamos estimators (scale)
 which are unbiased with a sample of finite size.

@@ -16,11 +16,14 @@ and
 ### Links
 [cran](https://cran.r-project.org/web/packages/weibullness/) | [rdrr.io](https://rdrr.io/cran/weibullness/) | [github](https://github.com/appliedstat/R/tree/master/weibullness) 
 
-{% include button.html url="http://www.google.com" %}
 
 [Click me](http://www.google.com){: .btn}
 
+[button url="http://www.google.com"]
+
 <button name="button">Click me</button>
+
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 ### Usage
 > install.packages(\"weibullness\") <br />

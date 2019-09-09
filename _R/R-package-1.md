@@ -1,5 +1,5 @@
 ---
-title: "weibullness"
+title: "weibullness" [![](https://cranlogs.r-pkg.org/badges/grand-total/weibullness)](https://cran.r-project.org/web/packages/weibullness/)
 excerpt: "Goodness-of-Fit Test for Weibull and Three-parameter Weibull"
 collection: R
 ---

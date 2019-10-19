@@ -1,8 +1,21 @@
 ---
+layout: archive
 title: "Sound wins over noise (Chanseok Park)"
-permalink: /
-excerpt: "About me"
+permalink: /cv/
 author_profile: true
-redirect_from:
-  - /cv/
 ---
+
+
+
+{% include base_path %}
+
+{% for post in site.misc %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+<HTML>
+  <head> 
+    <meta http-equiv="Refresh" content="0; url=https://appliedstat.github.io" />
+  </head>
+</html>

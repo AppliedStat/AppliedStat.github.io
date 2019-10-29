@@ -56,7 +56,7 @@ doi:[10.1080/0305215X.2018.1472251](https://doi.org/10.1080/0305215X.2018.147225
 
 1. Ouyang, L., L. Wan, **C. Park**, J. Wang, and Y. Ma (2019). 
 Ensemble RBF modeling technique for quality design. 
-_Journal of Management Science and Engineering_, To Appear, 
+_Journal of Management Science and Engineering_, **4**(2), 105-118. 
 doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
 

@@ -9,9 +9,9 @@ which are unbiased with a sample of finite size.
 This work was partially supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (No. NRF-2017R1A2B4004169).
 
 ### Links
+[![cran](https://cranlogs.r-pkg.org/badges/grand-total/rQCC)](https://cran.r-project.org/web/packages/rQCC/) 
 [![rdrr](https://img.shields.io/badge/%20-rdrr.io-yellowgreen.svg)](https://rdrr.io/cran/rQCC/)
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/rQCC)
-[![cran](https://cranlogs.r-pkg.org/badges/grand-total/rQCC)](https://cran.r-project.org/web/packages/rQCC/) 
 
 ### Usage
 > install.packages(\"rQCC\")  <br />

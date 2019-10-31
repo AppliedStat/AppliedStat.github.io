@@ -13,9 +13,9 @@ and
 [Park (2018)](https://doi.org/10.1155/2018/6056975). 
  
 ### Links
+[![cran](https://cranlogs.r-pkg.org/badges/grand-total/weibullness)](https://cran.r-project.org/web/packages/weibullness/) 
 [![rdrr](https://img.shields.io/badge/%20-rdrr.io-yellowgreen.svg)](https://rdrr.io/cran/weibullness/)
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/weibullness)
-[![cran](https://cranlogs.r-pkg.org/badges/grand-total/weibullness)](https://cran.r-project.org/web/packages/weibullness/) 
 
 ### Usage
 > install.packages(\"weibullness\") <br />

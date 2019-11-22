@@ -17,7 +17,7 @@ Investigation of Fnite-Sample Properties of Robust Location and Scale Estimators
 _Communications in Statistics - Simulation and Computation_, To Appear. 
 [ [R package](https://CRAN.R-project.org/package=rQCC) ]
 
-1. **Park, C.**, S. Dey, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and M. Leeds (2019). 
+1. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and M. Leeds (2019). 
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk. 
 _Communications in Statistics - Simulation and Computation_, To Appear. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)

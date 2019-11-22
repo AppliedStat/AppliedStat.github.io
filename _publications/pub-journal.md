@@ -99,7 +99,7 @@ Journal of Statistical Distributions and Applications,
 **2**(14), 1-11.
 doi:[10.1186/s40488-015-0038-4](https://doi.org/10.1186/s40488-015-0038-4)
 
-2015. Dey, S., S. Ali and **C. Park** (2015).
+2015. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), S. Ali and **C. Park** (2015).
 Weighted Exponential Distribution:
 Properties and Different Methods of Estimation.
 Journal of Statistical Computation and Simulation,

@@ -12,20 +12,14 @@ author_profile: true
 
 Recent Publications
 ------
-1. **Park, C**., H. Kim, and M. Wang (2019).
-Finite-sample properties of robust location and scale estimators.
-[arXiv:1908.00462](https://arxiv.org/abs/1908.00462) [ [R package](https://CRAN.R-project.org/package=rQCC) ]
+1. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
+Investigation of Fnite-Sample Properties of Robust Location and Scale Estimators.
+_Communications in Statistics - Simulation and Computation_, To Appear. 
+[ [R package](https://CRAN.R-project.org/package=rQCC) ]
 
-1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019).
-Robust Design in the Case of Data Contamination and Model Departure.
-Statistical Quality Technologies: Theory and Practice
-(Springer ICSA Book Series in Statistics), 347-373.
-doi:[10.1007/978-3-030-20709-0_15](https://doi.org/10.1007/978-3-030-20709-0_15).
-
-1. **Park, C.**, S. Dey, L. Ouyang, J.-H. Byun, and M. Leeds (2019). 
+1. **Park, C.**, S. Dey, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and M. Leeds (2019). 
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk. 
-_Communications in Statistics - Simulation and Computation_, 
-To Appear. 
+_Communications in Statistics - Simulation and Computation_, To Appear. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
 1. Ouyang, L., J. Chen, Y. Ma, **C. Park**, and J. Jin (2019). 
@@ -39,7 +33,13 @@ doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.163642
 _Quality Engineering_, To Appear.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
-1.  Wang, D., C. Jiang, and **C. Park** (2019). 
+1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019).
+Robust Design in the Case of Data Contamination and Model Departure.
+Statistical Quality Technologies: Theory and Practice
+(Springer ICSA Book Series in Statistics), 347-373.
+doi:[10.1007/978-3-030-20709-0_15](https://doi.org/10.1007/978-3-030-20709-0_15).
+
+1. [Wang, D.](http://people.stat.sc.edu/wang528/), C. Jiang, and **C. Park** (2019). 
 Reliability Analysis of Load-Sharing Systems with Memory. 
 _Lifetime Data Analysis_,  **25**(2), 341-360. 
 doi:[10.1007/s10985-018-9425-8](https://doi.org/10.1007/s10985-018-9425-8)

@@ -2,13 +2,18 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2019. **Park, C**., S. Dey, L. Ouyang, J.-H. Byun, and M. Leeds (2019).
+2020. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
+Investigation of Fnite-Sample Properties of Robust Location and Scale Estimators.
+_Communications in Statistics - Simulation and Computation_, To Appear. 
+[ [R package](https://CRAN.R-project.org/package=rQCC) ]
+
+2019. **Park, C**., [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), L. Ouyang, J.-H. Byun, and M. Leeds (2019).
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_,
 To Appear.
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
-2019. Ouyang, L., J. Chen, Y. Ma, **C. Park**, and J. Jin (2019).
+2019. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J. Chen, Y. Ma, **C. Park**, and J. Jin (2019).
 Bayesian Closed-loop Robust Process Design Considering Model Uncertainty and Data Quality.
 _IISE Transactions_,
 To Appear.
@@ -19,7 +24,7 @@ doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.163642
 _Quality Engineering_, To Appear.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
-2019.  Wang, D., C. Jiang, and **C. Park** (2019).
+2019. [Wang, D.](http://people.stat.sc.edu/wang528/), C. Jiang, and **C. Park** (2019). 
 Reliability Analysis of Load-Sharing Systems with Memory.
 _Lifetime Data Analysis_,  **25**(2), 341-360.
 doi:[10.1007/s10985-018-9425-8](https://doi.org/10.1007/s10985-018-9425-8)
@@ -70,7 +75,7 @@ Effects of Cracking Test Conditions on Estimation Uncertainty for Weibull Parame
 **10**(1), 3. 
 doi:[10.3390/ma10010003](https://doi.org/10.3390/ma10010003)
 
-2016. Dey, S.,  D. Kumar and **C. Park** (2016).
+2016. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), D. Kumar and **C. Park** (2016).
 Transmuted Gamma-Mixed Rayleigh Distribution: properties and estimation with bladder cancer data example.
 Model Assisted Statistics and Applications,
 **11**(4), 293-313.
@@ -126,7 +131,7 @@ Journal of Applied Statistics,
 **40**, 2259-2274.
 doi:[10.1080/02664763.2013.809570](https://doi.org/10.1080/02664763.2013.809570)
 
-2011. **Park, C**. and A. Basu (2011).
+2011. **Park, C**. and [A. Basu](https://www.isical.ac.in/~ayanbasu/) (2011).
 Minimum Disparity Inference based on Tangent Disparities.
 International Journal of Information and Management Sciences,
 **22**, 1 - 25.
@@ -138,7 +143,7 @@ IIE Transactions,
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2010)]
 doi:[10.1080/07408171003670991](https://doi.org/10.1080/07408171003670991)
 
-2010. Lio, Y.L. and **C. Park** (2010).
+2010. [Lio, Y.L.](https://www.usd.edu/faculty-and-staff/Yuhlong-Lio) and **C. Park** (2010).
 A Bootstrap Control Chart for Inverse Gaussian Percentiles.
 Journal of Statistical Computation and Simulation,
 **80**, 287 - 299.
@@ -151,7 +156,7 @@ International Journal of Quality Engineering and Technology,
 doi:[10.1504/IJQET.2009.030499](https://doi.org/10.1504/IJQET.2009.030499)
 [[Corrections](https://drive.google.com/file/d/0B-GVxDJZNtwYakhWN0lySUFtWWc/view)]
 
-2008. Lio, Y.L. and **C. Park** (2008).
+2008. [Lio, Y.L.](https://www.usd.edu/faculty-and-staff/Yuhlong-Lio) and **C. Park** (2008).
 A Bootstrap Control Chart for Birnbaum-Saunders Percentiles.
 Quality and Reliability Engineering International,
 **24**(5), 585 - 600.
@@ -174,7 +179,7 @@ International Journal of Production Research,
 **45**, 157-167.
 doi:[10.1080/00207540600649202](https://doi.org/10.1080/00207540600649202)
 
-2007. **Park, C**. and W.J. Padgett (2007).
+2007. **Park, C**. and [W.J. Padgett](http://people.stat.sc.edu/padgett/) (2007).
 Cumulative damage models for failure with several accelerating variables.
 Quality Technology & Quantitative Management,
 **4**, 17 - 34.
@@ -246,7 +251,7 @@ Computers & Industrial Engineering,
 **48**, 173-180.
 doi:[10.1016/j.cie.2005.01.004](https://doi.org/10.1016/j.cie.2005.01.004)
 
-2004. **Park**, **C**. and A. Basu (2004).
+2004. **Park**, **C**. and [A. Basu](https://www.isical.ac.in/~ayanbasu/) (2004).
 Minimum Disparity Estimation: Asymptotic Normality and Breakdown Point Results.
 Bulletin of Informatics and Cybernetics,
 **36**, 19-33.

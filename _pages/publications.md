@@ -22,7 +22,7 @@ Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_, To Appear. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
-1. Ouyang, L., J. Chen, Y. Ma, **C. Park**, and J. Jin (2019). 
+1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J. Chen, Y. Ma, **C. Park**, and J. Jin (2019). 
 Bayesian Closed-loop Robust Process Design Considering Model Uncertainty and Data Quality. 
 _IISE Transactions_, 
 To Appear. 

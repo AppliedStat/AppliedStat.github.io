@@ -13,7 +13,7 @@ author_profile: true
 Recent Publications
 ------
 1. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
-Investigation of Fnite-Sample Properties of Robust Location and Scale Estimators.
+Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, To Appear. 
 [ [R package](https://CRAN.R-project.org/package=rQCC) ]
 

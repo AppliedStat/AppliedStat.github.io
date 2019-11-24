@@ -23,11 +23,6 @@ doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.152087
 _Quality Engineering_, To Appear.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
-2019. Zhang, Y., Y. Ma, **C. Park**, J.-H. Byun (2019).
- Integration of the variance of quadratic loss for evaluating process performance.
-_Quality Engineering_, To Appear.
-doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
-
 2019. [Wang, D.](http://people.stat.sc.edu/wang528/), C. Jiang, and **C. Park** (2019). 
 Reliability Analysis of Load-Sharing Systems with Memory.
 _Lifetime Data Analysis_,  **25**(2), 341-360.

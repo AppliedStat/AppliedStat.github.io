@@ -8,7 +8,6 @@ location: "Busan, Korea"
 ---
 ---
 
-
 Graduate-level Research for Thesis.
 
 IE-62888 is a research course for Master/PhD-level graduate and 

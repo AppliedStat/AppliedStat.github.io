@@ -8,7 +8,6 @@ location: "Busan, Korea"
 ---
 ---
 
-
 Description
 ======
 + In this course, various statistical theories will be studied, including experimental design and regression analysis.

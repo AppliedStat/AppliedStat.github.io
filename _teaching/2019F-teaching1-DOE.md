@@ -6,15 +6,7 @@ venue: "IE-34243"
 date: 2019-09-01
 location: "Busan, Korea"
 ---
-
-
 ---
-
-
-Experimental Design and Regression Analysis 
-is an undergraduate course for Fall, 2019.
-
-
 Description
 ======
 + In this course, various statistical theories will be studied, including experimental design and regression analysis.

@@ -6,8 +6,9 @@ venue: "IE-34243"
 date: 2019-09-01
 location: "Busan, Korea"
 ---
-  
 ---
+
+
 Description
 ======
 + In this course, various statistical theories will be studied, including experimental design and regression analysis.

@@ -6,7 +6,7 @@ venue: "IE-68722"
 date: 2019-09-01
 location: "Busan, Korea"
 ---
-Statistical Models and Analysis is a graduate course for Fall, 2019.
+---
 
 Description
 ======

@@ -2,16 +2,13 @@
 title: "Thesis Research"
 collection: teaching
 type: "Thesis"
-venue: "IE-62888, IE-85641" 
-date: 2019-09-01
+venue: "IE-62888" 
+date: 2020-03-01
 location: "Busan, Korea"
 ---
 ---
 
-Graduate-level Research for Thesis.
-
-IE-62888 is a research course for Master/PhD-level graduate and 
-IE-85641 is a research course for Master-level graduate for Industrial Graduate College.
+IE-62888 is a research course for Master-level graduate.
 
 Description
 ======

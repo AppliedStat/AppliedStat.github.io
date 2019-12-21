@@ -13,12 +13,12 @@ Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_, To Appear.
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
-2020. Zhang, Y., Y. Ma, **C. Park**, J.-H. Byun (2020).
+2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, J.-H. Byun (2020).
  Integration of the variance of quadratic loss for evaluating process performance.
 _Quality Engineering_, To Appear.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
-2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J. Chen, Y. Ma, **C. Park**, and J. Jin (2020).
+2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J. Chen, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J. Jin (2020).
 Bayesian Closed-loop Robust Process Design Considering Model Uncertainty and Data Quality.
 _IISE Transactions_, **52**(3), 288-300.
 doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.1636428)
@@ -28,7 +28,7 @@ Reliability Analysis of Load-Sharing Systems with Memory.
 _Lifetime Data Analysis_,  **25**(2), 341-360.
 doi:[10.1007/s10985-018-9425-8](https://doi.org/10.1007/s10985-018-9425-8)
 
-2019.  Liu, L., Y. Ma, **C. Park**, and J.-H. Byun (2019).
+2019.  Liu, L., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J.-H. Byun (2019).
 Robust Sequential Bifurcation for Simulation Factor Screening under Data Contamination.
 _Computers and Industrial Engineering_, **129**, 102-112.
 doi:[10.1016/j.cie.2019.01.017](https://doi.org/10.1016/j.cie.2019.01.017)
@@ -38,7 +38,7 @@ Ensemble Modeling Technique for Micro-Drilling Process based on Two-stage Bootst
 _Engineering Optimization_, **51**(3), 503-519.
 doi:[10.1080/0305215X.2018.1472251](https://doi.org/10.1080/0305215X.2018.1472251)
 
-2019. Ouyang, L., L. Wan, **C. Park**, J. Wang, and Y. Ma (2019).
+2019. Ouyang, L., L. Wan, **C. Park**, J. Wang, and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2019).
 Ensemble RBF modeling technique for quality design.
 _Journal of Management Science and Engineering_,  **4**(2), 105-118.
 doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)

@@ -18,7 +18,7 @@ doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.152087
 _Quality Engineering_, To Appear.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
-2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J. Chen, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and [J. Jin](https://jhjin.engin.umich.edu/) (2020).
+2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), [J. Chen](https://www.researchgate.net/profile/Jianxiong_Che), [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and [J. Jin](https://jhjin.engin.umich.edu/) (2020).
 Bayesian Closed-loop Robust Process Design Considering Model Uncertainty and Data Quality.
 _IISE Transactions_, **52**(3), 288-300.
 doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.1636428)

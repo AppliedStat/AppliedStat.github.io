@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra"
+title: "Engineering Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
 venue: "IE-15570"
@@ -10,14 +10,14 @@ location: "Busan, Korea"
 
 Description
 ======
-+ Linear Algebra (IE-15570) will focus on 
++ Engineering Linear Algebra (IE-15570) will focus on 
   basic concepts and theories of linear algebra with engineering applications.  <br />
 + Basic topics covered in this class include basic vector and matrix representations,
    determinant, solution of a system of linear equations, 
    independence/dependence concepts, vector space/subspace, etc. 
 + In addition, we will also study various applied topics such as 
   linear transformation, eigen-value/eigen-vector, diagonalization,
-   inner product space, Gram Schmidt orthogonalization, least squares problems, etc.
+   inner product space, Gram-Schmidt orthogonalization, least squares problems, etc.
    
 + The popular [R statistical language](https://www.r-project.org/) 
   will be handled in this class.

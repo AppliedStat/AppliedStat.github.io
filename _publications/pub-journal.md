@@ -15,7 +15,7 @@ doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.152087
 
 2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, J.-H. Byun (2020).
  Integration of the variance of quadratic loss for evaluating process performance.
-_Quality Engineering_, To Appear.
+_Quality Engineering_, **32**(1), 46-57.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
 2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), [J. Chen](https://www.researchgate.net/profile/Jianxiong_Chen4), [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and [J. Jin](https://jhjin.engin.umich.edu/) (2020).

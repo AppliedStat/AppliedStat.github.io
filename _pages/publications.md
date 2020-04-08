@@ -23,6 +23,11 @@ Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_, To Appear. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
+1. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), 
+[W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).
+A study on robustness of the paired sample tests
+_Industrial Engineering & Management Systems_, To Appear.
+
 1. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, J.-H. Byun (2020). 
  Integration of the variance of quadratic loss for evaluating process performance. 
 _Quality Engineering_, **32**(1), 46-57.

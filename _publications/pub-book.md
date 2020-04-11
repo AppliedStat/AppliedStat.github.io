@@ -27,7 +27,7 @@ doi:[10.1002/9780470061572.eqr119](https://doi.org/10.1002/9780470061572.eqr119)
 
 1. [Basu, A.](https://www.isical.ac.in/~ayanbasu/) and **C**. **Park** (2004).
 Basic numerical analysis technique.
-In _Statistical Computing: Existing Methods and Recent Developments._.
+In _Statistical Computing: Existing Methods and Recent Developments._
 Alpha Science International. ISBN: 978-1842652022.
 [ [PDF](https://github.com/AppliedStat/files/tree/master/Book-2) ]
 

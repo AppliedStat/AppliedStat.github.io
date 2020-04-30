@@ -2,6 +2,10 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
+2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
+A Study on the X-bar and S control charts with unequal sample sizes.
+_Mathematics_, To Appear.
+
 2020. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, To Appear.

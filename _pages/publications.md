@@ -14,7 +14,8 @@ Recent Publications
 ------
 2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A Study on the X-bar and S control charts with unequal sample sizes.
-_Mathematics_, To Appear.
+_Mathematics_, **8**(5), 698.
+doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698)
 
 2020. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.

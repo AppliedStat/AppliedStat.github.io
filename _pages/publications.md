@@ -33,6 +33,11 @@ doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.152087
 A study on robustness of the paired sample tests. 
 _Industrial Engineering & Management Systems_, To Appear.
 
+2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
+Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
+Bayesian hierarchical modeling for process optimization.
+_International Journal of Production Research_, **To Appear**.
+
 2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J.-H. Byun (2020). 
  Integration of the variance of quadratic loss for evaluating process performance. 
 _Quality Engineering_, **32**(1), 46-57.

@@ -37,6 +37,8 @@ _Industrial Engineering & Management Systems_, To Appear.
 Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 Bayesian hierarchical modeling for process optimization.
 _International Journal of Production Research_, **To Appear**.
+doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
+
 
 2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J.-H. Byun (2020). 
  Integration of the variance of quadratic loss for evaluating process performance. 

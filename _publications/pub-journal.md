@@ -11,7 +11,7 @@ doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698)
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, To Appear.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
-[ [R package](https://CRAN.R-project.org/package=rQCC) ]
+[ [R package](https://appliedstat.github.io/R/R-package-3/) ]
 
 2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.

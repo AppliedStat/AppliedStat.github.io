@@ -50,6 +50,8 @@ Bayesian Closed-loop Robust Process Design Considering Model Uncertainty and Dat
 _IISE Transactions_, **52**(3), 288-300.
 doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.1636428)
 
+* [... more ...](https://appliedstat.github.io/publications/pub-journal/)
+
 ---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

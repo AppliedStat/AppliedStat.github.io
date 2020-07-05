@@ -25,7 +25,7 @@ _Industrial Engineering & Management Systems_, To Appear.
 
 2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
 Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
-Bayesian hierarchical modeling for process optimization.
+Bayesian hierarchical modeling for process optimisation.
 _International Journal of Production Research_, **To Appear**.
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
 

@@ -13,7 +13,7 @@ author_profile: true
 Recent Publications
 ------
 2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
-A Study on the X-bar and S control charts with unequal sample sizes.
+A study on the X-bar and S control charts with unequal sample sizes.
 _Mathematics_, **8**(5), 698.
 doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698)
 
@@ -31,7 +31,8 @@ doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.152087
 2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).
 A study on robustness of the paired sample tests. 
-_Industrial Engineering & Management Systems_, To Appear.
+_Industrial Engineering & Management Systems_, **19**(2), 386-397. 
+doi:[10.7232/iems.2020.19.2.386](https://doi.org/10.7232/iems.2020.19.2.386)
 
 2020. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
 Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).

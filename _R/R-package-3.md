@@ -15,14 +15,11 @@ This work was partially supported by the National Research Foundation of Korea (
 
 ### Usage
 > install.packages(\"rQCC\")  <br/>
-<br/>
 
 > news(package=\"rQCC\")        <br/>
-<br/>
 
 > vignette(\"rcc\", package=\"rQCC\")  <br/>
 > vignette(\"factors.cc\", package=\"rQCC\")  <br/>
-<br/>
 
 > library(\"rQCC\")  <br/>
 > help(package=\"rQCC\") <br/>

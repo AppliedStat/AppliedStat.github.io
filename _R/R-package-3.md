@@ -14,12 +14,12 @@ This work was partially supported by the National Research Foundation of Korea (
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/rQCC)
 
 ### Usage
-> install.packages(\"rQCC\")  <br/>
+> install.packages(\"rQCC\")  
 
-> news(package=\"rQCC\")        <br/>
+> news(package=\"rQCC\")      
 
 > vignette(\"rcc\", package=\"rQCC\")  <br/>
-> vignette(\"factors.cc\", package=\"rQCC\")  <br/>
+> vignette(\"factors.cc\", package=\"rQCC\")  
 
 > library(\"rQCC\")  <br/>
-> help(package=\"rQCC\") <br/>
+> help(package=\"rQCC\") 

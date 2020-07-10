@@ -15,6 +15,7 @@ For more details, see [Park and Wang (2018)](https://arxiv.org/abs/1807.02215).
 
 
 ### Usage
-> install.packages(\"rt.test\") <br />
+> install.packages(\"rt.test\") 
+
 > library(\"rt.test\")  <br />
 > help(package=\"rt.test\")  

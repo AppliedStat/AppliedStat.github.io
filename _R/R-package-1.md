@@ -18,6 +18,7 @@ and
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/weibullness)
 
 ### Usage
-> install.packages(\"weibullness\") <br />
+> install.packages(\"weibullness\") 
+
 > library(\"weibullness\")  <br />
 > help(package=\"weibullness\") 

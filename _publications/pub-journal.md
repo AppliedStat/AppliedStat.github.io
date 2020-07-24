@@ -65,7 +65,7 @@ A Note on the Existence of the Location Parameter Estimate of the Three-Paramete
 _Mathematical Problems in Engineering_, vol. 2018, Article ID 6056975. 
 doi:[10.1155/2018/6056975](https://doi.org/10.1155/2018/6056975)
 
-2018. **Park, C**. (2018). A quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.
+2018. **Park, C**. (2018). A Quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.
 _Journal of Algorithms & Computational Technology_,
 **12**(3), 253-272. 
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)

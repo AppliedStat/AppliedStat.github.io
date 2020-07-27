@@ -68,6 +68,7 @@ doi:[10.1155/2018/6056975](https://doi.org/10.1155/2018/6056975)
 2018. **Park, C**. (2018). A Quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.
 _Journal of Algorithms & Computational Technology_,
 **12**(3), 253-272. 
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2018)]
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)
 
 2018. Park, J.P., **C. Park**, Y.J. Oh, J.H. Kim and C.B. Bahn (2018). 

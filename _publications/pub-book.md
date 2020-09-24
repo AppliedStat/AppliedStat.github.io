@@ -18,7 +18,7 @@ doi:[10.1007/978-981-10-5194-4_1](https://doi.org/10.1007/978-981-10-5194-4_1).
 _Statistical Inference: The Minimum Distance Approach._
 Chapman & Hall/CRC. eBook: 978-1-4200996-6-9.
 doi:[10.1201/b10956](https://doi.org/10.1201/b10956).
-[ [Amazon-Author](https://www.amazon.com/Chanseok-Park/e/B005NE2GU0) | [Contents](https://drive.google.com/file/d/1NJvF_C64PCWghKrpYywh3-RIzC3kH340/view) | Reviews: [JAS](https://drive.google.com/file/d/1cMPIdlFz5yH4NfMgzaoUVjokov710jqm/view) / [ISR](https://drive.google.com/file/d/1CAp-00xAtgJ-wROS6NZtYyfiF3y8fv1c/view) /[Amazon](https://drive.google.com/file/d/14eOIb_xBV6UdL5I0950J-URM-Kq0TaEs/view)  |  [News](https://drive.google.com/file/d/1CItIjdAlhTecrXdsXYw6S40tbp5cZPF2/view) ]
+[ [Amazon-Author](https://www.amazon.com/Chanseok-Park/e/B005NE2GU0) | [Contents](https://appliedstat.github.io/files/book-mindist/02-contents.pdf) | Reviews: [JAS](https://appliedstat.github.io/files/book-mindist/03-review1-JAS.pdf) / [ISR](https://appliedstat.github.io/files/book-mindist/04-review2-ISR.pdf) /[Amazon](https://appliedstat.github.io/files/book-mindist/05-review3-amazon.png)  |  [News](https://appliedstat.github.io/files/book-mindist/06-KAIST-newletter.png) ]
 
 1. **Park**, **C**. and [W.J. Padgett](http://people.stat.sc.edu/padgett/) (2008).
 Cumulative damage models based on gamma processes. 

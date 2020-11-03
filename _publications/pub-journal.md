@@ -19,16 +19,17 @@ A study on the X-bar and S control charts with unequal sample sizes.
 _Mathematics_, **8**(5), 698.
 doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698) 
 
+2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
+Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
+_Communications in Statistics - Simulation and Computation_, **49**(10), 2583-2603. 
+doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
+
+
 2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).
 A study on robustness of the paired sample tests. 
 _Industrial Engineering & Management Systems_, **19**(2), 386-397.  
 doi:[10.7232/iems.2020.19.2.386](https://doi.org/10.7232/iems.2020.19.2.386)
-
-2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
-Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
-_Communications in Statistics - Simulation and Computation_, **49**(10), 2583-2603. 
-doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
 2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J.-H. Byun (2020).
  Integration of the variance of quadratic loss for evaluating process performance.

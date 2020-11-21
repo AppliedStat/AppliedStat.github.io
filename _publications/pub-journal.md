@@ -15,7 +15,7 @@ _International Journal of Production Research_, **To Appear**.
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
 
 2020. **Park, C**., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), R. M. Alotaibi, and H. Rezk (2020).
-Load-Sharing Model under Lindley Distribution and~Its Parameter Estimation Using the
+Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using the
 Expectation-Maximization Algorithm.
 _Entropy_, **To Appear**, . 
 doi:[10.3390/entropyxxx](https://doi.org/10.3390/entropy) 

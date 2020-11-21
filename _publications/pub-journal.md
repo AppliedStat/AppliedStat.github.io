@@ -4,7 +4,7 @@ collection: publications
 ---
 2021. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
-_Communications in Statistics - Simulation and Computation_, To Appear.
+_Communications in Statistics - Simulation and Computation_, **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [ [R package](https://appliedstat.github.io/R/R-package-3/) ]
 
@@ -13,6 +13,12 @@ Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. 
 Bayesian hierarchical modeling for process optimisation.
 _International Journal of Production Research_, **To Appear**.
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
+
+2020. **Park, C**., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), R. M. Alotaibi, and H. Rezk (2020).
+Load-Sharing Model under Lindley Distribution and~Its Parameter Estimation Using the
+Expectation-Maximization Algorithm.
+_Entropy_, **To Appear**, . 
+doi:[10.3390/entropyxxx](https://doi.org/10.3390/entropy) 
 
 2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.

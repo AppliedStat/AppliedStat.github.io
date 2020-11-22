@@ -17,8 +17,8 @@ doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.176987
 2020. **Park, C**., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), R. M. Alotaibi, and H. Rezk (2020).
 Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using the
 Expectation-Maximization Algorithm.
-_Entropy_, **To Appear**, . 
-doi:[10.3390/entropyxxx](https://doi.org/10.3390/entropy) 
+_Entropy_, **22**, 1329. 
+doi:[10.3390/e22111329](https://doi.org/10.3390/e22111329)
 
 2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.
@@ -29,7 +29,6 @@ doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698)
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_, **49**(10), 2583-2603. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
-
 
 2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).

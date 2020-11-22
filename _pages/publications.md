@@ -24,7 +24,10 @@ Bayesian hierarchical modeling for process optimisation.
 _International Journal of Production Research_, **To Appear**.
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
 
-2020. **Park, C**., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), R. M. Alotaibi, and H. Rezk (2020).
+2020. **Park, C**., 
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), 
+[R. M. Alotaibi](https://orcid.org/0000-0002-9449-7489), and 
+[H. Rezk](https://orcid.org/0000-0002-7501-7232) (2020).
 Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using the
 Expectation-Maximization Algorithm.
 _Entropy_, **22**(11), 1329. 

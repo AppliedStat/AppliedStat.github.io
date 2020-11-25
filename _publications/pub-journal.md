@@ -5,8 +5,8 @@ collection: publications
 2021. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, **To Appear**.
-[ [R package](https://appliedstat.github.io/R/R-package-3/) ]
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
+[ [R package](https://appliedstat.github.io/R/R-package-3/) ]
 
 2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
 Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
@@ -21,8 +21,8 @@ doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.176987
 Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using the
 Expectation-Maximization Algorithm.
 _Entropy_, **22**(11), 1329. 
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020b)]
 doi:[10.3390/e22111329](https://doi.org/10.3390/e22111329)
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020b)]
 
 2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
@@ -32,8 +32,8 @@ doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.152087
 2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.
 _Mathematics_, **8**(5), 698.
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020a)]
 doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698) 
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020a)]
 
 2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).
@@ -79,8 +79,8 @@ doi:[10.1155/2018/6056975](https://doi.org/10.1155/2018/6056975)
 2018. **Park, C**. (2018). A Quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.
 _Journal of Algorithms & Computational Technology_,
 **12**(3), 253-272. 
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2018)]
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2018)]
 
 2018. Park, J.P., **C. Park**, Y.J. Oh, J.H. Kim and C.B. Bahn (2018). 
 Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation Model for Alloy 182 Weld Considering Right-Censored Data and the Covariate Effect.
@@ -92,7 +92,7 @@ doi:[10.1016/j.net.2017.09.005](10.1016/j.net.2017.09.005)
 Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of the three-parameter Weibull model using the sample correlation coefficient.
 _International Journal of Industrial Engineering: Theory, Applications and Practice_,
 **24**(4), 376-391.
-[ [Article](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://cran.r-project.org/web/packages/weibullness/index.html) ]
+[ [Article](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://appliedstat.github.io/R/R-package-1/) ]
 
 2017. **Park, C**., L. Ouyang, J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2017).
 Robust Design Under Normal Model Departure. 
@@ -170,8 +170,8 @@ _International Journal of Information and Management Sciences_,
 Parameter Estimation for the Reliability of Load-Sharing Systems.
 _IIE Transactions_,
 **42**, 753 - 765.
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2010)]
 doi:[10.1080/07408171003670991](https://doi.org/10.1080/07408171003670991)
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2010)]
 
 2010. [Lio, Y.L.](https://www.usd.edu/faculty-and-staff/Yuhlong-Lio) and **C. Park** (2010).
 A Bootstrap Control Chart for Inverse Gaussian Percentiles.

@@ -32,7 +32,7 @@ Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using
 Expectation-Maximization Algorithm.
 _Entropy_, **22**(11), 1329. 
 doi:[10.3390/e22111329](https://doi.org/10.3390/e22111329)
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020b)]
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2020b/Example.r)
 
 2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.

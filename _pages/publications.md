@@ -62,7 +62,7 @@ _IISE Transactions_, **52**(3), 288-300.
 doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.1636428)
 
 
-* [... more ...](https://appliedstat.github.io/publications/pub-journal/)
+* [ **More Publications** ](https://appliedstat.github.io/publications/pub-journal/)
 
 ---
 {% if author.googlescholar %}

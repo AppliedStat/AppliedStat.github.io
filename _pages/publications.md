@@ -32,26 +32,27 @@ Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using
 Expectation-Maximization Algorithm.
 _Entropy_, **22**(11), 1329. 
 doi:[10.3390/e22111329](https://doi.org/10.3390/e22111329)
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020b)]
 
-2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020). 
-Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk. 
-_Communications in Statistics - Simulation and Computation_,  **49**(10), 2583-2603.
+2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
+Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
+_Communications in Statistics - Simulation and Computation_, **49**(10), 2583-2603. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
 2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.
 _Mathematics_, **8**(5), 698.
-doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698)
+doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698) 
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020a)]
 
 2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).
 A study on robustness of the paired sample tests. 
-_Industrial Engineering & Management Systems_, **19**(2), 386-397. 
+_Industrial Engineering & Management Systems_, **19**(2), 386-397.
 doi:[10.7232/iems.2020.19.2.386](https://doi.org/10.7232/iems.2020.19.2.386)
 
-
-2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J.-H. Byun (2020). 
- Integration of the variance of quadratic loss for evaluating process performance. 
+2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J.-H. Byun (2020).
+ Integration of the variance of quadratic loss for evaluating process performance.
 _Quality Engineering_, **32**(1), 46-57.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)
 
@@ -59,6 +60,7 @@ doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.163569
 Bayesian Closed-loop Robust Process Design Considering Model Uncertainty and Data Quality.
 _IISE Transactions_, **52**(3), 288-300.
 doi:[10.1080/24725854.2019.1636428](https://doi.org/10.1080/24725854.2019.1636428)
+
 
 * [... more ...](https://appliedstat.github.io/publications/pub-journal/)
 

@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 {% include base_path %}
 
 {% for post in site.misc %}
@@ -16,6 +15,6 @@ author_profile: true
 
 <HTML>
   <head> 
-    <meta http-equiv="Refresh" content="0; url=https://statpnu.github.io/" />
+    <meta http-equiv="Refresh" content="0; url=https://sites.google.com/view/appliedstatlab">
   </head>
 </html>

@@ -16,6 +16,6 @@ author_profile: true
 
 <HTML>
   <head> 
-    <meta http-equiv="Refresh" content="0; url=https://appliedstat.github.io" />
+    <meta http-equiv="Refresh" content="0; url=https://appliedstat.github.io">
   </head>
 </html>

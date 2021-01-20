@@ -12,6 +12,10 @@ author_profile: true
 
 Recent Publications
 ------
+2021. **Park, C**. and M. Wang (2021).
+A note on the g and h control charts.
+[arXiv:2101.07575](https://arxiv.org/abs/2101.07575) 
+
 2021. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, **To Appear**.

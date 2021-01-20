@@ -2,6 +2,10 @@
 title: "Conference Papers and Manuscripts"
 collection: publications
 ---
+1. **Park, C**. and M. Wang (2021).
+A note on the g and h control charts.
+[arXiv:2101.07575](https://arxiv.org/abs/2101.07575) 
+
 1. **Park, C**. and M. Wang (2018).
 Empirical distributions of the robustified t-test statistics.
 [arXiv:1807.02215](https://arxiv.org/abs/1807.02215) [ [R package](https://CRAN.R-project.org/package=rt.test) ]

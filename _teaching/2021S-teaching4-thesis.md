@@ -2,13 +2,13 @@
 title: "Thesis Research"
 collection: teaching
 type: "Thesis"
-venue: "IE-62888" 
-date: 2020-09-01
+venue: "DE-76046" 
+date: 2021-03-01
 location: "Busan, Korea"
 ---
 ---
 
-IE-62888 is a research course for Master-level graduate.
+DE-76046 is a research course for Master-level graduate.
 
 Description
 ======

@@ -3,7 +3,7 @@ title: "Conference Papers and Manuscripts"
 collection: publications
 ---
 1. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
-A note on the _g _and _h_ control charts.
+A note on the _g_ and _h_ control charts.
 [arXiv:2101.07575](https://arxiv.org/abs/2101.07575) 
 
 1. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2018).

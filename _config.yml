@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sound wins over noise"
+title                    : "Chanseok PARK"
 title_separator          : "-"
-name                     : &name "Chanseok Park"
+name                     : &name "Chanseok PARK (박찬석)"
 description              : &description "personal description"
 url                      : https://AppliedStat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chanseok Park (박찬석)"
+  name             : "Chanseok PARK"
   avatar           : "profile.png"
   bio              : "Professor of Industrial Engineering at Pusan National University."
   location         : "Busan, Korea"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sound wins over noise (Chanseok Park)"
+title: "Chanseok PARK"
 permalink: /ASL/
 author_profile: true
 ---

@@ -184,14 +184,14 @@ Statistical Hypothesis Testing for Dot-Matrix Type Products.
 _International Journal of Quality Engineering and Technology_,
 **1**, 27 - 39.
 doi:[10.1504/IJQET.2009.030499](https://doi.org/10.1504/IJQET.2009.030499)
-[[Corrections](https://drive.google.com/file/d/0B-GVxDJZNtwYakhWN0lySUFtWWc/view)]
+[ [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-s15.pdf) ]
 
 2008. [Lio, Y.L.](https://www.usd.edu/faculty-and-staff/Yuhlong-Lio) and **C. Park** (2008).
 A Bootstrap Control Chart for Birnbaum-Saunders Percentiles.
 _Quality and Reliability Engineering International_,
 **24**(5), 585 - 600.
 doi:[10.1002/qre.924](https://doi.org/10.1002/qre.924)
-[[Corrections](https://drive.google.com/file/d/0B-GVxDJZNtwYU19STV9UaDFnRVU/view)]
+[ [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-L1.pdf) ]
 
 2008. Park, J.S., W.J. Jang, S.B. Lee and **C. Park** (2008).
 Acquisition model for 3D shape measurement data.
@@ -254,7 +254,7 @@ Development of robust design optimization using incomplete data.
 _Computers & Industrial Engineering_, 50, 345 - 356.
 doi:[10.1016/j.cie.2006.06.005](https://doi.org/10.1016/j.cie.2006.06.005)
 [ [R Code](https://github.com/AppliedStat/R-code/tree/master/2006a)
-| [Correction](https://drive.google.com/file/d/0B-GVxDJZNtwYblVjTTZOYUNsZ0U/view) ]
+| [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-sb1.pdf) ]
 
 2005. **Park**, **C**. (2005). 
 Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorithm.

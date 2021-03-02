@@ -6,7 +6,7 @@ collection: publications
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
-[ [R package](https://appliedstat.github.io/R/R-package-3/) ]
+[[R package](https://appliedstat.github.io/R/R-package-3/)]
 
 2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
 Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
@@ -22,7 +22,7 @@ Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using
 Expectation-Maximization Algorithm.
 _Entropy_, **22**(11), 1329. 
 doi:[10.3390/e22111329](https://doi.org/10.3390/e22111329)
-[ [R Code](https://github.com/AppliedStat/R-code/blob/master/2020b/Example.r) ]
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2020b/Example.r)]
 
 2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
@@ -33,7 +33,7 @@ doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.152087
 A study on the X-bar and S control charts with unequal sample sizes.
 _Mathematics_, **8**(5), 698.
 doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698) 
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2020a) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2020a)]
 
 2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).
@@ -80,7 +80,7 @@ doi:[10.1155/2018/6056975](https://doi.org/10.1155/2018/6056975)
 _Journal of Algorithms & Computational Technology_,
 **12**(3), 253-272. 
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2018) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2018)]
 
 2018. Park, J.P., **C. Park**, Y.J. Oh, J.H. Kim and C.B. Bahn (2018). 
 Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation Model for Alloy 182 Weld Considering Right-Censored Data and the Covariate Effect.
@@ -92,7 +92,7 @@ doi:[10.1016/j.net.2017.09.005](10.1016/j.net.2017.09.005)
 Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of the three-parameter Weibull model using the sample correlation coefficient.
 _International Journal of Industrial Engineering: Theory, Applications and Practice_,
 **24**(4), 376-391.
-[ [Article](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://appliedstat.github.io/R/R-package-1/) ]
+[[Article](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://appliedstat.github.io/R/R-package-1/)]
 
 2017. **Park, C**., L. Ouyang, J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2017).
 Robust Design Under Normal Model Departure. 
@@ -171,7 +171,7 @@ Parameter Estimation for the Reliability of Load-Sharing Systems.
 _IIE Transactions_,
 **42**, 753 - 765.
 doi:[10.1080/07408171003670991](https://doi.org/10.1080/07408171003670991)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2010) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2010)]
 
 2010. [Lio, Y.L.](https://www.usd.edu/faculty-and-staff/Yuhlong-Lio) and **C. Park** (2010).
 A Bootstrap Control Chart for Inverse Gaussian Percentiles.
@@ -184,14 +184,14 @@ Statistical Hypothesis Testing for Dot-Matrix Type Products.
 _International Journal of Quality Engineering and Technology_,
 **1**, 27 - 39.
 doi:[10.1504/IJQET.2009.030499](https://doi.org/10.1504/IJQET.2009.030499)
-[ [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-s15.pdf) ]
+[[Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-s15.pdf)]
 
 2008. [Lio, Y.L.](https://www.usd.edu/faculty-and-staff/Yuhlong-Lio) and **C. Park** (2008).
 A Bootstrap Control Chart for Birnbaum-Saunders Percentiles.
 _Quality and Reliability Engineering International_,
 **24**(5), 585 - 600.
 doi:[10.1002/qre.924](https://doi.org/10.1002/qre.924)
-[ [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-L1.pdf) ]
+[[Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-L1.pdf)]
 
 2008. Park, J.S., W.J. Jang, S.B. Lee and **C. Park** (2008).
 Acquisition model for 3D shape measurement data.
@@ -221,7 +221,7 @@ in competing risks among several groups.
 _Journal of Statistical Planning and Inference_,
 **136**, 1718-1745.  
 doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2006c) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006c)]
 
 2006. **Park, C**. and  W.J. Padgett, (2006).
 A general class of cumulative damage models for materials failure.
@@ -232,7 +232,7 @@ doi:[10.1016/j.jspi.2005.03.009](https://doi.org/10.1016/j.jspi.2005.03.009)
 Analysis of Strength Distributions of Multi-Modal Failures Using the EM Algorithm.
  _Journal of Statistical Computation and Simulation_, 76, 619 - 636.
 doi:[10.1080/10629360500108970](https://doi.org/10.1080/10629360500108970)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2006b) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006b)]
 
 2006. **Park, C**. and W.J. Padgett (2006).
 Stochastic Degradation Models with Several Accelerating Variables.
@@ -253,15 +253,15 @@ doi:[10.4028/www.scientific.net/KEM.306-308.995](https://doi.org/10.4028/www.sci
 Development of robust design optimization using incomplete data.
 _Computers & Industrial Engineering_, 50, 345 - 356.
 doi:[10.1016/j.cie.2006.06.005](https://doi.org/10.1016/j.cie.2006.06.005)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2006a)
-| [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-sb1.pdf) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2006a)
+| [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-sb1.pdf)]
 
 2005. **Park**, **C**. (2005). 
 Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorithm.
 _IEEE Trans. on Reliability_,
 **54**, 282 - 290.
 doi:[10.1109/TR.2005.846360](https://doi.org/10.1109/TR.2005.846360)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2005) ]
+ [R Code](https://github.com/AppliedStat/R-code/tree/master/2005)]
 
 2005. **Park**, **C**. and W.J. Padgett (2005). 
 New Cumulative Damage Models for Failure Using Stochastic Processes as Initial Damage.
@@ -292,7 +292,7 @@ Parametric inference of incomplete data with competing risks among several group
 _IEEE Trans. on Reliability_,
 **53**, 11-21.
 doi:[10.1109/TR.2003.821946](https://doi.org/10.1109/TR.2003.821946)
-[ [R Code](https://github.com/AppliedStat/R-code/tree/master/2004) ]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2004)]
 
 2004. Basu, A., **C**. **Park**, B.G. Lindsay and H. Li (2004).
 Some Variants of Minimum Disparity Estimation. 

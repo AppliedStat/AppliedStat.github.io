@@ -12,6 +12,10 @@ author_profile: true
 
 Recent Publications
 ------
+2021.  (with Dr. Ouyang and Dr. Wang).
+Robust Bayesian hierarchical modeling and inference using scale mixtures of normal distributions.
+_IISE Transactions_, **Accepted for Publication**.
+
 2021. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 A note on the _g_ and _h_ control charts.
 [arXiv:2101.07575](https://arxiv.org/abs/2101.07575) 

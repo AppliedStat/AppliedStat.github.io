@@ -9,11 +9,10 @@ author_profile: true
 + [Conference Papers and Manuscripts](/publications/pub-conf)
 + [Patents](/publications/pub-patent)
 
-
 Recent Publications
 ------
 2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), 
-S. Zhu, [K. Ye](https://orcid.org/0000-0002-1983-0675), 
+S. Zhu, [K. Ye](https://business.utsa.edu/faculty/keying-ye/), 
 **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Robust Bayesian hierarchical modeling and inference using scale mixtures of normal distributions.
 _IISE Transactions_, **To Appear**.

@@ -12,9 +12,13 @@ author_profile: true
 
 Recent Publications
 ------
-2021.  (with Dr. Ouyang and Dr. Wang).
+2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), 
+S. Zhu, [K. Ye](https://orcid.org/0000-0002-1983-0675), 
+**C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Robust Bayesian hierarchical modeling and inference using scale mixtures of normal distributions.
-_IISE Transactions_, **Accepted for Publication**.
+_IISE Transactions_, **To Appear**.
+doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
+
 
 2021. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 A note on the _g_ and _h_ control charts.
@@ -31,7 +35,6 @@ Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. 
 Bayesian hierarchical modeling for process optimisation.
 _International Journal of Production Research_, **To Appear**.
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
-
 
 * [ **More Publications** ](https://appliedstat.github.io/publications/pub-journal/)
 

@@ -2,6 +2,13 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
+2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), 
+S. Zhu, [K. Ye](https://orcid.org/0000-0002-1983-0675), 
+**C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
+Robust Bayesian hierarchical modeling and inference using scale mixtures of normal distributions.
+_IISE Transactions_, **To Appear**.
+doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
+
 2021. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, **To Appear**.

@@ -49,11 +49,11 @@ the 6th BRIDGE grant of PNU, the PNU Grant 2015, etc. <br/>
 </font>
 </P>
 
-<br/>
-<H1>Members</H1>
+<br> <br>
+
+<H2>Members</H2>
 
 <H2>Current Students</H2>
-
 <UL>
 <LI><A href="https://www.researchgate.net/profile/Xiaopeng-Chen-12"><b>Xiaopeng CHEN</b></A> (陳曉鵬), PhD in progress.
 Machine learning, AI, Computer vision, Image processing.

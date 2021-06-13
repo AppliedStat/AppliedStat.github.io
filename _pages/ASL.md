@@ -49,12 +49,10 @@ the 6th BRIDGE grant of PNU, the PNU Grant 2015, etc. <br/>
 </font>
 </P>
 
-<br> <br>
-
-<H2>Members</H2>
+<br>
 
 <H2>Current Students</H2>
-<UL>
+<UL>  
 <LI><A href="https://www.researchgate.net/profile/Xiaopeng-Chen-12"><b>Xiaopeng CHEN</b></A> 
 (陳曉鵬), PhD in progress.
 Machine learning, AI, Computer vision, Image processing.
@@ -71,7 +69,6 @@ EM algorithm.
 Applications of control charts in analyzing big data.
 
 <LI><b>N. JEONG</b>, Master in progress.   
-
 </UL>
 
 

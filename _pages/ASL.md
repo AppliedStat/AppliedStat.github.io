@@ -55,18 +55,23 @@ the 6th BRIDGE grant of PNU, the PNU Grant 2015, etc. <br/>
 
 <H2>Current Students</H2>
 <UL>
-<LI><A href="https://www.researchgate.net/profile/Xiaopeng-Chen-12"><b>Xiaopeng CHEN</b></A> (陳曉鵬), PhD in progress.
+<LI><A href="https://www.researchgate.net/profile/Xiaopeng-Chen-12"><b>Xiaopeng CHEN</b></A> 
+(陳曉鵬), PhD in progress.
 Machine learning, AI, Computer vision, Image processing.
 
-<LI><A href="https://www.researchgate.net/profile/Chunxi-Wang-5"><b>Chunxi WANG</b></A> (王春喜), Master in Progress.
+<LI><A href="https://www.researchgate.net/profile/Chunxi-Wang-5"><b>Chunxi WANG</b></A> 
+(王春喜), Master in Progress.
 Bootstrapping of PCI under three-parameter Weibull model.
 
 <LI><b>Tyasha Warna VALINDA</b>, Master (course completion).
-Analysis of missing and incomplete data and its applications to engineering statistics. EM algorithm. 
+Analysis of missing and incomplete data and its applications to engineering statistics. 
+EM algorithm. 
 
 <LI><b>S. BANG</b>, Master (course completion). 
 Applications of control charts in analyzing big data.
-<LI><b>N. JEONG</b>, Master in progress.
+
+<LI><b>N. JEONG</b>, Master in progress.   
+
 </UL>
 
 
@@ -79,15 +84,21 @@ Optimization, Mathematical Programming, Robust Optimization. (Co-Advisor: Dr. Bo
 <LI><b>J. W. YUN</b>, MS in IE, Feb. 2021. Regression analysis with big data from Korean vocational schools. 
 <LI><A href="https://www.researchgate.net/profile/Junhyeok-Yun"><b>J. YUN</b></A>, 
 MS in IE, Feb. 2021. Data Science, Statistical Data Analysis, Advanced Machine Learning, Large Scale Data Analysis, Computational Intelligence.
+
 <LI><b>H. KIM</b>, MS in IE, Aug. 2020. Instrumentation Engineering, Applied Statistics.
+
 <LI><b>H. LEE</b>, BS in IE, Feb. 2020. Logistics, Production planning.
+
 <LI><b>S. SON</b>, BS in IE, Feb. 2020. Application statistics. 
 
 <LI><A href="https://www.researchgate.net/profile/Fifi-Rosyidah"><b>Fifi Alfiana ROSYIDAH</b></A>, MS in IE, Feb. 2019. DSS, Information System Management, Decision Analysis.
+
 <LI><A href="https://www.researchgate.net/profile/Seoyeong-Ryu"><b>S. RYU</b></A>, 
 BS in IE, Aug. 2019. Big data.
+
 <LI><A href="https://www.researchgate.net/profile/Jeong-Ryeji"><b>R. JEONG</b></A>, 
 BS in IE, Feb. 2019. Robustification of the z-test statistic.
+
 <LI><A href="https://www.researchgate.net/profile/Donggeun-Lee-6"><b>D. LEE</b></A>, 
 MS in IE, Feb. 2018. Data Processing and Computer Science, Statistical Analysis, Statistical Modeling, Applied Statistics.
 

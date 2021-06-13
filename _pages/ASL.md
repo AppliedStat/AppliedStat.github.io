@@ -5,20 +5,18 @@ permalink: /ASL/
 author_profile: true
 ---
 
-
 {% include base_path %}
 
 {% for post in site.misc %}
   {% include archive-single.html %}
 {% endfor %}
 
-
 <HTML>
 <B>Welcome to Applied Statistics Laboratory (ASL) at Pusan National University (PNU).</B><br/>
 <I>Our motto is "Data Reduction with Information."</I><br/>
 
-<font size="-1"> 
 <P>
+<font size="-1"> 
 The Applied Statistics Laboratory (응용통계연구실) was established 
 by Professor Chanseok Park (박찬석) in the Department of Industrial Engineering 
 at Pusan National University on March 2, 2016. 
@@ -27,36 +25,40 @@ Since then, the lab moved to a new place and is now located at Rm 10-516 (ASL La
 and 10-517 (ASL Lab II) in Engineering Building #10 of Pusan National University. 
 Professor Park had been at Rm 10-618, right next door to Dr. Gyu M. LEE, by January, 2018. 
 On the 18th of January, 2018, he also moved to a new office at Rm 10-527 of the same building.
+</font>
 </P>
 
 <P>
+<font size="-1"> 
 As the director of the Applied Statistics Laboratory, 
 Professor Park leads the applied statistics group, teaches statistics courses, 
 and carries out various research projects on applied statistics and engineering fields 
 including quality and reliability engineering, competing risks model, statistical computing, 
 solid mechanics, etc. The theoretical areas such as finite-sample properties, 
 robustness and minimum distance methods are also carried out in the lab. 
+</font>
 </P>
 
 <P>
+<font size="-1"> 
 His research and the members in the lab have been supported by several research funds 
 including the National Research Foundation (NRF) of Korea, 
 the International Cooperation Program by the NRF and the National Natural Science Foundation 
 of China, Two-Year Research Grant of PNU, CK-1 fund by the NRF, 
-the 6th BRIDGE grant of PNU, the PNU Grant 2015, etc. 
-</P>
+the 6th BRIDGE grant of PNU, the PNU Grant 2015, etc. <br/>
 </font>
+</P>
 
-
+<br/>
 <H1>Members</H1>
+
 <H2>Current Students</H2>
+
 <UL>
-<LI><A href="https://www.researchgate.net/profile/Xiaopeng-Chen-12"> 
-<b>Xiaopeng CHEN</b></A> (陳曉鵬), PhD in progress.
+<LI><A href="https://www.researchgate.net/profile/Xiaopeng-Chen-12"><b>Xiaopeng CHEN</b></A> (陳曉鵬), PhD in progress.
 Machine learning, AI, Computer vision, Image processing.
 
-<LI><A href="https://www.researchgate.net/profile/Chunxi-Wang-5">
-<b>Chunxi WANG</b></A> (王春喜), Master in Progress.
+<LI><A href="https://www.researchgate.net/profile/Chunxi-Wang-5"><b>Chunxi WANG</b></A> (王春喜), Master in Progress.
 Bootstrapping of PCI under three-parameter Weibull model.
 
 <LI><b>Tyasha Warna VALINDA</b>, Master (course completion).
@@ -64,7 +66,6 @@ Analysis of missing and incomplete data and its applications to engineering stat
 
 <LI><b>S. BANG</b>, Master (course completion). 
 Applications of control charts in analyzing big data.
-
 <LI><b>N. JEONG</b>, Master in progress.
 </UL>
 
@@ -76,20 +77,19 @@ Applications of control charts in analyzing big data.
 Optimization, Mathematical Programming, Robust Optimization. (Co-Advisor: Dr. Bosung KIM).
 
 <LI><b>J. W. YUN</b>, MS in IE, Feb. 2021. Regression analysis with big data from Korean vocational schools. 
-<LI><A href="https://www.researchgate.net/profile/Junhyeok-Yun">
-<b>J. YUN</b></A>, 
+<LI><A href="https://www.researchgate.net/profile/Junhyeok-Yun"><b>J. YUN</b></A>, 
 MS in IE, Feb. 2021. Data Science, Statistical Data Analysis, Advanced Machine Learning, Large Scale Data Analysis, Computational Intelligence.
 <LI><b>H. KIM</b>, MS in IE, Aug. 2020. Instrumentation Engineering, Applied Statistics.
 <LI><b>H. LEE</b>, BS in IE, Feb. 2020. Logistics, Production planning.
 <LI><b>S. SON</b>, BS in IE, Feb. 2020. Application statistics. 
-<LI><A href="https://www.researchgate.net/profile/Fifi-Rosyidah">
-<b>Fifi Alfiana ROSYIDAH</b></A>, MS in IE, Feb. 2019. DSS, Information System Management, Decision Analysis.
-<LI><A href="https://www.researchgate.net/profile/Seoyeong-Ryu">
-<b>S. RYU</b></A>, BS in IE, Aug. 2019. Big data.
-<LI><A href="https://www.researchgate.net/profile/Jeong-Ryeji">
-<b>R. JEONG</b></A>, BS in IE, Feb. 2019. Robustification of the z-test statistic.
-<LI><A href="https://www.researchgate.net/profile/Donggeun-Lee-6">
-<b>D. LEE</b></A>, MS in IE, Feb. 2018. Data Processing and Computer Science, Statistical Analysis, Statistical Modeling, Applied Statistics.
+
+<LI><A href="https://www.researchgate.net/profile/Fifi-Rosyidah"><b>Fifi Alfiana ROSYIDAH</b></A>, MS in IE, Feb. 2019. DSS, Information System Management, Decision Analysis.
+<LI><A href="https://www.researchgate.net/profile/Seoyeong-Ryu"><b>S. RYU</b></A>, 
+BS in IE, Aug. 2019. Big data.
+<LI><A href="https://www.researchgate.net/profile/Jeong-Ryeji"><b>R. JEONG</b></A>, 
+BS in IE, Feb. 2019. Robustification of the z-test statistic.
+<LI><A href="https://www.researchgate.net/profile/Donggeun-Lee-6"><b>D. LEE</b></A>, 
+MS in IE, Feb. 2018. Data Processing and Computer Science, Statistical Analysis, Statistical Modeling, Applied Statistics.
 
 <LI><b>N. T. PHAM</b>, (quit). 2017.
 
@@ -143,7 +143,6 @@ Professor at Nanjing University of Aeronautics and Astronautics (Nov. 2018 - Jan
 <LI><b>Chinthaka KURUWITA</b> (MA in Math, December 2006).
 
 <LI><b>Xiang HAN</b> (MA in Math, May 2006).
-
 </UL>
 
 

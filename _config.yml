@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chanseok PARK"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chanseok PARK (박찬석)"
 description              : &description "personal description"

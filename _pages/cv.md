@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Chanseok PARK"
+title: "Home"
 permalink: /cv/
 author_profile: true
 ---

@@ -1,22 +1,22 @@
 # main links links
 main:
+  - title: "Teaching"
+    url: /teaching/    
+ 
+  - title: "R"
+    url: /R/
+        
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "R"
-    url: /R/
-        
-  - title: "Teaching"
-    url: /teaching/    
- 
-  - title: "Lab"
-    url: /ASL/    
- 
   - title: "Misc."
     url: /misc/
  
   - title: "Contact"
     url: /contact/
+
+  - title: "Lab"
+    url: /ASL/    

@@ -18,7 +18,7 @@ doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.169911
 2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
 Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Bayesian hierarchical modeling for process optimisation.
-_International Journal of Production Research_, **To Appear**.
+_International Journal of Production Research_, **59**(15), 4649-4669. 
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
 
 2020. **Park, C**., 

@@ -1,7 +1,7 @@
 ---
-title: "Engineering Statistics - II"
+title: "Mathematical Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 venue: "DE-76044"
 date: 2021-09-01
 location: "Busan, Korea"

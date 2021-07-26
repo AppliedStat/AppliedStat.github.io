@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Engineering"
+title: "Mathematical Statistics"
 collection: teaching
 type: "Graduate course"
 venue: "DE-76044"

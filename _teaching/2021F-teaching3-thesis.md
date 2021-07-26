@@ -3,7 +3,7 @@ title: "Thesis Research"
 collection: teaching
 type: "Thesis"
 venue: "DE-76046" 
-date: 2021-03-01
+date: 2021-09-01
 location: "Busan, Korea"
 ---
 ---

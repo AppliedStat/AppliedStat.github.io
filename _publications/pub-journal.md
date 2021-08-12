@@ -20,7 +20,8 @@ doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.169911
 [E. Xie](https://www.researchgate.net/profile/Xie-En-3),
 G. Huang, and D. Zhang (2021).
 Globally optimal facility locations for continuous-space facility location problems.
-_Applied Sciences_, **To Appear**.
+_Applied Sciences_, **11**(16), 7321.
+doi:[10.3390/app11167321](https://doi.org/10.3390/app11167321)
 
 2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
 Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).

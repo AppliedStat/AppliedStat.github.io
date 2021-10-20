@@ -3,9 +3,9 @@ title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
 2022. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), 
-and [M. Wang, M.](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
-Robust _g_-type quality control charts for monitoring nonconformities.
-_Computers and Industrial Engineering_, **To Appear**
+and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022). 
+Robust _g_-type quality control charts for monitoring nonconformities. 
+_Computers and Industrial Engineering_, **To Appear** 
 
 2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), 
 S. Zhu, [K. Ye](https://business.utsa.edu/faculty/keying-ye/), 

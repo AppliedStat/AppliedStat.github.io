@@ -28,9 +28,9 @@ _Communications in Statistics - Simulation and Computation_, **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [ [R package](https://appliedstat.github.io/R/R-package-3/) ]
 
-2021. [E. Xie](https://www.researchgate.net/profile/Xie-En-3),
-[Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
-[Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park** (2021).
+2021. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3),
+[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
+[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and **C. Park** (2021).
 On the subrange and its application to the R-chart.
 _Applied Sciences_, **In Press**
 

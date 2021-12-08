@@ -19,7 +19,8 @@ doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.169911
 [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and **C. Park** (2021).
 On the subrange and its application to the R-chart.
-_Applied Sciences_, **In Press**
+_Applied Sciences_,  **11**(24), 11632.
+doi:[10.3390/app112411632](https://doi.org/10.3390/app112411632)
 
 2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).

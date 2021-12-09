@@ -9,6 +9,10 @@ Robust Bayesian hierarchical modeling and inference using scale mixtures of norm
 _IISE Transactions_, **To Appear**.
 doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
 
+2021. Ma, Z., **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
+Robust bootstrap control charts for the log-logistic percentiles.
+_Journal of Statistical Theory and Practice_, **To Appear**.
+
 2021. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_, **To Appear**.

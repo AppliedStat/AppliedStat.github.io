@@ -32,7 +32,7 @@ Robust _g_-type quality control charts for monitoring nonconformities.
 _Computers and Industrial Engineering_, **162**, 107765.
 doi:[10.1016/j.cie.2021.107765](https://doi.org/10.1016/j.cie.2021.107765)
 
-2021. [Gao, X.](https://scholar.google.com/citations?hl=en&user=m4srPiYAAAAJ), **C. Park**,
+2021. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), **C. Park**,
 [X. Chen](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
 [E. Xie](https://www.researchgate.net/profile/Xie-En-3),
 G. Huang, and D. Zhang (2021).

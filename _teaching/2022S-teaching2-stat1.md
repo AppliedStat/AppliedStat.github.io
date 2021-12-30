@@ -3,7 +3,7 @@ title: "Engineering Statistics - I"
 collection: teaching
 type: "Undergraduate course"
 venue: "IE-24210"
-date: 2020-03-01
+date: 2022-03-01
 location: "Busan, Korea"
 ---
 ---
@@ -32,7 +32,7 @@ Upon successful completion of this course, students will be able to:
 
 Links
 ======
-+ [Syllabus](/files/syllabus/syl-IE-24210-2020.pdf)
++ [Syllabus](/files/syllabus/syl-IE-24210-2022.pdf)
 + [R Programs and supplemental notes](https://github.com/AppliedStat/class/tree/master/Stat)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
 

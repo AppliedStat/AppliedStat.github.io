@@ -32,33 +32,6 @@ _Communications in Statistics - Simulation and Computation_, **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [ [R package](https://appliedstat.github.io/R/R-package-3/) ]
 
-2021. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3),
-[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
-[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and **C. Park** (2021).
-On the subrange and its application to the R-chart.
-_Applied Sciences_,  **11**(24), 11632.
-doi:[10.3390/app112411632](https://doi.org/10.3390/app112411632)
-
-2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
-Robust _g_-type quality control charts for monitoring nonconformities.
-_Computers and Industrial Engineering_, **162**, 107765.
-doi:[10.1016/j.cie.2021.107765](https://doi.org/10.1016/j.cie.2021.107765)
-
-2021. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), **C. Park**,
-[X. Chen](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
-[E. Xie](https://www.researchgate.net/profile/Xie-En-3),
-G. Huang, and D. Zhang (2021).
-Globally optimal facility locations for continuous-space facility location problems.
-_Applied Sciences_, **11**(16), 7321.
-doi:[10.3390/app11167321](https://doi.org/10.3390/app11167321)
-
-2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
-Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
-Bayesian hierarchical modeling for process optimisation.
-_International Journal of Production Research_, **59**(15), 4649-4669. 
-doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
-
 * [ **More Publications** ](https://appliedstat.github.io/publications/pub-journal/)
 
 ---

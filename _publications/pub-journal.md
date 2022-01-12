@@ -2,6 +2,10 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
+2022. **Park, C**., [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+A Study on Estimating the Parameter of the Truncated Geometric Distribution.
+_American Statistician_ **Tentatively Accepted**. 
+
 2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 S. Zhu, [K. Ye](https://business.utsa.edu/faculty/keying-ye/),
 **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).

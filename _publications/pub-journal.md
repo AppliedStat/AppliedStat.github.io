@@ -4,7 +4,7 @@ collection: publications
 ---
 2022. **Park, C**., [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A Study on Estimating the Parameter of the Truncated Geometric Distribution.
-_American Statistician_ **To Appear**. 
+_The American Statistician_ **To Appear**. 
 doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
 
 2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),

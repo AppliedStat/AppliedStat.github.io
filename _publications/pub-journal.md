@@ -16,7 +16,7 @@ doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.191244
 
 2022. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A study on the _g_ and _h_ control charts.
-Preprint ([arXiv:2101.07575](https://arxiv.org/abs/2101.07575))
+_Communications in Statistics - Theory and Methods_ **To Appear**.
 
 2022. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.

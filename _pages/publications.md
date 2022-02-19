@@ -31,7 +31,7 @@ _Communications in Statistics - Theory and Methods_ **To Appear**.
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_ **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
-[ [R package](https://appliedstat.github.io/R/R-package-3/) ]
+[[R package](https://appliedstat.github.io/R/R-package-3/)]
 
 2022. Ma, Z., **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Robust bootstrap control charts for the log-logistic percentiles.

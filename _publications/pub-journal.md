@@ -19,6 +19,12 @@ A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
+2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
+and **Park, C** (2022).
+Simulation optimization using stochastic kriging with robust statistics.
+_Journal of the Operational Research Society_ **To Appear**.
+
 2022. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_ **To Appear**.

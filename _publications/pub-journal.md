@@ -143,7 +143,8 @@ doi:[10.1016/j.net.2017.09.005](10.1016/j.net.2017.09.005)
 Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of the three-parameter Weibull model using the sample correlation coefficient.
 _International Journal of Industrial Engineering: 
 Theory, Applications and Practice_ **24**(4), 376-391.
-[[Article](http://journals.sfu.ca/ijietap/index.php/ijie/article/view/2848) | [R package](https://appliedstat.github.io/R/R-package-1/)]
+doi:[10.23055/ijietap.2017.24.4.2848](https://doi.org/10.23055/ijietap.2017.24.4.2848)
+[[R package](https://appliedstat.github.io/R/R-package-1/)]
 
 2017. **Park, C**., L. Ouyang, J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2017).
 Robust Design Under Normal Model Departure. 

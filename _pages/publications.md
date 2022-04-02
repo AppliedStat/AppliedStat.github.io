@@ -11,7 +11,7 @@ author_profile: true
 
 Recent Publications
 ------
-2022. **Park, C**., [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A Study on Estimating the Parameter of the Truncated Geometric Distribution.
 _The American Statistician_ **To Appear**.
 doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
@@ -23,7 +23,7 @@ Robust Bayesian hierarchical modeling and inference using scale mixtures of norm
 _IISE Transactions_ **To Appear**.
 doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
 
-2022. **Park, C**. and
+2022. **Park, C.** and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.
@@ -32,18 +32,18 @@ doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.204449
 2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), 
-and **Park, C** (2022).
+and **C. Park** (2022).
 Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
-2022. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_ **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [[R package](https://appliedstat.github.io/R/R-package-3/)]
 
-2022. Ma, Z., **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. Ma, Z., **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Robust bootstrap control charts for the log-logistic percentiles.
 _Journal of Statistical Theory and Practice_ **16**, 3.
 doi:[10.1007/s42519-021-00239-3](https://doi.org/10.1007/s42519-021-00239-3)

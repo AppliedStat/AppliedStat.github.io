@@ -2,7 +2,7 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2022. **Park, C**., [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A Study on Estimating the Parameter of the Truncated Geometric Distribution.
 _The American Statistician_ **To Appear**. 
 doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
@@ -14,7 +14,7 @@ Robust Bayesian hierarchical modeling and inference using scale mixtures of norm
 _IISE Transactions_ **To Appear**.
 doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
 
-2022. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
@@ -22,18 +22,18 @@ doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.204449
 2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/),
-and **Park, C** (2022).
+and **Park, C.** (2022).
 Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
-2022. **Park, C**., H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_ **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [[R package](https://appliedstat.github.io/R/R-package-3/)]
 
-2022. Ma, Z., **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. Ma, Z., **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Robust bootstrap control charts for the log-logistic percentiles.
 _Journal of Statistical Theory and Practice_ **16**, 3.
 doi:[10.1007/s42519-021-00239-3](https://doi.org/10.1007/s42519-021-00239-3)
@@ -67,7 +67,7 @@ Bayesian hierarchical modeling for process optimisation.
 _International Journal of Production Research_ **59**(15), 4649-4669. 
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
 
-2020. **Park, C**., 
+2020. **Park, C.**, 
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), 
 [R. M. Alotaibi](https://orcid.org/0000-0002-9449-7489), and 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232) (2020).
@@ -82,7 +82,7 @@ Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_ **49**(10), 2583-2603. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 
-2020. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
+2020. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.
 _Mathematics_ **8**(5), 698.
 doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698) 
@@ -124,12 +124,12 @@ Ensemble RBF modeling technique for quality design.
 _Journal of Management Science and Engineering_ **4**(2), 105-118.
 doi:[10.1016/j.jmse.2019.05.005](https://doi.org/10.1016/j.jmse.2019.05.005)
 
-2018. **Park, C**. (2018). 
+2018. **Park, C.** (2018). 
 A Note on the Existence of the Location Parameter Estimate of the Three-Parameter Weibull Model using the Weibull Plot. 
 _Mathematical Problems in Engineering_ **2018**, 6056975.
 doi:[10.1155/2018/6056975](https://doi.org/10.1155/2018/6056975)
 
-2018. **Park, C**. (2018). A Quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.
+2018. **Park, C.** (2018). A Quantile Variant of the Expectation–Maximization Algorithm and its Application to Parameter Estimation with Interval Data.
 _Journal of Algorithms & Computational Technology_ **12**(3), 253-272. 
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2018)]
@@ -139,14 +139,14 @@ Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation
 _Nuclear Engineering and Technology_ **50**(1), 107-115. 
 doi:[10.1016/j.net.2017.09.005](10.1016/j.net.2017.09.005)
 
-2017. **Park, C**. (2017). 
+2017. **Park, C.** (2017). 
 Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of the three-parameter Weibull model using the sample correlation coefficient.
 _International Journal of Industrial Engineering: 
 Theory, Applications and Practice_ **24**(4), 376-391.
 doi:[10.23055/ijietap.2017.24.4.2848](https://doi.org/10.23055/ijietap.2017.24.4.2848)
 [[R package](https://appliedstat.github.io/R/R-package-1/)]
 
-2017. **Park, C**., L. Ouyang, J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2017).
+2017. **Park, C.**, L. Ouyang, J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2017).
 Robust Design Under Normal Model Departure. 
 _Computers and Industrial Engineering_ **113**, 206-220. 
 doi:[10.1016/j.cie.2017.09.010](https://doi.org/10.1016/j.cie.2017.09.010)
@@ -161,7 +161,7 @@ Transmuted Gamma-Mixed Rayleigh Distribution: properties and estimation with bla
 _Model Assisted Statistics and Applications_ **11**(4), 293-313.
 doi:[10.3233/MAS-160374](https://doi.org/10.3233/MAS-160374)
 
-2016. **Park, C**. and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2016).
+2016. **Park, C.** and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2016).
 A Highly Efficient Robust Design Under Data Contamination.
 _Computers and Industrial Engineering_ **93**, 131-142.
 doi:[10.1016/j.cie.2015.11.016](https://doi.org/10.1016/j.cie.2015.11.016)
@@ -183,17 +183,17 @@ _Journal of Statistical Computation and Simulation_ **85**(18), 3641-3661.
 doi:[10.1080/00949655.2014.992346](https://doi.org/10.1080/00949655.2014.992346)
 
 
-2013. **Park, C**. (2013).
+2013. **Park, C.** (2013).
 Parameter estimation from load-sharing system data using the expectation-maximization algorithm.
 _IIE Transactions_ **45**, 147-163.
 doi:[10.1080/0740817X.2012.669878](https://doi.org/10.1080/0740817X.2012.669878)
 
-2013. **Park, C**. (2013).
+2013. **Park, C.** (2013).
 Determination of the Joint Confidence Region of Optimal Operating Conditions in Robust Design by Bootstrap Technique.
 _International Journal of Production Research_ **51**, 4695-4703.
 doi:[10.1080/00207543.2013.792963](https://doi.org/10.1080/00207543.2013.792963)
 
-2013. **Park, C**. (2013).
+2013. **Park, C.** (2013).
 An Improved p Chart based on the Wilson Interval.
 _Journal of Statistics & Management Systems_ **16**:2-3, 201-221.
 doi:[10.1080/09720510.2013.777576](https://doi.org/10.1080/09720510.2013.777576)
@@ -203,11 +203,11 @@ Robust Explicit Estimation of the Two-parameter Birnbaum-Saunders Distribution.
 _Journal of Applied Statistics_ **40**, 2259-2274.
 doi:[10.1080/02664763.2013.809570](https://doi.org/10.1080/02664763.2013.809570)
 
-2011. **Park, C**. and [A. Basu](https://www.isical.ac.in/~ayanbasu/) (2011).
+2011. **Park, C.** and [A. Basu](https://www.isical.ac.in/~ayanbasu/) (2011).
 Minimum Disparity Inference based on Tangent Disparities.
 _International Journal of Information and Management Sciences_ **22**, 1 - 25.
 
-2010. **Park, C**. (2010).
+2010. **Park, C.** (2010).
 Parameter Estimation for the Reliability of Load-Sharing Systems.
 _IIE Transactions_ **42**, 753 - 765.
 doi:[10.1080/07408171003670991](https://doi.org/10.1080/07408171003670991)
@@ -218,7 +218,7 @@ A Bootstrap Control Chart for Inverse Gaussian Percentiles.
 _Journal of Statistical Computation and Simulation_ **80**, 287 - 299.
 doi:[10.1080/00949650802627402](https://doi.org/10.1080/00949650802627402)
 
-2009. **Park, C**. (2009).
+2009. **Park, C.** (2009).
 Statistical Hypothesis Testing for Dot-Matrix Type Products.
 _International Journal of Quality Engineering and Technology_ **1**, 27 - 39.
 doi:[10.1504/IJQET.2009.030499](https://doi.org/10.1504/IJQET.2009.030499)
@@ -243,7 +243,7 @@ Development of a highly efficient and resistant robust design.
 _International Journal of Production Research_ **45**, 157-167.
 doi:[10.1080/00207540600649202](https://doi.org/10.1080/00207540600649202)
 
-2007. **Park, C**. and [W.J. Padgett](http://people.stat.sc.edu/padgett/) (2007).
+2007. **Park, C.** and [W.J. Padgett](http://people.stat.sc.edu/padgett/) (2007).
 Cumulative damage models for failure with several accelerating variables.
 _Quality Technology & Quantitative Management_ **4**, 17 - 34.
 doi:[10.1080/16843703.2007.11673132](https://doi.org/10.1080/16843703.2007.11673132)
@@ -255,111 +255,111 @@ _Journal of Statistical Planning and Inference_ **136**, 1718-1745.
 doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006c)]
 
-2006. **Park, C**. and  W.J. Padgett, (2006).
+2006. **Park, C.** and  W.J. Padgett, (2006).
 A general class of cumulative damage models for materials failure.
 _Journal of Statistical Planning and Inference_ **136**, 3783-3801.
 doi:[10.1016/j.jspi.2005.03.009](https://doi.org/10.1016/j.jspi.2005.03.009)
 
-2006. **Park, C**. and W.J. Padgett, (2006).
+2006. **Park, C.** and W.J. Padgett, (2006).
 Analysis of Strength Distributions of Multi-Modal Failures Using the EM Algorithm.
  _Journal of Statistical Computation and Simulation_ **76**, 619-636.
 doi:[10.1080/10629360500108970](https://doi.org/10.1080/10629360500108970)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006b)]
 
-2006. **Park, C**. and W.J. Padgett (2006).
+2006. **Park, C.** and W.J. Padgett (2006).
 Stochastic Degradation Models with Several Accelerating Variables.
 _IEEE Trans. on Reliability_ **55**, 379-390.
 doi:[10.1109/TR.2006.874937](https://doi.org/10.1109/TR.2006.874937)
 
-2006. J.Y. Jeong, J.S. Park, S.J. Kim, S.Y. Lee, W.H. Lee, **C**. **Park**, J.P. Hong, and S.B. Lee (2006).
+2006. J.Y. Jeong, J.S. Park, S.J. Kim, S.Y. Lee, W.H. Lee, **C. Park**, J.P. Hong, and S.B. Lee (2006).
 An experimental study of automotive bushing for radial mode.
 _Key Engineering Materials_ **326-328**, 1097-1100.
 doi:[10.4028/www.scientific.net/KEM.326-328.1097](https://doi.org/10.4028/www.scientific.net/KEM.326-328.1097)
 
-2006. Lee, S.B., H. Kim, S. Hur, W. D. Kim, C.S. Woo, and **C**. **Park** (2006).
+2006. Lee, S.B., H. Kim, S. Hur, W. D. Kim, C.S. Woo, and **C. Park** (2006).
 A Viscoelastic Model For An Automotive Transmission Rubber Mount.
 _Key Engineering Materials_ **306-308**, 995-1000.
 doi:[10.4028/www.scientific.net/KEM.306-308.995](https://doi.org/10.4028/www.scientific.net/KEM.306-308.995)
 
-2006. Lee, S.B. and **C**. **Park** (2006).
+2006. Lee, S.B. and **C. Park** (2006).
 Development of robust design optimization using incomplete data.
 _Computers & Industrial Engineering_ **50**, 345-356.
 doi:[10.1016/j.cie.2006.06.005](https://doi.org/10.1016/j.cie.2006.06.005)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006a)
 | [Corrections](https://appliedstat.github.io/files/corrections/CORRECTION-sb1.pdf)]
 
-2005. **Park**, **C**. (2005). 
+2005. **Park, C.** (2005). 
 Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorithm.
 _IEEE Trans. on Reliability_ **54**, 282-290.
 doi:[10.1109/TR.2005.846360](https://doi.org/10.1109/TR.2005.846360)
  [R Code](https://github.com/AppliedStat/R-code/tree/master/2005)]
 
-2005. **Park**, **C**. and W.J. Padgett (2005). 
+2005. **Park, C.** and W.J. Padgett (2005). 
 New Cumulative Damage Models for Failure Using Stochastic Processes as Initial Damage.
 _IEEE Trans. on Reliability_ **54**, 530-540.
 doi:[10.1109/TR.2005.853278](https://doi.org/10.1109/TR.2005.853278)
 
-2005. **Park**, **C**. and W.J. Padgett (2005).
+2005. **Park, C.** and W.J. Padgett (2005).
 Accelerated degradation models for failure based on geometric Brownian motion and gamma processes.
 _Lifetime Data Analysis_ **11**, 511-527.
 doi:[10.1007/s10985-005-5237-8](https://doi.org/10.1007/s10985-005-5237-8)
 
-2005. Cho, B.R. and **C**. **Park** (2005).
+2005. Cho, B.R. and **C. Park** (2005).
 Robust design modeling and optimization with unbalanced data.
 _Computers & Industrial Engineering_ **48**, 173-180.
 doi:[10.1016/j.cie.2005.01.004](https://doi.org/10.1016/j.cie.2005.01.004)
 
-2004. **Park**, **C**. and [A. Basu](https://www.isical.ac.in/~ayanbasu/) (2004).
+2004. **Park, C.** and [A. Basu](https://www.isical.ac.in/~ayanbasu/) (2004).
 Minimum Disparity Estimation: Asymptotic Normality and Breakdown Point Results.
 _Bulletin of Informatics and Cybernetics_ **36**, 19-33.
 Web: http://hdl.handle.net/2324/12576
 
-2004. **Park**, **C**. and K.B. Kulasekera (2004).
+2004. **Park, C.** and K.B. Kulasekera (2004).
 Parametric inference of incomplete data with competing risks among several groups.
 _IEEE Trans. on Reliability_ **53**, 11-21.
 doi:[10.1109/TR.2003.821946](https://doi.org/10.1109/TR.2003.821946)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2004)]
 
-2004. Basu, A., **C**. **Park**, B.G. Lindsay and H. Li (2004).
+2004. Basu, A., **C. Park**, B.G. Lindsay and H. Li (2004).
 Some Variants of Minimum Disparity Estimation. 
 _Computational Statistics and Data Analysis_ **45**, 741-763.
 doi:[10.1016/S0167-9473(03)00098-7](https://doi.org/10.1016/S0167-9473(03)00098-7)
 
-2004. Kulasekera, K.B. and **C**. **Park** (2004).
+2004. Kulasekera, K.B. and **C. Park** (2004).
 Robust nonparametric regression estimation. 
 _Journal of Statistical Theory and Applications_ **3**, 125-133.
 
-2003. **Park**, **C**. and A. Basu (2003).
+2003. **Park, C.** and A. Basu (2003).
 The generalized Kullback-Leibler divergence and robust inference.
 _Journal of Statistical Computation and Simulation_ **73**, 311-332.
 doi:[10.1080/0094965021000033477](https://doi.org/10.1080/0094965021000033477)
 
-2003. **Park**, **C**. and B.R. Cho. (2003).
+2003. **Park, C.** and B.R. Cho. (2003).
 Development of Robust Design Under Contaminated and Non-Normal Data.
 _Quality Engineering_ **15**, 463-469.
 doi:[10.1081/QEN-120018045](https://doi.org/10.1081/QEN-120018045)
 
-2002. **Park**, **C**., A. Basu, and B.G. Lindsay (2002).
+2002. **Park, C.**, A. Basu, and B.G. Lindsay (2002).
 The Residual Adjustment Function and Weighted Likelihood:
 A Graphical Interpretation of Robustness of Minimum Disparity Estimators.
 _Computational Statistics and Data Analysis_ **39**, 21-33.
 doi:[10.1016/S0167-9473(01)00047-0](https://doi.org/10.1016/S0167-9473(01)00047-0)
 
-2002. Basu, A., R. Surajit, **C**. **Park** and S. Basu (2002).
+2002. Basu, A., R. Surajit, **C. Park** and S. Basu (2002).
 Improved power in multinomial goodness-of-fit tests.
 _Journal of the Royal Statistical Society Series D_ (The Statistician) **51**, 381-393.
 doi:[10.1111/1467-9884.00325](https://doi.org/10.1111/1467-9884.00325)
 
-2001. **Park**, **C**., A. Basu, and I.R. Harris (2001).
+2001. **Park, C.**, A. Basu, and I.R. Harris (2001).
 Tests of Hypotheses in Multiple Samples based on Penalized Disparities.
 _Journal of the Korean Statistical Society_ **30**, 347-366.
 
-1997. **Park**, **C**., I.R. Harris and A. Basu (1997). 
+1997. **Park, C.**, I.R. Harris and A. Basu (1997). 
 Robust predictive distributions based on the penalized blended weight Hellinger distance.
 _Communications in Statistics: Simulation and Computations_ **26**, 21-33.
 doi:[10.1080/03610919708813365](https://doi.org/10.1080/03610919708813365)
 
-1995. **Park**, **C**., A. Basu, and S. Basu (1995).
+1995. **Park, C.**, A. Basu, and S. Basu (1995).
 Robust Minimum Distance Inference based on Combined Distances.
 _Communications in Statistics: Simulation and Computations_ **24**, 653-673.
 doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)

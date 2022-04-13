@@ -43,6 +43,13 @@ _Communications in Statistics - Simulation and Computation_ **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [[R package](https://appliedstat.github.io/R/R-package-3/)]
 
+2022. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), A. A. Mutairi,
+[E. M. Almetwally](https://orcid.org/0000-0002-3888-1275), **C. Park**, and
+[H. Rezk](https://orcid.org/0000-0002-7501-7232) (2022).
+Optimal design for a bivariate step-stress accelerated life test with
+alpha power exponential distribution based on type-I progressive censored samples.
+_Symmetry_ **To Appear**.
+
 2022. Ma, Z., **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Robust bootstrap control charts for the log-logistic percentiles.
 _Journal of Statistical Theory and Practice_ **16**, 3.

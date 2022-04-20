@@ -7,13 +7,6 @@ A Study on Estimating the Parameter of the Truncated Geometric Distribution.
 _The American Statistician_ **To Appear**. 
 doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
 
-2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-S. Zhu, [K. Ye](https://business.utsa.edu/faculty/keying-ye/),
-**C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
-Robust Bayesian hierarchical modeling and inference using scale mixtures of normal distributions.
-_IISE Transactions_ **To Appear**.
-doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
-
 2022. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.
@@ -31,6 +24,13 @@ Investigation of Finite-Sample Properties of Robust Location and Scale Estimator
 _Communications in Statistics - Simulation and Computation_ **To Appear**.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [[R package](https://appliedstat.github.io/R/R-package-3/)]
+
+2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+S. Zhu, [K. Ye](https://business.utsa.edu/faculty/keying-ye/),
+**C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+Robust Bayesian hierarchical modeling and inference using scale mixtures of normal distributions.
+_IISE Transactions_ **54**(7), 659-671.
+doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
 
 2022. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), A. A. Mutairi,
 [E. M. Almetwally](https://orcid.org/0000-0002-3888-1275), **C. Park**, and

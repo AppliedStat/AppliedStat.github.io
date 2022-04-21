@@ -41,7 +41,7 @@ _Symmetry_ **14**, 830.
 doi:[10.3390/sym14040830](https://doi.org/10.3390/sym14040830)
 
 2022. Ma, Z., **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
-Robust bootstrap control charts for the log-logistic percentiles.
+A robust bootstrap control chart for the log-logistic percentiles.
 _Journal of Statistical Theory and Practice_ **16**, 3.
 doi:[10.1007/s42519-021-00239-3](https://doi.org/10.1007/s42519-021-00239-3)
 

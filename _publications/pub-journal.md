@@ -19,6 +19,16 @@ Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
+2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+Y. Che, L. Yan, and **C. Park** (2022).
+Multiple perspectives on analyzing risk factors in FMEA.
+_Computers in industry_ **To Appear**.
+
+2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2),
+**C. Park**, and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
+An Active Learning Bayesian Ensemble Surrogate Model for Structural Reliability Analysis.
+_Quality and Reliability Engineering International_ **To Appear**.
+
 2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_ **To Appear**.

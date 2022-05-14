@@ -35,8 +35,9 @@ Y. Che, L. Yan, and **C. Park** (2022).
 Multiple perspectives on analyzing risk factors in FMEA.
 _Computers in industry_ **To Appear**.
 
-2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2),
-**C. Park**, and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
+2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, 
+[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
 An Active Learning Bayesian Ensemble Surrogate Model for Structural Reliability Analysis.
 _Quality and Reliability Engineering International_ **To Appear**.
 

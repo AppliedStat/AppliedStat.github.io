@@ -32,7 +32,7 @@ _Quality and Reliability Engineering International_ **To Appear**.
 
 2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
-_Communications in Statistics - Simulation and Computation_ **To Appear**.
+_Communications in Statistics - Simulation and Computation_ **51**(5), 2619-2645.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [[R package](https://appliedstat.github.io/R/R-package-3/)]
 

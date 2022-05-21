@@ -9,7 +9,8 @@ For more details, see  [Park, Kim, and Wang (2022)](https://doi.org/10.1080/0361
 
 In addition, the \"rQCC\" package also provides various conventional attribute control charts such as 
  _p_, _np_, _c_, _u_, _g_, and _h_ charts. 
-For more details on _g_ and _h_ charts, see [Park, Ouyang, and Wang (2022)](https://doi.org/10.1016/j.cie.2021.107765).
+For more details on _g_ and _h_ charts, 
+see [Park and Wang (2022)](https://doi.org/10.1080/03610926.2022.2044492).
 
 This work was partially supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (NRF-2017R1A2B4004169).
 

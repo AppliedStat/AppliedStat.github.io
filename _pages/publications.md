@@ -34,6 +34,13 @@ doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.205549
 Y. Che, L. Yan, and **C. Park** (2022).
 Multiple perspectives on analyzing risk factors in FMEA.
 _Computers in industry_ **To Appear**.
+doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.103712)
+
+2022. Liu, L., J.-H. Byun, **C. Park**, and 
+[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
+Modified sequential bifurcation for simulation factor screening under skew-normal response model.
+_Computers and Industrial Engineering_ **To Appear**.
+doi:[10.1016/j.cie.2022.108274](https://doi.org/10.1016/j.cie.2022.108274)
 
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, 
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),

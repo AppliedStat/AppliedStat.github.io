@@ -30,23 +30,23 @@ Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
-2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-Y. Che, L. Yan, and **C. Park** (2022).
-Multiple perspectives on analyzing risk factors in FMEA.
-_Computers in industry_ **To Appear**.
-doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.103712)
-
-2022. Liu, L., J.-H. Byun, **C. Park**, and 
-[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
-Modified sequential bifurcation for simulation factor screening under skew-normal response model.
-_Computers and Industrial Engineering_ **To Appear**.
-doi:[10.1016/j.cie.2022.108274](https://doi.org/10.1016/j.cie.2022.108274)
-
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, 
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
 An Active Learning Bayesian Ensemble Surrogate Model for Structural Reliability Analysis.
 _Quality and Reliability Engineering International_ **To Appear**.
+
+2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+Y. Che, L. Yan, and **C. Park** (2022).
+Multiple perspectives on analyzing risk factors in FMEA.
+_Computers in industry_ **141**, 103712
+doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.103712)
+
+2022. Liu, L., J.-H. Byun, **C. Park**, and 
+[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
+Modified sequential bifurcation for simulation factor screening under skew-normal response model.
+_Computers and Industrial Engineering_ **169**, 108274
+doi:[10.1016/j.cie.2022.108274](https://doi.org/10.1016/j.cie.2022.108274)
 
 2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.

@@ -37,8 +37,8 @@ Modified sequential bifurcation for simulation factor screening under skew-norma
 _Computers and Industrial Engineering_ **169**, 108274 
 doi:[10.1016/j.cie.2022.108274](https://doi.org/10.1016/j.cie.2022.108274)
 
-2022. [E. M. Almetwally](https://orcid.org/0000-0002-3888-1275),
-[Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), A. A. Mutairi, **C. Park**, and
+2022. [Almetwally, E. M.](https://orcid.org/0000-0002-3888-1275),
+[R. Alotaibi](https://orcid.org/0000-0002-9449-7489), A. A. Mutairi, **C. Park**, and
 [H. Rezk](https://orcid.org/0000-0002-7501-7232) (2022).
 Optimal plan of Multi Stress-Strength Reliability Bayesian and non-Bayesian methods for
 the Alpha Power Exponential Model Using Progressive First Failure.

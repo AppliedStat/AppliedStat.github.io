@@ -40,8 +40,9 @@ doi:[10.1016/j.cie.2022.108274](https://doi.org/10.1016/j.cie.2022.108274)
 2022. [Almetwally, E. M.](https://orcid.org/0000-0002-3888-1275),
 [R. Alotaibi](https://orcid.org/0000-0002-9449-7489), A. A. Mutairi, **C. Park**, and
 [H. Rezk](https://orcid.org/0000-0002-7501-7232) (2022).
-Optimal plan of Multi Stress-Strength Reliability Bayesian and non-Bayesian methods for
-the Alpha Power Exponential Model Using Progressive First Failure.
+Optimal plan of multi-stress-strength reliability Bayesian and non-Bayesian methods for
+the alpha power exponential model using progressive first failure.
+
 _Symmetry_ **To Appear**
 
 2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).

@@ -41,9 +41,7 @@ doi:[10.1016/j.cie.2022.108274](https://doi.org/10.1016/j.cie.2022.108274)
 [R. Alotaibi](https://orcid.org/0000-0002-9449-7489), A. A. Mutairi, **C. Park**, and
 [H. Rezk](https://orcid.org/0000-0002-7501-7232) (2022).
 Optimal plan of multi-stress-strength reliability Bayesian and non-Bayesian methods for
-the alpha power exponential model using progressive first failure.
-
-_Symmetry_ **To Appear**
+the alpha power exponential model using progressive first failure.  _Symmetry_ **To Appear**
 
 2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.

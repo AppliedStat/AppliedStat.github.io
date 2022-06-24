@@ -54,7 +54,8 @@ doi:[10.1016/j.cie.2022.108274](https://doi.org/10.1016/j.cie.2022.108274)
 [H. Rezk](https://orcid.org/0000-0002-7501-7232) (2022).
 Optimal plan of multi-stress-strength reliability Bayesian and non-Bayesian methods for
 the alpha power exponential model using progressive first failure.
-_Symmetry_ **To Appear**
+_Symmetry_ **14**(7), 1306.
+doi:[10.3390/sym14071306](https://doi.org/10.3390/sym14071306)
 
 2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
@@ -74,7 +75,7 @@ doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.191244
 [H. Rezk](https://orcid.org/0000-0002-7501-7232) (2022).
 Optimal design for a bivariate step-stress accelerated life test with
 alpha power exponential distribution based on type-I progressive censored samples.
-_Symmetry_ **14**, 830.
+_Symmetry_ **14**(4), 830.
 doi:[10.3390/sym14040830](https://doi.org/10.3390/sym14040830)
 
 2022. Ma, Z., **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).

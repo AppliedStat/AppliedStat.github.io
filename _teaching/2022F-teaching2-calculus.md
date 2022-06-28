@@ -15,9 +15,8 @@ Description
 + Topics covered in this class include basic function theory, limit and continuity,
   differentiation, integration, vectors and geometry of space.
 + We will also study various calculus applications widely used for engineering. 
-  The popular 
-  [R statistical language](https://www.r-project.org/) 
-  or Rstudio will be briefly handled in this class.
+  The popular [R statistical language](https://www.r-project.org/) 
+  and [Mathematica](https://www.wolframalpha.com/) will be briefly handled in this class.
 
 
 Objectives 

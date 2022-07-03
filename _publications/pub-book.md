@@ -7,15 +7,15 @@ Robust control charts using R.  _In Preparation_
 [ [R Codes](https://github.com/AppliedStat/RCC) ]
 
 1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019). 
-Robust Design in the Case of Data Contamination and Model Departure. 
-Statistical Quality Technologies: Theory and Practice. 
+Robust Design in the Case of Data Contamination and Model Departure.
+Statistical Quality Technologies: Theory and Practice.
 In _Springer ICSA Book Series in Statistics,_ 347-373.
 doi:[10.1007/978-3-030-20709-0_15](https://doi.org/10.1007/978-3-030-20709-0_15).
 
 1. **Park**, **C**. (2017). 
 Stochastic Accelerated Degradation Models Based on a Generalized Cumulative Damage Approach. 
 Statistical Modeling for Degradation Data.
-In _Springer ICSA Book Series in Statistics,_ 3-20.   
+In _Springer ICSA Book Series in Statistics,_ 3-20.
 doi:[10.1007/978-981-10-5194-4_1](https://doi.org/10.1007/978-981-10-5194-4_1).
 
 1. [Basu, A.](https://www.isical.ac.in/~ayanbasu/), H. Shioya and **C. Park** (2011). 
@@ -26,7 +26,7 @@ doi:[10.1201/b10956](https://doi.org/10.1201/b10956).\
 
 1. **Park**, **C**. and [W.J. Padgett](http://people.stat.sc.edu/padgett/) (2008).
 Cumulative damage models based on gamma processes. 
-In _Encyclopedia of Statistics in Quality and Reliability._ John Wiley & Sons.   
+In _Encyclopedia of Statistics in Quality and Reliability._ John Wiley & Sons.
 doi:[10.1002/9780470061572.eqr119](https://doi.org/10.1002/9780470061572.eqr119)
 
 1. [Basu, A.](https://www.isical.ac.in/~ayanbasu/) and **C**. **Park** (2004).

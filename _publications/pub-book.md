@@ -2,6 +2,10 @@
 title: "Books and Book Chapters"
 collection: publications
 ---
+1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023+).
+Robust control charts using R.  _Under Preparation_ 
+[ [R Codes](https://github.com/AppliedStat/RCC) ]
+
 1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019). 
 Robust Design in the Case of Data Contamination and Model Departure. 
 Statistical Quality Technologies: Theory and Practice. 

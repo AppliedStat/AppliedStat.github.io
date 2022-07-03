@@ -21,7 +21,7 @@ doi:[10.1007/978-981-10-5194-4_1](https://doi.org/10.1007/978-981-10-5194-4_1).
 1. [Basu, A.](https://www.isical.ac.in/~ayanbasu/), H. Shioya and **C. Park** (2011). 
 _Statistical Inference: The Minimum Distance Approach._
 Chapman & Hall/CRC. eBook: 978-1-4200996-6-9.
-doi:[10.1201/b10956](https://doi.org/10.1201/b10956).
+doi:[10.1201/b10956](https://doi.org/10.1201/b10956).\
 [ [Amazon-Author](https://www.amazon.com/Chanseok-Park/e/B005NE2GU0) | [Contents](https://appliedstat.github.io/files/book-mindist/02-contents.pdf) | Reviews: [JAS](https://appliedstat.github.io/files/book-mindist/03-review1-JAS.pdf) / [ISR](https://appliedstat.github.io/files/book-mindist/04-review2-ISR.pdf) /[Amazon](https://appliedstat.github.io/files/book-mindist/05-review3-amazon.png)  |  [News](https://appliedstat.github.io/files/book-mindist/06-KAIST-newletter.png) ]
 
 1. **Park**, **C**. and [W.J. Padgett](http://people.stat.sc.edu/padgett/) (2008).

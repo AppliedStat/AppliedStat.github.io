@@ -11,11 +11,6 @@ author_profile: true
 
 Recent Publications
 ------
-2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
-A Study on Estimating the Parameter of the Truncated Geometric Distribution.
-_The American Statistician_ **To Appear**.
-doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
-
 2022. **Park, C.** and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A study on the _g_ and _h_ control charts.
@@ -46,6 +41,11 @@ and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
 An Active Learning Bayesian Ensemble Surrogate Model for Structural Reliability Analysis.
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3152](https://doi.org/10.1002/qre.3152)
+
+2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+A Study on Estimating the Parameter of the Truncated Geometric Distribution.
+_The American Statistician_ **76**(3) 257-261.
+doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
 
 2022. Liu, L., J.-H. Byun, **C. Park**, and 
 [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).

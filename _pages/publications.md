@@ -35,6 +35,11 @@ Multiple perspectives on analyzing risk factors in FMEA.
 _Computers in industry_ **141**, 103712
 doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.103712)
 
+2022. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and
+[W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2022).
+Empirical distributions of the robustified t-test statistics
+_Industrial Engineering & Management Systems_ **To Appear**.
+
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).

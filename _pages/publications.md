@@ -37,7 +37,7 @@ doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.10371
 
 2022. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2022).
-Empirical distributions of the robustified t-test statistics
+Empirical distributions of the robustified t-test statistics. 
 _Industrial Engineering & Management Systems_ **To Appear**.
 
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**,

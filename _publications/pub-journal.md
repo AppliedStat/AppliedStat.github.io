@@ -124,6 +124,7 @@ doi:[10.3390/e22111329](https://doi.org/10.3390/e22111329)
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_ **49**(10), 2583-2603. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2020c/Example.r)]
 
 2020. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.

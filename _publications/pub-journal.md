@@ -178,10 +178,15 @@ _Journal of Algorithms & Computational Technology_ **12**(3), 253-272.
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2018)]
 
+2018. Lee, D. and  **C. Park** (2018).
+On the Generalized Mean Square Error and its Applications.
+_Journal of the Korean Institute of Industrial Engineers_ **44**(2), 102-113.
+doi:[10.7232/JKIIE.2018.44.2.102](https://doi.org/10.7232/JKIIE.2018.44.2.102)
+
 2018. Park, J.P., **C. Park**, Y.J. Oh, J.H. Kim and C.B. Bahn (2018). 
 Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation Model for Alloy 182 Weld Considering Right-Censored Data and the Covariate Effect.
 _Nuclear Engineering and Technology_ **50**(1), 107-115. 
-doi:[10.1016/j.net.2017.09.005](10.1016/j.net.2017.09.005)
+doi:[10.1016/j.net.2017.09.005](https://doi.org/10.1016/j.net.2017.09.005)
 
 2017. **Park, C.** (2017). 
 Weibullness test (goodness-of-fit test for Weibull) and parameter estimation of the three-parameter Weibull model using the sample correlation coefficient.

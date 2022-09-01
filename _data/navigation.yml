@@ -6,17 +6,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "R"
-    url: /R/
-
-  - title: "Lab"
-    url: /ASL/    
-
   - title: "Teaching"
     url: /teaching/    
  
+  - title: "R"
+    url: /R/
+
   - title: "Misc."
     url: /misc/
  
   - title: "Contact"
     url: /contact/
+
+  - title: "Lab"
+    url: /ASL/    

@@ -44,7 +44,7 @@ _Industrial Engineering & Management Systems_ **To Appear**.
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
 An Active Learning Bayesian Ensemble Surrogate Model for Structural Reliability Analysis.
-_Quality and Reliability Engineering International_ **To Appear**.
+_Quality and Reliability Engineering International_ **38**(7) 3579-3597.
 doi:[10.1002/qre.3152](https://doi.org/10.1002/qre.3152)
 
 2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).

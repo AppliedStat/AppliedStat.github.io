@@ -2,6 +2,10 @@
 title: "Conference Papers and Manuscripts"
 collection: publications
 ---
+1. Jeong, N., B. Son and **C. Park** (2022).
+EM 알고리즘을 이용한 기계부품의 고장 원인 및 신뢰성 분석.
+대한기계학회 학술대회, 제주국제컨벤션센터 (2022년 11월 9일).
+
 1. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
 A note on the _g_ and _h_ control charts.
 [arXiv:2101.07575](https://arxiv.org/abs/2101.07575) 
@@ -24,11 +28,11 @@ On the existence of the location parameter estimate of the three-parameter Weibu
 1. **Park, C**. (2015).
 Parameter Estimation of the Three-Parameter Weibull Model Using the Sample Correlation Coefficient from the Weibull Plot. In Proceedings of the Second East Asia Workshop on Industrial Engineering, 37-43, Seoul, Korean Institute of Industrial Engineers. 
 
-1. Lee, M. and  **Park, C** (2012).
+1. Lee, M. and  **C. Park** (2012).
 A Note On the Use of Fiducial Limits for Control Charts.
 [arXiv:1203.3882](https://arxiv.org/abs/1203.3882)
 
-1. **Park, C** and Lee, S. B. (2012).
+1. **Park, C** and S. B. Lee (2012).
 Parameter Estimation from Censored Samples using the Expectation-Maximization Algorithm
 [arXiv:1203.3880](https://arxiv.org/abs/1203.3880)
 

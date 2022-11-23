@@ -1,6 +1,6 @@
 ---
 title: "Calculus I"
-collection: classes 
+collection: class
 type: "Undergraduate course"
 venue: "IE-15379"
 date: 2022-09-01

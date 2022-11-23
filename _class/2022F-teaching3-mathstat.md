@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Statistics"
-collection: classes 
+collection: class
 type: "Graduate course"
 venue: "DE-76044"
 date: 2022-09-01

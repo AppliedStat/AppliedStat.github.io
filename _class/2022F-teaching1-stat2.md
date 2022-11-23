@@ -1,6 +1,6 @@
 ---
 title: "Engineering Statistics - II"
-collection: teaching
+collection: classes
 type: "Undergraduate course"
 venue: "IE-24211"
 date: 2022-09-01

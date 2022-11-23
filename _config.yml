@@ -184,7 +184,7 @@ collections:
   R: 
     output: true
     permalink: /:collection/:path/
-  teaching:
+  classes:
     output: true
     permalink: /:collection/:path/
 
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _classes
   - scope:
       path: ""
-      type: teaching
+      type: classes
     values:
       layout: single
       author_profile: true

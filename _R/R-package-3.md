@@ -12,7 +12,8 @@ In addition, the \"rQCC\" package also provides various conventional attribute c
 For more details on _g_ and _h_ charts, 
 see [Park and Wang (2022)](https://doi.org/10.1080/03610926.2022.2044492).
 
-This work was partially supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (NRF-2017R1A2B4004169).
+This work was supported by the National Research Foundation of Korea(NRF) grant funded
+by the Korea government(MSIT) (No. 2022R1A2C1091319).
 
 ### Links
 [![cran](https://cranlogs.r-pkg.org/badges/grand-total/rQCC)](https://cran.r-project.org/web/packages/rQCC/) 

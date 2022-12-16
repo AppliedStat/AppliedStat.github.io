@@ -19,7 +19,7 @@ Description
 + Time permitting, we will also consider how to deal with outliers 
   and influential observations. 
 + The popular [R statistical language](https://www.r-project.org/), 
-  [Python3](https://www.python.org/), and Minitab will be handled in this class.
+  [Python3](https://www.python.org/), and [Minitab](https://www.minitab.com/) will be handled in this class.
 + We will also consider various practical applications widely used for engineering. 
 
 
@@ -58,5 +58,5 @@ Links
 + [R and Minitab Codes](https://github.com/AppliedStat/LM/)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
 + [Minitab (trial SW)](http://www.minitab.com/en-us/products/minitab/free-trial/)
-+ [Minitab (manual)](https://www.minitab.com/uploadedFiles/Documents/getting-started/Minitab17_GettingStarted-en.pdf)
++ [Minitab (manual)](https://www.minitab.com/en-us/support/documents/)
 

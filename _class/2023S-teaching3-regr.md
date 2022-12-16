@@ -45,7 +45,7 @@ Upon successful completion of this course, students will be able to:
 
 Why regression?
 ======
-+ [Key Types of Regressions: Which One to Use?](https://towardsdatascience.com/key-types-of-regressions-which-one-to-use-c1f25407a8a4)
++ [Key Types of Regressions: Which One to Use?](https://www.datasource.ai/en/data-science-articles/key-types-of-regressions-which-one-to-use)
 + [What is “linear” regression model?](https://towardsdatascience.com/what-is-linear-regression-model-f24f1a24f9bb)
 + [R Vs Python: What’s the Difference?](https://www.guru99.com/r-vs-python.html)
 + [Why R for Data Science – and not  Python?](http://blog.ephorie.de/why-r-for-data-science-and-not-python)

@@ -3,6 +3,7 @@ title: "Statistical Models and Analysis"
 collection: teaching
 type: "Graduate course"
 venue: "IE-68722 / DE-76045"
+date: 2023-03-01
 location: "Busan, Korea"
 ---
 ---

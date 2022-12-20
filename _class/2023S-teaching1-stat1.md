@@ -1,5 +1,5 @@
 ---
-title: "Engineering Statistics - I"
+title: "Engineering Statistics - I (공학통계1)"
 collection: teaching
 type: "Undergraduate course"
 venue: "IE-2400210"

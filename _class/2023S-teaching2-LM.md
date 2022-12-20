@@ -1,5 +1,5 @@
 ---
-title: "Linear Models in Data Science"
+title: "Linear Models in Data Science (통계적 선형모형)"
 collection: teaching
 type: "undergraduate course"
 venue: "IE-3500452"

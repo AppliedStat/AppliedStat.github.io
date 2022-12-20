@@ -1,8 +1,8 @@
 ---
-title: "Statistical Models and Analysis"
+title: "Linear Models in Data Science"
 collection: teaching
-type: "Graduate course"
-venue: "IE-6800722 / DE-7600045"
+type: "undergraduate course"
+venue: "IE-3500452"
 date: 2023-03-01
 location: "Busan, Korea"
 ---
@@ -53,7 +53,7 @@ Why regression?
 
 Links
 ======
-+ [Syllabus](/files/syllabus/syl-IE-6800722-2023.pdf)
++ [Syllabus](/files/syllabus/syl-IE-3500452-2023.pdf)
 + [Class Notes](https://github.com/AppliedStat/LM/tree/master/Notes)
 + [R and Minitab Codes](https://github.com/AppliedStat/LM/)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)

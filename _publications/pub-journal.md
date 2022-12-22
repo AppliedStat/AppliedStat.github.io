@@ -2,19 +2,19 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2022. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2023. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
-2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2022).
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
 Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
-2022. Ma, Z., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2022).
+2023. Ma, Z., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
 Robust explicit estimation of the log-logistic with applications.
 _Journal of Statistical Theory and Practice_ **In Revision**.
 

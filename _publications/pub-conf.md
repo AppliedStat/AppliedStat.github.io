@@ -22,6 +22,14 @@ Note on the robustification of the Student t-test statistic using the median and
 A Statistical Analysis on Modeling Uncertainty Through Crack Initiation Tests.  In Jackson J., Paraventi D., Wright M. (eds) Proceedings of the 18th International Conference on Environmental Degradation of Materials in Nuclear Power Systems – Water Reactors. The Minerals, Metals & Materials Series. Springer, Cham.
 doi:[10.1007/978-3-319-68454-3_59](https://doi.org/10.1007/978-3-319-68454-3_59)
 
+1. Park, J.P., **C. Park**, and [C. B. Bahn](https://corrosion.pusan.ac.kr/mins/index.do) (2017).
+A Study on Development of Probabilistic Crack Initiation Model for Alloy 182 Weld.
+대한기계학회 재료 및 파괴부문 춘계학술대회 173-174 (KSME-17MF-Fr04B004).
+
+1. Park, J.P., **C. Park**, and [C. B. Bahn](https://corrosion.pusan.ac.kr/mins/index.do) (2017).
+Effects of Experimental Conditions on Estimation Uncertainty of Crack Initiation Model Parameters. 
+대한기계학회 신뢰성부문 춘계학술대회 51-51 (KSME-17RE-Th03A001)
+
 1. **Park, C**. (2016).
 On the existence of the location parameter estimate of the three-parameter Weibull model using the Weibull plot.  In The 7th Asia-Pacific International Symposium on Advance Reliability and Maintenance Modelling (APARM 2016), August 24-26, Seoul, Korea.
 

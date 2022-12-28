@@ -23,6 +23,10 @@ doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.205549
 Robust explicit estimation of the log-logistic with applications.
 _Journal of Statistical Theory and Practice_ **In Revision**.
 
+2022. **Park, C.** and [N. Jeong](https://www.researchgate.net/profile/Nami-Jeong) (2022).
+이상치에 대한 와이블 분포의 로버스트 추정법 개발.
+_신뢰성응용연구_ **22**(4) 374-384.
+
 2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 Y. Che, L. Yan, and **C. Park** (2022).
 Multiple perspectives on analyzing risk factors in FMEA.

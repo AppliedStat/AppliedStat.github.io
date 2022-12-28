@@ -2,6 +2,11 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
+2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+Novel robust  g  and  h  charts using the generalized Kullback-Leibler divergence.
+_Computers and Industrial Engineering_ **To Appear**
+
 2023. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.

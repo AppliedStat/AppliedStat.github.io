@@ -8,7 +8,7 @@ These estimators are all unbiased with a sample of finite size.
 For more details, see  [Park, Kim, and Wang (2022)](https://doi.org/10.1080/03610918.2019.1699114).
 
 In addition, the \"rQCC\" package also provides various conventional attribute control charts such as 
- _p_, _np_, _c_, _u_, _g_, and _h_ charts. 
+ _p_, _np_, _c_, _u_, _g_, _h_, and _t_ charts. 
 For more details on _g_ and _h_ charts, 
 see [Park and Wang (2022)](https://doi.org/10.1080/03610926.2022.2044492).
 

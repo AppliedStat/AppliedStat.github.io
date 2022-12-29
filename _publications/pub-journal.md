@@ -29,18 +29,18 @@ The Development of Robust Estimation Methods for the Weibull Distribution with C
 _Journal of Applied Reliability (신뢰성응용연구)_ **22**(4) 374-384.
 doi:[10.33162/JAR.2022.12.22.4.374](https://doi.org/10.33162/JAR.2022.12.22.4.374)
 
-2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-Y. Che, L. Yan, and **C. Park** (2022).
-Multiple perspectives on analyzing risk factors in FMEA.
-_Computers in industry_ **141**, 103712.
-doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.103712)
-
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2022).
 An Active Learning Bayesian Ensemble Surrogate Model for Structural Reliability Analysis.
 _Quality and Reliability Engineering International_ **38**(7) 3579-3597.
 doi:[10.1002/qre.3152](https://doi.org/10.1002/qre.3152)
+
+2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+Y. Che, L. Yan, and **C. Park** (2022).
+Multiple perspectives on analyzing risk factors in FMEA.
+_Computers in industry_ **141**, 103712.
+doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.103712)
 
 2022. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2022).

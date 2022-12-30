@@ -4,7 +4,7 @@ collection: publications
 ---
 2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
-Novel robust  g  and  h  charts using the generalized Kullback-Leibler divergence.
+Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
 _Computers and Industrial Engineering_ **To Appear**
 
 2023. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).

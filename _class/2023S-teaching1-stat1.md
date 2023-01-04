@@ -10,7 +10,7 @@ location: "Busan, Korea"
 
 Description
 ======
-+ Engineering Statistics I (IE-24210) 
++ Engineering Statistics I (IE-2400210) 
   will focus on basic concepts and theories of probability and statistics.  <br />
 +  Topics covered in this class include basic distribution theories and
  various probability distributions such

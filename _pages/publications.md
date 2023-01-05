@@ -32,6 +32,7 @@ _Journal of Statistical Theory and Practice_ **In Revision**.
 and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
 _Computers and Industrial Engineering_ **176**, 108951.
+doi:[10.1016/j.cie.2022.108951](https://doi.org/10.1016/j.cie.2022.108951)
 
 
 

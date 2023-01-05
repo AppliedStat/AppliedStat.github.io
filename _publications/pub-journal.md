@@ -22,6 +22,7 @@ _Journal of Statistical Theory and Practice_ **In Revision**.
 and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
 _Computers and Industrial Engineering_ **176**, 108951.
+doi:[10.1016/j.cie.2022.108951](https://doi.org/10.1016/j.cie.2022.108951)
 
 2022. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2022).
 The Development of Robust Estimation Methods for the Weibull Distribution with Contaminated Data
@@ -50,7 +51,7 @@ doi:[10.7232/iems.2022.21.3.432](https://doi.org/10.7232/iems.2022.21.3.432)
 
 2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
 A Study on Estimating the Parameter of the Truncated Geometric Distribution.
-_The American Statistician_ **76**(3) 257-261.
+_The American Statistician_ **76**(3), 257-261.
 doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
 
 2022. Liu, L., J.-H. Byun, **C. Park**, and 
@@ -150,7 +151,8 @@ A study on robustness of the paired sample tests.
 _Industrial Engineering & Management Systems_ **19**(2), 386-397.  
 doi:[10.7232/iems.2020.19.2.386](https://doi.org/10.7232/iems.2020.19.2.386)
 
-2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), **C. Park**, and J.-H. Byun (2020).
+2020. Zhang, Y., [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), 
+**C. Park**, and J.-H. Byun (2020).
  Integration of the variance of quadratic loss for evaluating process performance.
 _Quality Engineering_ **32**(1), 46-57.
 doi:[10.1080/08982112.2019.1635698](https://doi.org/10.1080/08982112.2019.1635698)

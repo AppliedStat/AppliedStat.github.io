@@ -2,11 +2,6 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
-Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
-_Computers and Industrial Engineering_ **To Appear**
-
 2023. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.
@@ -23,10 +18,15 @@ doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.205549
 Robust explicit estimation of the log-logistic with applications.
 _Journal of Statistical Theory and Practice_ **In Revision**.
 
+2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
+_Computers and Industrial Engineering_ **176**, 108951.
+
 2022. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2022).
 The Development of Robust Estimation Methods for the Weibull Distribution with Contaminated Data
 (이상치에 대한 와이블 분포의 로버스트 추정법 개발). 
-_Journal of Applied Reliability (신뢰성응용연구)_ **22**(4) 374-384.
+_Journal of Applied Reliability (신뢰성응용연구)_ **22**(4), 374-384.
 doi:[10.33162/JAR.2022.12.22.4.374](https://doi.org/10.33162/JAR.2022.12.22.4.374)
 
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**,
@@ -45,7 +45,7 @@ doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.10371
 2022. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2022).
 Empirical distributions of the robustified t-test statistics. 
-_Industrial Engineering & Management Systems_ **21**(3) 432-439.
+_Industrial Engineering & Management Systems_ **21**(3), 432-439.
 doi:[10.7232/iems.2022.21.3.432](https://doi.org/10.7232/iems.2022.21.3.432)
 
 2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).

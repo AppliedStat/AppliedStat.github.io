@@ -16,7 +16,7 @@ doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.205549
 
 2023. Ma, Z., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
 Robust explicit estimation of the log-logistic with applications.
-_Journal of Statistical Theory and Practice_ **In Revision**.
+_Journal of Statistical Theory and Practice_ **To Appear**.
 
 2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).

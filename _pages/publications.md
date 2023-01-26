@@ -28,7 +28,12 @@ doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.205549
 Robust explicit estimation of the log-logistic with applications. 
 _Journal of Statistical Theory and Practice_ **To Appear**.
 
-2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son, and **C. Park** (2023).
+Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.
+_Transactions of the Korean Society of Mechanical Engineers - A_ **To Appear**.
+doi:[10.33162/JAR.2022.12.22.4.374](https://doi.org/10.33162/JAR.2022.12.22.4.374)
+
+2023. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
 _Computers and Industrial Engineering_ **176**, 108951.

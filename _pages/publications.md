@@ -11,6 +11,12 @@ author_profile: true
 
 Recent Publications
 ------
+2023. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou,
+[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
+Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
+_Communications in Statistics - Theory and Methods_ **To Appear**.
+doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
+
 2023. **Park, C.** and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 A study on the _g_ and _h_ control charts.

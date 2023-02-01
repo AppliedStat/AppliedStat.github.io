@@ -49,6 +49,6 @@ Note on the closed-form MLEs of k-component load-sharing systems.
 [arXiv:1203.3747](https://arxiv.org/abs/1203.3747)
 
 1. **Park, C**. (2006).
-Smooth nonparametric estimation of a quantile function under right censoring using beta kernels.
-[Link](https://appliedstat.github.io/files/manuscript/drafts6.pdf)
+Smooth nonparametric estimation of a quantile function under right censoring using beta kernels. 
+[ [Link](https://appliedstat.github.io/files/manuscript/drafts6.pdf) ]
 

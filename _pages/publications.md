@@ -38,6 +38,7 @@ _Transactions of the Korean Society of Mechanical Engineers - A_ **47**(4).
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
 Robust explicit estimation of the log-logistic with applications. 
 _Journal of Statistical Theory and Practice_ **17**, 21.
+doi:[10.1007/s42519-023-00322-x](https://doi.org/10.1007/s42519-023-00322-x)
 
 2023. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).

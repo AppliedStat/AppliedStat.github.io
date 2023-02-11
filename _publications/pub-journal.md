@@ -20,9 +20,10 @@ Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
-2023. Ma, Z., [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
-Robust explicit estimation of the log-logistic with applications.
-_Journal of Statistical Theory and Practice_ **To Appear**.
+2023. [Ma, Z.](https://www.linkedin.com/in/zhuanzhuan/), 
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
+Robust explicit estimation of the log-logistic with applications. 
+_Journal of Statistical Theory and Practice_ **17**, 21.
 
 2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son, and **C. Park** (2023).
 Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.

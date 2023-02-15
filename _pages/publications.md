@@ -40,12 +40,12 @@ Robust explicit estimation of the log-logistic with applications.
 _Journal of Statistical Theory and Practice_ **17**, 21.
 doi:[10.1007/s42519-023-00322-x](https://doi.org/10.1007/s42519-023-00322-x)
 
-2023. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+2023. **Park, C.**, 
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and
+[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41) (2023).
 Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
 _Computers and Industrial Engineering_ **176**, 108951.
 doi:[10.1016/j.cie.2022.108951](https://doi.org/10.1016/j.cie.2022.108951)
-
 
 
 * [ **More Publications** ](https://appliedstat.github.io/publications/pub-journal/)

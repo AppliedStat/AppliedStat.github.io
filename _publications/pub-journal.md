@@ -368,7 +368,7 @@ doi:[10.1016/j.cie.2006.06.005](https://doi.org/10.1016/j.cie.2006.06.005)
 Parameter Estimation of Incomplete Data in Competing Risks Using the EM Algorithm.
 _IEEE Trans. on Reliability_ **54**, 282-290.
 doi:[10.1109/TR.2005.846360](https://doi.org/10.1109/TR.2005.846360)
- [R Code](https://github.com/AppliedStat/R-code/tree/master/2005)]
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2005)]
 
 2005. **Park, C.** and W.J. Padgett (2005). 
 New Cumulative Damage Models for Failure Using Stochastic Processes as Initial Damage.

@@ -20,6 +20,12 @@ Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
+2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+[S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
+Confidence Intervals of the Process Capability Index Cpc revisited 
+via modified Bootstrap Technique and ROC curves.
+_Quality and Reliability Engineering International_ **To Appear**.
+
 2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son, and **C. Park** (2023).
 Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.
 _Transactions of the Korean Society of Mechanical Engineers - A_ **47**(4).

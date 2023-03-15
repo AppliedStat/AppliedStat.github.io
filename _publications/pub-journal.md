@@ -151,13 +151,13 @@ Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using
 Expectation-Maximization Algorithm.
 _Entropy_ **22**(11), 1329. 
 doi:[10.3390/e22111329](https://doi.org/10.3390/e22111329)
-[[R Code](https://github.com/AppliedStat/R-code/blob/master/2020b/Example.r)]
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2020b/)]
 
 2020. **Park, C.**, [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), J.-H. Byun, and [M. Leeds](https://www.linkedin.com/in/mark-leeds-b913059) (2020).
 Improved Bootstrap Confidence Intervals for the Process Capability Index Cpk.
 _Communications in Statistics - Simulation and Computation_ **49**(10), 2583-2603. 
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
-[[R Code](https://github.com/AppliedStat/R-code/blob/master/2020c/Example.r)]
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2020c/)]
 
 2020. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.

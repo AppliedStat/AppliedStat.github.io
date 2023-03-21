@@ -27,10 +27,6 @@ via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 
-2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son, and **C. Park** (2023).
-Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.
-_Transactions of the Korean Society of Mechanical Engineers - A_ **47**(4).
-
 2023. [Ma, Z.](https://www.linkedin.com/in/zhuanzhuan/), 
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
 Robust explicit estimation of the log-logistic with applications. 
@@ -43,12 +39,6 @@ doi:[10.1007/s42519-023-00322-x](https://doi.org/10.1007/s42519-023-00322-x)
 Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
 _Computers and Industrial Engineering_ **176**, 108951.
 doi:[10.1016/j.cie.2022.108951](https://doi.org/10.1016/j.cie.2022.108951)
-
-2022. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2022).
-The Development of Robust Estimation Methods for the Weibull Distribution with Contaminated Data
-(이상치에 대한 와이블 분포의 로버스트 추정법 개발). 
-_Journal of Applied Reliability (신뢰성응용연구)_ **22**(4), 374-384.
-doi:[10.33162/JAR.2022.12.22.4.374](https://doi.org/10.33162/JAR.2022.12.22.4.374)
 
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
@@ -448,7 +438,21 @@ _Communications in Statistics: Simulation and Computations_ **24**, 653-673.
 doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)
 
 
-# Other Domestic Publications
-1. xxxx
-2. yyyy
+\
+&nbsp;
+\
+&nbsp;
+
+# Other Domestic Peer-reviewed Journal Papers
+
+2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son, and **C. Park** (2023).
+Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.
+_Transactions of the Korean Society of Mechanical Engineers - A_ **47**(4).
+
+2022. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2022).
+The Development of Robust Estimation Methods for the Weibull Distribution with Contaminated Data
+(이상치에 대한 와이블 분포의 로버스트 추정법 개발). 
+_Journal of Applied Reliability (신뢰성응용연구)_ **22**(4), 374-384.
+doi:[10.33162/JAR.2022.12.22.4.374](https://doi.org/10.33162/JAR.2022.12.22.4.374)
+
 

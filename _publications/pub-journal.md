@@ -448,7 +448,7 @@ _Communications in Statistics: Simulation and Computations_ **24**, 653-673.
 doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)
 
 
----
-title: "Peer-reviewed Journal Papers"
-collection: publications
----
+# Other Domestic Publications
+1. xxxx
+2. yyyy
+

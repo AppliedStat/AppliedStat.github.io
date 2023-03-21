@@ -440,10 +440,8 @@ doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)
 
 \
 &nbsp;
-\
-&nbsp;
 
-# Other Domestic Peer-reviewed Journal Papers
+# Domestic Journal Papers
 
 2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son, and **C. Park** (2023).
 Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.

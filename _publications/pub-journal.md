@@ -446,3 +446,9 @@ doi:[10.1080/03610919708813365](https://doi.org/10.1080/03610919708813365)
 Robust Minimum Distance Inference based on Combined Distances.
 _Communications in Statistics: Simulation and Computations_ **24**, 653-673.
 doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)
+
+
+---
+title: "Peer-reviewed Journal Papers"
+collection: publications
+---

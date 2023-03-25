@@ -30,6 +30,12 @@ Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
+2023. **Park, C.**, 
+[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and 
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+Development of robust X-bar charts with unequal sample sizes. 
+_Quality and Reliability Engineering International_ **In Revision**.
+
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
 Confidence Intervals of the Process Capability Index Cpc revisited 

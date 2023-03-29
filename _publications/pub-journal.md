@@ -447,7 +447,8 @@ Anomaly Detection using Robust Estimators under Normal Distribution
 (정규분포 하에서 로버스트 추정량을 이용한 이상치 탐지).
 _Journal of Applied Reliability (신뢰성응용연구)_ **To Appear**
 
-2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son, and **C. Park** (2023).
+2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong),
+[B. Son](https://www.researchgate.net/profile/Byeongkwan_Son), and **C. Park** (2023).
 Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.
 _Transactions of the Korean Society of Mechanical Engineers - A_ **47**(4).
 

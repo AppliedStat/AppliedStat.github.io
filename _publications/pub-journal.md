@@ -15,7 +15,8 @@ doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.204449
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), 
+and **C. Park** (2023).
 Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **To Appear**.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
@@ -322,25 +323,27 @@ Cumulative damage models for failure with several accelerating variables.
 _Quality Technology & Quantitative Management_ **4**, 17 - 34.
 doi:[10.1080/16843703.2007.11673132](https://doi.org/10.1080/16843703.2007.11673132)
 
-2006. Tiwari, R., K.B. Kulasekera, and **C. Park** (2006).
+2006. Tiwari, R.,
+[K.B. Kulasekera](https://louisville.edu/sphis/directory/kb-kulasekera-phd),
+and **C. Park** (2006).
 Nonparametric tests for cause specific hazard rates with censored data
 in competing risks among several groups.
 _Journal of Statistical Planning and Inference_ **136**, 1718-1745.  
 doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006c)]
 
-2006. **Park, C.** and  W.J. Padgett, (2006).
+2006. **Park, C.** and  [W.J. Padgett](https://people.stat.sc.edu/padgett/), (2006).
 A general class of cumulative damage models for materials failure.
 _Journal of Statistical Planning and Inference_ **136**, 3783-3801.
 doi:[10.1016/j.jspi.2005.03.009](https://doi.org/10.1016/j.jspi.2005.03.009)
 
-2006. **Park, C.** and W.J. Padgett, (2006).
+2006. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/), (2006).
 Analysis of Strength Distributions of Multi-Modal Failures Using the EM Algorithm.
  _Journal of Statistical Computation and Simulation_ **76**, 619-636.
 doi:[10.1080/10629360500108970](https://doi.org/10.1080/10629360500108970)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006b)]
 
-2006. **Park, C.** and W.J. Padgett (2006).
+2006. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/) (2006).
 Stochastic Degradation Models with Several Accelerating Variables.
 _IEEE Trans. on Reliability_ **55**, 379-390.
 doi:[10.1109/TR.2006.874937](https://doi.org/10.1109/TR.2006.874937)
@@ -368,12 +371,12 @@ _IEEE Trans. on Reliability_ **54**, 282-290.
 doi:[10.1109/TR.2005.846360](https://doi.org/10.1109/TR.2005.846360)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2005)]
 
-2005. **Park, C.** and W.J. Padgett (2005). 
+2005. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/) (2005). 
 New Cumulative Damage Models for Failure Using Stochastic Processes as Initial Damage.
 _IEEE Trans. on Reliability_ **54**, 530-540.
 doi:[10.1109/TR.2005.853278](https://doi.org/10.1109/TR.2005.853278)
 
-2005. **Park, C.** and W.J. Padgett (2005).
+2005. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/) (2005).
 Accelerated degradation models for failure based on geometric Brownian motion and gamma processes.
 _Lifetime Data Analysis_ **11**, 511-527.
 doi:[10.1007/s10985-005-5237-8](https://doi.org/10.1007/s10985-005-5237-8)
@@ -388,22 +391,26 @@ Minimum Disparity Estimation: Asymptotic Normality and Breakdown Point Results.
 _Bulletin of Informatics and Cybernetics_ **36**, 19-33.
 Web: http://hdl.handle.net/2324/12576
 
-2004. **Park, C.** and K.B. Kulasekera (2004).
+2004. **Park, C.** and 
+[K.B. Kulasekera](https://louisville.edu/sphis/directory/kb-kulasekera-phd) (2004).
 Parametric inference of incomplete data with competing risks among several groups.
 _IEEE Trans. on Reliability_ **53**, 11-21.
 doi:[10.1109/TR.2003.821946](https://doi.org/10.1109/TR.2003.821946)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2004)]
 
-2004. Basu, A., **C. Park**, B.G. Lindsay and H. Li (2004).
+2004. [Basu, A.](https://www.researchgate.net/profile/Ayanendranath-Basu), **C. Park**, 
+[B.G. Lindsay](https://en.wikipedia.org/wiki/Bruce_G._Lindsay) and H. Li (2004).
 Some Variants of Minimum Disparity Estimation. 
 _Computational Statistics and Data Analysis_ **45**, 741-763.
 doi:[10.1016/S0167-9473(03)00098-7](https://doi.org/10.1016/S0167-9473(03)00098-7)
 
-2004. Kulasekera, K.B. and **C. Park** (2004).
+2004. 
+[Kulasekera, K.B.](https://louisville.edu/sphis/directory/kb-kulasekera-phd)
+and **C. Park** (2004).
 Robust nonparametric regression estimation. 
 _Journal of Statistical Theory and Applications_ **3**, 125-133.
 
-2003. **Park, C.** and A. Basu (2003).
+2003. **Park, C.** and [A. Basu](https://www.researchgate.net/profile/Ayanendranath-Basu) (2003).
 The generalized Kullback-Leibler divergence and robust inference.
 _Journal of Statistical Computation and Simulation_ **73**, 311-332.
 doi:[10.1080/0094965021000033477](https://doi.org/10.1080/0094965021000033477)
@@ -413,18 +420,22 @@ Development of Robust Design Under Contaminated and Non-Normal Data.
 _Quality Engineering_ **15**, 463-469.
 doi:[10.1081/QEN-120018045](https://doi.org/10.1081/QEN-120018045)
 
-2002. **Park, C.**, A. Basu, and B.G. Lindsay (2002).
+2002. **Park, C.**, [A. Basu](https://www.researchgate.net/profile/Ayanendranath-Basu), and 
+[B.G. Lindsay](https://en.wikipedia.org/wiki/Bruce_G._Lindsay) (2002).
 The Residual Adjustment Function and Weighted Likelihood:
 A Graphical Interpretation of Robustness of Minimum Disparity Estimators.
 _Computational Statistics and Data Analysis_ **39**, 21-33.
 doi:[10.1016/S0167-9473(01)00047-0](https://doi.org/10.1016/S0167-9473(01)00047-0)
 
-2002. Basu, A., R. Surajit, **C. Park** and S. Basu (2002).
+2002. [Basu, A.](https://www.researchgate.net/profile/Ayanendranath-Basu), 
+R. Surajit, **C. Park** and S. Basu (2002).
 Improved power in multinomial goodness-of-fit tests.
 _Journal of the Royal Statistical Society Series D_ (The Statistician) **51**, 381-393.
 doi:[10.1111/1467-9884.00325](https://doi.org/10.1111/1467-9884.00325)
 
-2001. **Park, C.**, A. Basu, and I.R. Harris (2001).
+2001. **Park, C.**,
+[A. Basu](https://www.researchgate.net/profile/Ayanendranath-Basu), 
+and I.R. Harris (2001).
 Tests of Hypotheses in Multiple Samples based on Penalized Disparities.
 _Journal of the Korean Statistical Society_ **30**, 347-366.
 
@@ -433,7 +444,9 @@ Robust predictive distributions based on the penalized blended weight Hellinger 
 _Communications in Statistics: Simulation and Computations_ **26**, 21-33.
 doi:[10.1080/03610919708813365](https://doi.org/10.1080/03610919708813365)
 
-1995. **Park, C.**, A. Basu, and S. Basu (1995).
+1995. **Park, C.**,
+[A. Basu](https://www.researchgate.net/profile/Ayanendranath-Basu), 
+and S. Basu (1995).
 Robust Minimum Distance Inference based on Combined Distances.
 _Communications in Statistics: Simulation and Computations_ **24**, 653-673.
 doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)

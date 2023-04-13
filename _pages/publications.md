@@ -23,13 +23,6 @@ A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **To Appear**.
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
-2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
-Simulation optimization using stochastic kriging with robust statistics.
-_Journal of the Operational Research Society_ **To Appear**.
-doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
-
 2023. **Park, C.**, 
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and 
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
@@ -42,6 +35,13 @@ Confidence Intervals of the Process Capability Index Cpc revisited
 via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
+
+2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
+Simulation optimization using stochastic kriging with robust statistics.
+_Journal of the Operational Research Society_ **74**(3), 623-636.
+doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
 2023. [Ma, Z.](https://www.linkedin.com/in/zhuanzhuan/), 
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).

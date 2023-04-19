@@ -463,7 +463,8 @@ _Journal of Applied Reliability (신뢰성응용연구)_ **To Appear**
 2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong),
 [B. Son](https://www.researchgate.net/profile/Byeongkwan_Son), and **C. Park** (2023).
 Failure Modes and Reliability Analysis of Mechanical Parts using the EM algorithm.
-_Transactions of the Korean Society of Mechanical Engineers - A_ **47**(4).
+_Transactions of the Korean Society of Mechanical Engineers - A_ **47**(4), 385-391.
+doi:[10.3795/KSME-A.2023.47.4.385](https://doi.org/10.3795/KSME-A.2023.47.4.385)
 
 2022. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2022).
 The Development of Robust Estimation Methods for the Weibull Distribution with Contaminated Data

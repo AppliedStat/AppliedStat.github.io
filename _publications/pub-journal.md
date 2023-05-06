@@ -26,6 +26,13 @@ via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 
+2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin, 
+[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
+Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging. 
+_Reliability Engineering & System Safety_ **To Appear** 109362.
+doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
+
 2023. **Park, C.**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).

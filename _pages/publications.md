@@ -14,13 +14,13 @@ Recent Publications
 2023. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou,
 [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
 Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
-_Communications in Statistics - Theory and Methods_ **To Appear**.
+_Communications in Statistics - Theory and Methods_ **To Appear**, 
 doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
 
 2023. **Park, C.** and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 A study on the _g_ and _h_ control charts.
-_Communications in Statistics - Theory and Methods_ **To Appear**.
+_Communications in Statistics - Theory and Methods_ **To Appear**, 
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
 2023. **Park, C.**, 
@@ -33,14 +33,14 @@ _Quality and Reliability Engineering International_ **In Revision**.
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
 Confidence Intervals of the Process Capability Index Cpc revisited 
 via modified Bootstrap Technique and ROC curves.
-_Quality and Reliability Engineering International_ **To Appear**.
+_Quality and Reliability Engineering International_ **To Appear**, 
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
 
 2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
 Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging.
-_Reliability Engineering & System Safety_ **To Appear** 109362.
+_Reliability Engineering & System Safety_ **To Appear**, 109362.
 doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
 
 2023. **Park, C.**, 
@@ -48,7 +48,7 @@ doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 A Study on the Performance of the Probability-limit Control Charts 
 based on the Geometric and Negative Binomial Distributions. 
-_Computers and Industrial Engineering_ **To Appear** 109275.
+_Computers and Industrial Engineering_ **180**, 109275.
 doi:[10.1016/j.cie.2023.109275](https://doi.org/10.1016/j.cie.2023.109275)
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),

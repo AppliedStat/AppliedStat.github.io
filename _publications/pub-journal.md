@@ -36,7 +36,7 @@ doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
 Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging. 
-_Reliability Engineering & System Safety_ **To Appear**, 109362.
+_Reliability Engineering & System Safety_ **237**, 109362.
 doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
 
 2023. **Park, C.**,

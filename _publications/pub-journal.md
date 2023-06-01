@@ -17,7 +17,7 @@ doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.204449
 [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Robust explicit estimators using the power-weighted repeated medians.
-_Journal of Applied Statistics_ **In Revision**.
+_Journal of Applied Statistics_ **To Appear**.
 
 2023. **Park, C.**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and

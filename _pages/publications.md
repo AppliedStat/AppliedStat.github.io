@@ -42,7 +42,14 @@ via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**, 
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
 
-2022. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,
+2023. [R. Alotaibi](https://orcid.org/0000-0002-9449-7489), 
+[H. Rezk](https://orcid.org/0000-0002-7501-7232), **C. Park**, and
+[A. Elshahhat](https://sciprofiles.com/profile/Ahmed-Elshahhat) (2023).
+The Discrete Exponentiated-Chen Model and Its Applications.
+_Symmetry_ **15**(6), 1278.
+doi:[10.3390/sym15061278](https://doi.org/10.3390/sym15061278)
+
+2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
 Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging.

@@ -23,7 +23,7 @@ _Journal of Applied Statistics_ **To Appear**.
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Development of robust X-bar charts with unequal sample sizes.
-_Quality and Reliability Engineering International_ **In Revision**.
+_Quality and Reliability Engineering International_ **To Appear**.
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
@@ -479,7 +479,8 @@ doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)
 2022. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2023).
 Anomaly Detection using Robust Estimators under Normal Distribution
 (정규분포 하에서 로버스트 추정량을 이용한 이상치 탐지).
-_Journal of Applied Reliability (신뢰성응용연구)_ **To Appear**
+_Journal of Applied Reliability (신뢰성응용연구)_ **23**(2), 134-143.
+doi:[10.33162/JAR.2023.6.23.2.134](https://doi.org/10.33162/JAR.2023.6.23.2.134)
 
 2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong),
 [B. Son](https://www.researchgate.net/profile/Byeongkwan_Son), and **C. Park** (2023).

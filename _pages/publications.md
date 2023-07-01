@@ -24,7 +24,7 @@ _Communications in Statistics - Theory and Methods_ **To Appear**,
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
 2023. **Park, C.**, 
-[Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), and
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Robust explicit estimators using the power-weighted repeated medians.
 _Journal of Applied Statistics_ **To Appear**.
@@ -34,7 +34,8 @@ doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.222996
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and 
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Development of robust X-bar charts with unequal sample sizes. 
-_Quality and Reliability Engineering International_ **To Appear**.
+_Quality and Reliability Engineering International_ **To Appear**,
+doi:[10.1002/qre.3406](https://doi.org/10.1002/qre.3406) 
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
@@ -43,7 +44,7 @@ via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**, 
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
 
-2023. [R. Alotaibi](https://orcid.org/0000-0002-9449-7489), 
+2023. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), **C. Park**, and
 [A. Elshahhat](https://sciprofiles.com/profile/Ahmed-Elshahhat) (2023).
 The Discrete Exponentiated-Chen Model and Its Applications.

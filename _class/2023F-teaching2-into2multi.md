@@ -35,7 +35,7 @@ Upon successful completion of this course, students will be able to:
 Links
 ======
 + [Syllabus](/files/syllabus/syl-IE-2001280-2023.pdf)
-+ [R Programs and supplemental notes](https://github.com/AppliedStat/class/tree/master/Multi)
++ [R Programs and supplemental notes](https://github.com/AppliedStat/class/tree/master/IntMultiStat)
 + [R4pda](http://r4pda.co.kr/) (R written in Korean)
 
 

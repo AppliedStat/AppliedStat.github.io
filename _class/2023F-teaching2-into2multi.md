@@ -3,8 +3,9 @@ title: "Introduction to Multivariate Statistical Analysis"
 collection: teaching
 type: "Undergraduate course"
 venue: "IE-2001280"
-data: 2023-09-01
+date: 2023-09-01
 location: "Busan, Korea"
+---
 ---
 
 

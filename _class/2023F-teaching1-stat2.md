@@ -3,6 +3,7 @@ title: "Engineering Statistics - II"
 collection: teaching
 type: "Undergraduate course"
 venue: "IE-2400211"
+date: 2023-09-01
 location: "Busan, Korea"
 ---
 ---

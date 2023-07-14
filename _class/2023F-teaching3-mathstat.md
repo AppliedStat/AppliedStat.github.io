@@ -3,6 +3,7 @@ title: "Mathematical Statistics"
 collection: class
 type: "Graduate course"
 venue: "DE-7600044"
+date: 2023-09-01
 location: "Busan, Korea"
 ---
 ---

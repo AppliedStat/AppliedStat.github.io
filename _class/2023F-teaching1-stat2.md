@@ -35,6 +35,6 @@ Links
 ======
 + [Syllabus](/files/syllabus/syl-IE-2400211-2023.pdf)
 + [R Programs and supplemental notes](https://github.com/AppliedStat/class/tree/master/Stat)
-+ [R4pda](http://r4pda.co.kr/) (R written in Korean)
++ [R4pda](https://enook.jbnu.ac.kr/16/ch01/01/r4pda.pdf) (R written in Korean)
 
 

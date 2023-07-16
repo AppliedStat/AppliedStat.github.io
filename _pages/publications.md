@@ -44,6 +44,10 @@ via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**, 
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
 
+2023. **Park, C.** (2023).
+A Note on Weibull Parameter Estimation with Interval Censoring Using the EM Algorithm.
+_Mathematics_  **To Appear**,
+
 2023. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), **C. Park**, and
 [A. Elshahhat](https://sciprofiles.com/profile/Ahmed-Elshahhat) (2023).

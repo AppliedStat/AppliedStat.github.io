@@ -38,6 +38,7 @@ doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 A Note on Weibull Parameter Estimation with Interval Censoring Using the EM Algorithm.
 _Mathematics_  **11**(14), 3156.
 doi:[10.3390/math11143156](https://doi.org/10.3390/math11143156)
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2023b/)]
 
 2023. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), **C. Park**, and
@@ -292,7 +293,6 @@ Properties and Different Methods of Estimation.
 _Journal of Statistical Computation and Simulation_ **85**(18), 3641-3661.
 doi:[10.1080/00949655.2014.992346](https://doi.org/10.1080/00949655.2014.992346)
 
-
 2013. **Park, C.** (2013).
 Parameter estimation from load-sharing system data using the expectation-maximization algorithm.
 _IIE Transactions_ **45**, 147-163.
@@ -439,8 +439,7 @@ Some Variants of Minimum Disparity Estimation.
 _Computational Statistics and Data Analysis_ **45**, 741-763.
 doi:[10.1016/S0167-9473(03)00098-7](https://doi.org/10.1016/S0167-9473(03)00098-7)
 
-2004. 
-[Kulasekera, K.B.](https://louisville.edu/sphis/directory/kb-kulasekera-phd)
+2004. [Kulasekera, K.B.](https://louisville.edu/sphis/directory/kb-kulasekera-phd)
 and **C. Park** (2004).
 Robust nonparametric regression estimation. 
 _Journal of Statistical Theory and Applications_ **3**, 125-133.
@@ -490,7 +489,7 @@ doi:[10.1080/03610919508813265](https://doi.org/10.1080/03610919508813265)
 &nbsp;
 
 # Domestic Journal Papers
-2022. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2023).
+2023. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong) and **C. Park** (2023).
 Anomaly Detection using Robust Estimators under Normal Distribution
 (정규분포 하에서 로버스트 추정량을 이용한 이상치 탐지).
 _Journal of Applied Reliability (신뢰성응용연구)_ **23**(2), 134-143.

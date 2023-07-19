@@ -48,6 +48,7 @@ doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 A Note on Weibull Parameter Estimation with Interval Censoring Using the EM Algorithm.
 _Mathematics_  **11**(14), 3156.
 doi:[10.3390/math11143156](https://doi.org/10.3390/math11143156)
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2023b/)]
 
 2023. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), **C. Park**, and

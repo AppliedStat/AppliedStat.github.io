@@ -34,6 +34,13 @@ via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 
+2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin, 
+[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
+Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging. 
+_Reliability Engineering & System Safety_ **237**, 109362.
+doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
+
 2023. **Park, C.** (2023).
 A Note on Weibull Parameter Estimation with Interval Censoring Using the EM Algorithm.
 _Mathematics_  **11**(14), 3156.
@@ -47,13 +54,6 @@ doi:[10.3390/math11143156](https://doi.org/10.3390/math11143156)
 The Discrete Exponentiated-Chen Model and Its Applications.
 _Symmetry_ **15**(6), 1278.
 doi:[10.3390/sym15061278](https://doi.org/10.3390/sym15061278)
-
-2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin, 
-[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
-Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging. 
-_Reliability Engineering & System Safety_ **237**, 109362.
-doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
 
 2023. **Park, C.**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and

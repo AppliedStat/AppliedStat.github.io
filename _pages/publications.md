@@ -44,6 +44,12 @@ via modified Bootstrap Technique and ROC curves.
 _Quality and Reliability Engineering International_ **To Appear**, 
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
 
+2023.  [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), **C. Park**, 
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
+[B. Kim](https://sites.google.com/view/bosungkim)  (2023).
+Robust Model Design by Comparative Evaluation of Clustering Algorithms
+_IEEE Access_ **To Appear**.
+
 2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).

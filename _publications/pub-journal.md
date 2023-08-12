@@ -2,7 +2,8 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), M. Saha, and **C. Park** (2023).
+2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), 
+[M. Saha](https://www.researchgate.net/profile/Mahendra-Saha), and **C. Park** (2023).
 Applications of a new loss and cost-based process capability index to electronic industries.
 _Communications in Statistics: Case Studies, Data Analysis and Applications_ **To Appear**.
 

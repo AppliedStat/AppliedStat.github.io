@@ -11,16 +11,20 @@ author_profile: true
 
 Recent Publications
 ------
+2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), M. Saha, and **C. Park** (2023).
+Applications of a new loss and cost-based process capability index to electronic industries. 
+_Communications in Statistics: Case Studies, Data Analysis and Applications_ **To Appear**.
+
 2023. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou,
 [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
 Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
-_Communications in Statistics - Theory and Methods_ **To Appear**, 
+_Communications in Statistics - Theory and Methods_ **To Appear**. 
 doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
 
 2023. **Park, C.** and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 A study on the _g_ and _h_ control charts.
-_Communications in Statistics - Theory and Methods_ **To Appear**, 
+_Communications in Statistics - Theory and Methods_ **To Appear**. 
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
 2023. **Park, C.**, 
@@ -34,20 +38,20 @@ doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.222996
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and 
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Development of robust X-bar charts with unequal sample sizes. 
-_Quality and Reliability Engineering International_ **To Appear**,
+_Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3406](https://doi.org/10.1002/qre.3406) 
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
 Confidence Intervals of the Process Capability Index Cpc revisited 
 via modified Bootstrap Technique and ROC curves.
-_Quality and Reliability Engineering International_ **To Appear**, 
+_Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
 
 2023.  [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), **C. Park**, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
 [B. Kim](https://sites.google.com/view/bosungkim)  (2023).
-Robust Model Design by Comparative Evaluation of Clustering Algorithms
+Robust Model Design by Comparative Evaluation of Clustering Algorithms. 
 _IEEE Access_ **To Appear**.
 
 2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,

@@ -22,12 +22,6 @@ Improving the efficiency and efficacy of robust sequential bifurcation under dat
 _Communications in Statistics - Theory and Methods_ **To Appear**. 
 doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
 
-2023. **Park, C.** and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
-A study on the _g_ and _h_ control charts.
-_Communications in Statistics - Theory and Methods_ **To Appear**. 
-doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
-
 2023. **Park, C.**, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
@@ -55,6 +49,12 @@ doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 Robust Model Design by Comparative Evaluation of Clustering Algorithms. 
 _IEEE Access_ **To Appear**.
 doi:[10.1109/ACCESS.2023.3306023](https://doi.org/10.1109/ACCESS.2023.3306023)
+
+2023. **Park, C.** and
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+A study on the _g_ and _h_ control charts.
+_Communications in Statistics - Theory and Methods_ **52**(20), 7334-7349. 
+doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
 2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),

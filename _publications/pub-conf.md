@@ -2,6 +2,10 @@
 title: "Conference Papers and Manuscripts"
 collection: publications
 ---
+1. **Park, C**. and M. Wang (2023). 
+A goodness-of-fit test for the Birnbaum-Saunders distribution based on the probability plot.
+[arXiv:2308.10150](https://arxiv.org/abs/2308.10150) 
+
 1. Jeong, N., B. Son and **C. Park** (2022).
 EM 알고리즘을 이용한 기계부품의 고장 원인 및 신뢰성 분석.
 대한기계학회 학술대회, 제주국제컨벤션센터 (2022년 11월 9일).

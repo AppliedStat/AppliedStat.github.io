@@ -60,7 +60,7 @@ doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.204449
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
 [B. Kim](https://sites.google.com/view/bosungkim)  (2023).
 Robust Model Design by Comparative Evaluation of Clustering Algorithms.
-_IEEE Access_ **11**, 2169-3536.
+_IEEE Access_ **11**, 88135-88151.
 doi:[10.1109/ACCESS.2023.3306023](https://doi.org/10.1109/ACCESS.2023.3306023)
 
 2023. **Park, C.** (2023).

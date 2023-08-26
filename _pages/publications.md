@@ -50,18 +50,18 @@ Robust Model Design by Comparative Evaluation of Clustering Algorithms.
 _IEEE Access_ **To Appear**.
 doi:[10.1109/ACCESS.2023.3306023](https://doi.org/10.1109/ACCESS.2023.3306023)
 
-2023. **Park, C.** and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
-A study on the _g_ and _h_ control charts.
-_Communications in Statistics - Theory and Methods_ **52**(20), 7334-7349. 
-doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
-
 2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
 Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging.
 _Reliability Engineering & System Safety_ **237**, 109362.
 doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
+
+2023. **Park, C.** and
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+A study on the _g_ and _h_ control charts.
+_Communications in Statistics - Theory and Methods_ **52**(20), 7334-7349. 
+doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
 
 2023. **Park, C.** (2023).
 A Note on Weibull Parameter Estimation with Interval Censoring Using the EM Algorithm.

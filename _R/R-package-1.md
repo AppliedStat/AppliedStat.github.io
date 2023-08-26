@@ -11,7 +11,7 @@ For more details, see
 [Park (2018)](https://doi.org/10.1155/2018/6056975), and 
 [Park (2023)](https://doi.org/10.3390/math11143156).
 
-This work was supported by the National Research Foundation of Korea (NRF) grant funded
+This work was supported by the National Research Foundation of Korea (NRF) grants funded
 by the Korea government (MSIT) (No. 2022R1A2C1091319, RS-2023-00242528).
  
 ### Links

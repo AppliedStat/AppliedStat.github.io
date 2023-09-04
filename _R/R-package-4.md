@@ -1,6 +1,6 @@
 ---
 title: "bsgof" 
-excerpt: "Birnbaum-Saunders Goodness-of-Fit Test"
+excerpt: "Goodness-of-Fit Test for Birnbaum-Saunders Distribution"
 collection: R
 ---
 This R package performs a <i>Birnbaum-Saunders goodness-of-fit test</i> and

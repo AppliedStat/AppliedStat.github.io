@@ -15,6 +15,7 @@ Recent Publications
 [M. Saha](https://www.researchgate.net/profile/Mahendra-Saha), and **C. Park** (2023).
 Applications of a new loss and cost-based process capability index to electronic industries. 
 _Communications in Statistics: Case Studies, Data Analysis and Applications_ **To Appear**.
+doi:[10.1080/23737484.2023.2249850](https://doi.org/10.1080/23737484.2023.2249850)
 
 2023. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou,
 [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).

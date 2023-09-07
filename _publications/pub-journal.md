@@ -30,8 +30,9 @@ doi:[10.1002/qre.3406](https://doi.org/10.1002/qre.3406)
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
-Confidence Intervals of the Process Capability Index Cpc revisited via modified Bootstrap Technique and ROC curves.
-_Quality and Reliability Engineering International_ **To Appear**.
+Confidence Intervals of the Process Capability Index Cpc revisited via modified Bootstrap Technique 
+and ROC curves.
+_Quality and Reliability Engineering International_ **39**(6), 2162–2184.
 doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317)
 
 2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin, 

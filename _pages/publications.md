@@ -11,6 +11,11 @@ author_profile: true
 
 Recent Publications
 ------
+2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+[S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2023).
+Robust Confidence Intervals for the Process Capability Index Cpk with Bootstrap Improvement.
+_Quality Engineering_ **To Appear**. 
+
 2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), 
 [M. Saha](https://www.researchgate.net/profile/Mahendra-Saha), and **C. Park** (2023).
 Applications of a new loss and cost-based process capability index to electronic industries. 

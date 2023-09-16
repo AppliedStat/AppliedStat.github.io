@@ -2,6 +2,11 @@
 title: "Conference Papers and Manuscripts"
 collection: publications
 ---
+1. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen, [B. Kim](https://sites.google.com/view/bosungkim), 
+and **C. Park** (2023). 
+A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator.
+[arXiv:2309.05359](https://arxiv.org/abs/2309.05359) 
+
 1. **Park, C**. and M. Wang (2023). 
 A goodness-of-fit test for the Birnbaum-Saunders distribution based on the probability plot.
 [arXiv:2308.10150](https://arxiv.org/abs/2308.10150) 

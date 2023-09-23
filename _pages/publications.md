@@ -15,6 +15,7 @@ Recent Publications
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2023).
 Robust Confidence Intervals for the Process Capability Index Cpk with Bootstrap Improvement.
 _Quality Engineering_ **To Appear**. 
+doi:[10.1080/08982112.2023.2263523](https://doi.org/10.1080/08982112.2023.2263523)
 
 2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), 
 [M. Saha](https://www.researchgate.net/profile/Mahendra-Saha), and **C. Park** (2023).

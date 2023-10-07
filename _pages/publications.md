@@ -40,7 +40,7 @@ doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.222996
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and 
 [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
 Development of robust X-bar charts with unequal sample sizes. 
-_Quality and Reliability Engineering International_ **To Appear**.
+_Quality and Reliability Engineering International_ **39**(7), 2975-2994.
 doi:[10.1002/qre.3406](https://doi.org/10.1002/qre.3406) 
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),

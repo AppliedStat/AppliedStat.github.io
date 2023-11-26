@@ -11,106 +11,30 @@ author_profile: true
 
 Recent Publications
 ------
-2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-[S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2023).
+2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+[S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).
 Robust Confidence Intervals for the Process Capability Index Cpk with Bootstrap Improvement.
 _Quality Engineering_ **To Appear**. 
 doi:[10.1080/08982112.2023.2263523](https://doi.org/10.1080/08982112.2023.2263523)
 
-2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), 
-[M. Saha](https://www.researchgate.net/profile/Mahendra-Saha), and **C. Park** (2023).
+2024. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), 
+[M. Saha](https://www.researchgate.net/profile/Mahendra-Saha), and **C. Park** (2024).
 Applications of a new loss and cost-based process capability index to electronic industries. 
 _Communications in Statistics: Case Studies, Data Analysis and Applications_ **To Appear**.
 doi:[10.1080/23737484.2023.2249850](https://doi.org/10.1080/23737484.2023.2249850)
 
-2023. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou,
-[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
+2024. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou,
+[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2024).
 Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
 _Communications in Statistics - Theory and Methods_ **To Appear**. 
 doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
 
-2023. **Park, C.**, 
+2024. **Park, C.**, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024).
 Robust explicit estimators using the power-weighted repeated medians.
 _Journal of Applied Statistics_ **To Appear**.
 doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
-
-2023. **Park, C.**, 
-[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and 
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
-Development of robust X-bar charts with unequal sample sizes. 
-_Quality and Reliability Engineering International_ **39**(7), 2975-2994.
-doi:[10.1002/qre.3406](https://doi.org/10.1002/qre.3406) 
-
-2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-[S. Dey](https://www.researchgate.net/profile/Sanku_Dey), J.-H. Byun, and **C. Park** (2023).
-Confidence Intervals of the Process Capability Index Cpc revisited 
-via modified Bootstrap Technique and ROC curves.
-_Quality and Reliability Engineering International_ **39**(6), 2162–2184.
-doi:[10.1002/qre.3317](https://doi.org/10.1002/qre.3317) 
-
-2023. [Xiao, T.](https://www.researchgate.net/profile/Tianli-Xiao-2), **C. Park**, C. Lin,
-[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-and [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2023).
-Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Kriging.
-_Reliability Engineering & System Safety_ **237**, 109362.
-doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
-
-2023. **Park, C.** and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
-A study on the _g_ and _h_ control charts.
-_Communications in Statistics - Theory and Methods_ **52**(20), 7334-7349. 
-doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
-
-2023.  [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), **C. Park**,
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
-[B. Kim](https://sites.google.com/view/bosungkim)  (2023).
-Robust Model Design by Comparative Evaluation of Clustering Algorithms.
-_IEEE Access_ **11**, 88135-88151.
-doi:[10.1109/ACCESS.2023.3306023](https://doi.org/10.1109/ACCESS.2023.3306023)
-
-2023. **Park, C.** (2023).
-A Note on Weibull Parameter Estimation with Interval Censoring Using the EM Algorithm.
-_Mathematics_  **11**(14), 3156.
-doi:[10.3390/math11143156](https://doi.org/10.3390/math11143156)
-[[R Code](https://github.com/AppliedStat/R-code/blob/master/2023b/)]
-[[R package](https://appliedstat.github.io/R/R-package-1/)]
-
-2023. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), 
-[H. Rezk](https://orcid.org/0000-0002-7501-7232), **C. Park**, and
-[A. Elshahhat](https://sciprofiles.com/profile/Ahmed-Elshahhat) (2023).
-The Discrete Exponentiated-Chen Model and Its Applications.
-_Symmetry_ **15**(6), 1278.
-doi:[10.3390/sym15061278](https://doi.org/10.3390/sym15061278)
-
-2023. **Park, C.**, 
-[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and 
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
-A Study on the Performance of the Probability-limit Control Charts 
-based on the Geometric and Negative Binomial Distributions. 
-_Computers and Industrial Engineering_ **180**, 109275.
-doi:[10.1016/j.cie.2023.109275](https://doi.org/10.1016/j.cie.2023.109275)
-
-2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
-Simulation optimization using stochastic kriging with robust statistics.
-_Journal of the Operational Research Society_ **74**(3), 623-636.
-doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
-
-2023. [Ma, Z.](https://www.linkedin.com/in/zhuanzhuan/), 
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
-Robust explicit estimation of the log-logistic with applications. 
-_Journal of Statistical Theory and Practice_ **17**, 21.
-doi:[10.1007/s42519-023-00322-x](https://doi.org/10.1007/s42519-023-00322-x)
-
-2023. **Park, C.**, 
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and
-[L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41) (2023).
-Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
-_Computers and Industrial Engineering_ **176**, 108951.
-doi:[10.1016/j.cie.2022.108951](https://doi.org/10.1016/j.cie.2022.108951)
 
 
 * [ **More Publications** ](https://appliedstat.github.io/publications/pub-journal/)

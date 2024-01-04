@@ -21,6 +21,13 @@ Robust explicit estimators using the power-weighted repeated medians.
 _Journal of Applied Statistics_ **To Appear**.
 doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
 
+2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+Y. Che, **C. Park**, Y. Chen (2024).
+A novel active learning gaussian process modeling-based method 
+for time-dependent reliability analysis considering mixed variables.
+_Reliability Engineering & System Safety_ **To Appear**.
+doi:[10.1016/j.ress.2023.109916](https://doi.org/10.1016/j.ress.2023.109916)
+
 2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey),
 [M. Saha](https://www.researchgate.net/profile/Mahendra-Saha), and **C. Park** (2023).
 Applications of a new loss and cost-based process capability index to electronic industries.

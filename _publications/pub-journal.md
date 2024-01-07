@@ -23,9 +23,9 @@ doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.222996
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 Y. Che, **C. Park**, Y. Chen (2024).
-A novel active learning gaussian process modeling-based method 
+A novel active learning Gaussian process modeling-based method 
 for time-dependent reliability analysis considering mixed variables.
-_Reliability Engineering & System Safety_ **To Appear**.
+_Reliability Engineering & System Safety_ **244**, 109916. 
 doi:[10.1016/j.ress.2023.109916](https://doi.org/10.1016/j.ress.2023.109916)
 
 2023. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey),

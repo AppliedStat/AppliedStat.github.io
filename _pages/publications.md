@@ -33,7 +33,8 @@ doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.222996
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).
 Development of robust confidence intervals for the cost-based process capability index.
-_Computers & Industrial Engineering_ **To Appear**.
+_Computers & Industrial Engineering_ **To Appear**, 110048.
+doi:[10.1016/j.cie.2024.110048](https://doi.org/10.1016/j.cie.2024.110048)
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 Y. Che, **C. Park**, Y. Chen (2024).

@@ -2,6 +2,12 @@
 title: "Conference Papers and Manuscripts"
 collection: publications
 ---
+1. **Park, C**, W. Park, [N. Jeong](https://www.researchgate.net/profile/Nami-Jeong), and 
+[D. Kim](https://sites.google.com/view/riskanalyticslab) (2024).
+Improvement of anomaly detection using a leave-one-out cross-validation approach and its application to X-bar control charts. 
+2024 Spring Joint Conference of KORMS (Korean Operations Research and Management Science Society) 
+and KIIE (Korean Institute of Industrial Engineers). 
+
 1. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen, [B. Kim](https://sites.google.com/view/bosungkim), 
 and **C. Park** (2023). 
 A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator.

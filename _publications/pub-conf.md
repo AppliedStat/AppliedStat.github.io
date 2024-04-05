@@ -13,11 +13,11 @@ and **C. Park** (2023).
 A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator.
 [arXiv:2309.05359](https://arxiv.org/abs/2309.05359) 
 
-1. **Park, C**. and M. Wang (2023). 
+1. **Park, C**. and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023). 
 A goodness-of-fit test for the Birnbaum-Saunders distribution based on the probability plot.
 [arXiv:2308.10150](https://arxiv.org/abs/2308.10150) 
 
-1. Jeong, N., B. Son and **C. Park** (2022).
+1. [Jeong, N.](https://www.researchgate.net/profile/Nami-Jeong), B. Son and **C. Park** (2022).
 EM 알고리즘을 이용한 기계부품의 고장 원인 및 신뢰성 분석.
 대한기계학회 학술대회, 제주국제컨벤션센터 (2022년 11월 9일).
 
@@ -55,7 +55,7 @@ Parameter Estimation of the Three-Parameter Weibull Model Using the Sample Corre
 A Note On the Use of Fiducial Limits for Control Charts.
 [arXiv:1203.3882](https://arxiv.org/abs/1203.3882)
 
-1. **Park, C** and S. B. Lee (2012).
+1. **Park, C** and [S. B. Lee](https://cms.inje.ac.kr/doe/intro/faculty.do?mode=view&key=$cms$JzCMAZQVgAjmg&category=2F11) (2012).
 Parameter Estimation from Censored Samples using the Expectation-Maximization Algorithm
 [arXiv:1203.3880](https://arxiv.org/abs/1203.3880)
 

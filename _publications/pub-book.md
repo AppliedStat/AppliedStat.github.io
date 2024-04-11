@@ -2,7 +2,7 @@
 title: "Books and Book Chapters"
 collection: publications
 ---
-1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023+).
+1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2025+).
 Robust control charts using R.  _In Preparation_ 
 [ [R Codes](https://github.com/AppliedStat/RCC) ]
 

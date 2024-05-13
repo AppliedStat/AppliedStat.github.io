@@ -31,7 +31,7 @@ _Journal of Applied Statistics_ **To Appear**.
 doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
 
 2024. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489),
-[H. Rezk](https://orcid.org/0000-0002-7501-7232), **C. Park** (2024).
+[H. Rezk](https://orcid.org/0000-0002-7501-7232), and **C. Park** (2024).
 Parameter Estimation of Inverse Weibull Distribution Under Competing Risks 
 based on the Expectation-Maximization Algorithm. 
 _Quality and Reliability Engineering International_ **To Appear**.

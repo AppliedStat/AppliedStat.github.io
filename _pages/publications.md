@@ -29,12 +29,14 @@ doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.217041
 Robust explicit estimators using the power-weighted repeated medians.
 _Journal of Applied Statistics_ **To Appear**.
 doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2024b/)]
 
 2024. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489),
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), and **C. Park** (2024).
 Parameter Estimation of Inverse Weibull Distribution Under Competing Risks 
 based on the Expectation-Maximization Algorithm. 
 _Quality and Reliability Engineering International_ **To Appear**.
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).

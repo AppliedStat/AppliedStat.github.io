@@ -3,8 +3,13 @@ title: "Books and Book Chapters"
 collection: publications
 ---
 1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2025+).
-Robust control charts using R.  _In Preparation_ 
+Robust control charts using R.  _In Preparation_
 [ [R Codes](https://github.com/AppliedStat/RCC) ]
+
+1. **C. Park** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024). 
+A goodness-of-fit test for the Birnbaum-Saunders distribution based on the probability plot. 
+Reliability Analysis and Maintenance Optimization of Complex Systems.
+In _Springer Book Series,_ To Appear.
 
 1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019). 
 Robust Design in the Case of Data Contamination and Model Departure.

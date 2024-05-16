@@ -4,12 +4,13 @@ collection: publications
 ---
 1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2025+).
 Robust control charts using R.  _In Preparation_
-[ [R Codes](https://github.com/AppliedStat/RCC) ]
+[[R Codes](https://github.com/AppliedStat/RCC)]
 
 1. **C. Park** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024). 
 A goodness-of-fit test for the Birnbaum-Saunders distribution based on the probability plot. 
 Reliability Analysis and Maintenance Optimization of Complex Systems.
 In _Springer Book Series,_ To Appear.
+[[R package](https://appliedstat.github.io/R/R-package-4/)]
 
 1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019). 
 Robust Design in the Case of Data Contamination and Model Departure.
@@ -38,23 +39,22 @@ doi:[10.1002/9780470061572.eqr119](https://doi.org/10.1002/9780470061572.eqr119)
 Basic numerical analysis technique.
 In _Statistical Computing: Existing Methods and Recent Developments._
 Alpha Science International. ISBN: 978-1842652022.
-[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-2) ]
+[[PDF](https://github.com/AppliedStat/files/tree/master/Book-2)]
 
 1. [Basu, A.](https://www.isical.ac.in/~ayanbasu/) and **C**. **Park** (2004).
 Nonparametric smoothing.
 In _Statistical Computing: Existing Methods and Recent Developments._
 Alpha Science International. ISBN: 978-1842652022.
-[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-2) ]
+[[PDF](https://github.com/AppliedStat/files/tree/master/Book-2)]
 
 1. **Park**, **C**. (1992).
 _Mechanical Engineering Experiments I,_  Revised 2nd Ed.
 Published on Feb. 29, 1992. 
-[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-1) ]
-
+[[PDF](https://github.com/AppliedStat/files/tree/master/Book-1)]
 
 1. **Park**, **C**., etc. (1992).
 _Self-study Questionnaire for Review of Science and Engineering Programs,_
 submitted by Korea Advanced Institute of Science and Technology. 
 Published on July 1992.
-[ [PDF](https://github.com/AppliedStat/files/tree/master/Book-3) ]
+[[PDF](https://github.com/AppliedStat/files/tree/master/Book-3)]
 

@@ -22,6 +22,11 @@ _Journal of Applied Statistics_ **To Appear**.
 doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024a/)]
 
+2024. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), Chong Li, and **C. Park**,
+A new heuristic for the continuous fixed-radius disk cover problem.
+_Engineering Optimization_ **To Appear**.
+
 2024. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), and **C. Park** (2024).
 Parameter Estimation of Inverse Weibull Distribution Under Competing Risks 

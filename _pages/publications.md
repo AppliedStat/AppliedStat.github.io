@@ -32,7 +32,7 @@ doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.222996
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024a/)]
 
 2024. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), 
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park**,
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2024).
 A new heuristic for the continuous fixed-radius disk cover problem.
 _Engineering Optimization_ **To Appear**.
 

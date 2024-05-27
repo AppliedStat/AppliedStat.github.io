@@ -41,6 +41,7 @@ _Engineering Optimization_ **To Appear**.
 Parameter Estimation of Inverse Weibull Distribution Under Competing Risks 
 based on the Expectation-Maximization Algorithm. 
 _Quality and Reliability Engineering International_ **To Appear**.
+doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),

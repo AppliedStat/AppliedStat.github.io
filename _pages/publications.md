@@ -44,6 +44,12 @@ _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 
+2024. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024).
+Parameter Estimation of Birnbaum-Saunders Distribution Under Competing Risks 
+Using the Quantile Variant of the Expectation-Maximization Algorithm.
+_Mathematics_  **To Appear**. 
+[[R Code](https://github.com/AppliedStat/R-code/tree/master/2024b)]
+
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).
 Development of robust confidence intervals for the cost-based process capability index.

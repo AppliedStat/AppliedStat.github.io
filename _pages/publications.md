@@ -25,7 +25,7 @@ doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.217041
 
 2024. **Park, C.**, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024).
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
 Robust explicit estimators using the power-weighted repeated medians.
 _Journal of Applied Statistics_ **To Appear**.
 doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
@@ -44,7 +44,7 @@ _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 
-2024. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024).
+2024. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
 Parameter Estimation of Birnbaum-Saunders Distribution Under Competing Risks 
 Using the Quantile Variant of the Expectation-Maximization Algorithm.
 _Mathematics_  **To Appear**. 

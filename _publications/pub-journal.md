@@ -16,7 +16,7 @@ doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.217041
 
 2024. **Park, C.**,
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024).
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
 Robust explicit estimators using the power-weighted repeated medians.
 _Journal of Applied Statistics_ **To Appear**.
 doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
@@ -35,7 +35,7 @@ _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 
-2024. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024).
+2024. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
 Parameter Estimation of Birnbaum-Saunders Distribution Under Competing Risks 
 Using the Quantile Variant of the Expectation-Maximization Algorithm. 
 _Mathematics_  **To Appear**. 
@@ -62,7 +62,7 @@ doi:[10.1080/23737484.2023.2249850](https://doi.org/10.1080/23737484.2023.224985
 
 2023. **Park, C.**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2023).
 Development of robust X-bar charts with unequal sample sizes.
 _Quality and Reliability Engineering International_ **39**(7), 2975-2994.
 doi:[10.1002/qre.3406](https://doi.org/10.1002/qre.3406)
@@ -81,7 +81,7 @@ Hybrid Reliability Analysis with Incomplete Interval Data Based on Adaptive Krig
 _Reliability Engineering & System Safety_ **237**, 109362.
 doi:[10.1016/j.ress.2023.109362](https://doi.org/10.1016/j.ress.2023.109362)
 
-2023. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+2023. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2023).
 A study on the _g_ and _h_ control charts.
 _Communications in Statistics - Theory and Methods_ **52**(20), 7334-7349. 
 doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.2044492)
@@ -109,7 +109,7 @@ doi:[10.3390/sym15061278](https://doi.org/10.3390/sym15061278)
 
 2023. **Park, C.**,
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41), and
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2023).
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2023).
 A Study on the Performance of the Probability-limit Control Charts 
 based on the Geometric and Negative Binomial Distributions. 
 _Computers and Industrial Engineering_ **180**, 109275.
@@ -117,20 +117,20 @@ doi:[10.1016/j.cie.2023.109275](https://doi.org/10.1016/j.cie.2023.109275)
 
 2023. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 M. Han, [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma),
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), 
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), 
 and **C. Park** (2023).
 Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **74**(3), 623-636.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
 2023. [Ma, Z.](https://www.linkedin.com/in/zhuanzhuan/), 
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and **C. Park** (2023).
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and **C. Park** (2023).
 Robust explicit estimation of the log-logistic with applications. 
 _Journal of Statistical Theory and Practice_ **17**, 21.
 doi:[10.1007/s42519-023-00322-x](https://doi.org/10.1007/s42519-023-00322-x)
 
 2023. **Park, C.**, 
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and
 [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41) (2023).
 Novel robust _g_ and _h_ charts using the generalized Kullback-Leibler divergence.
 _Computers and Industrial Engineering_ **176**, 108951.
@@ -149,13 +149,14 @@ Multiple perspectives on analyzing risk factors in FMEA.
 _Computers in industry_ **141**, 103712.
 doi:[10.1016/j.compind.2022.103712](https://doi.org/10.1016/j.compind.2022.103712)
 
-2022. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
+2022. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2022).
 Empirical distributions of the robustified t-test statistics. 
 _Industrial Engineering & Management Systems_ **21**(3), 432-439.
 doi:[10.7232/iems.2022.21.3.432](https://doi.org/10.7232/iems.2022.21.3.432)
 
-2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. **Park, C.**, [K. Gou](https://kungou.wordpress.com/), 
+and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2022).
 A Study on Estimating the Parameter of the Truncated Geometric Distribution.
 _The American Statistician_ **76**(3), 257-261.
 doi:[10.1080/00031305.2022.2034666](https://doi.org/10.1080/00031305.2022.2034666)
@@ -174,15 +175,15 @@ the alpha power exponential model using progressive first failure.
 _Symmetry_ **14**(7), 1306.
 doi:[10.3390/sym14071306](https://doi.org/10.3390/sym14071306)
 
-2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. **Park, C.**, H. Kim, and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2022).
 Investigation of Finite-Sample Properties of Robust Location and Scale Estimators.
 _Communications in Statistics - Simulation and Computation_ **51**(5), 2619-2645.
 doi:[10.1080/03610918.2019.1699114](https://doi.org/10.1080/03610918.2019.1699114)
 [[R package](https://appliedstat.github.io/R/R-package-3/)]
 
 2022. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-S. Zhu, [K. Ye](https://business.utsa.edu/faculty/keying-ye/),
-**C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+S. Zhu, [K. Ye](https://business.utsa.edu/faculty/profiles/ye-keying.html),
+**C. Park**, and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2022).
 Robust Bayesian hierarchical modeling and inference using scale mixtures of normal distributions.
 _IISE Transactions_ **54**(7), 659-671.
 doi:[10.1080/24725854.2021.1912440](https://doi.org/10.1080/24725854.2021.1912440)
@@ -195,7 +196,7 @@ alpha power exponential distribution based on type-I progressive censored sample
 _Symmetry_ **14**(4), 830.
 doi:[10.3390/sym14040830](https://doi.org/10.3390/sym14040830)
 
-2022. Ma, Z., **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2022).
+2022. Ma, Z., **C. Park**, and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2022).
 A robust bootstrap control chart for the log-logistic percentiles.
 _Journal of Statistical Theory and Practice_ **16**, 3.
 doi:[10.1007/s42519-021-00239-3](https://doi.org/10.1007/s42519-021-00239-3)
@@ -208,7 +209,7 @@ _Applied Sciences_ **11**(24), 11632.
 doi:[10.3390/app112411632](https://doi.org/10.3390/app112411632)
 
 2021. **Park, C.**, [L. Ouyang](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
+and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2021).
 Robust _g_-type quality control charts for monitoring nonconformities.
 _Computers and Industrial Engineering_ **162**, 107765.
 doi:[10.1016/j.cie.2021.107765](https://doi.org/10.1016/j.cie.2021.107765)
@@ -224,13 +225,14 @@ _Applied Sciences_ **11**(16), 7321.
 doi:[10.3390/app11167321](https://doi.org/10.3390/app11167321)
 
 2021. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**,
-Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2021).
+Yan Ma, [Yizhong Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma), 
+and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2021).
 Bayesian hierarchical modeling for process optimisation.
 _International Journal of Production Research_ **59**(15), 4649-4669. 
 doi:[10.1080/00207543.2020.1769873](https://doi.org/10.1080/00207543.2020.1769873)
 
 2020. **Park, C.**, 
-[M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), 
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), 
 [R. M. Alotaibi](https://orcid.org/0000-0002-9449-7489), and 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232) (2020).
 Load-Sharing Model under Lindley Distribution and Its Parameter Estimation Using the
@@ -245,13 +247,13 @@ _Communications in Statistics - Simulation and Computation_ **49**(10), 2583-260
 doi:[10.1080/03610918.2018.1520877](https://doi.org/10.1080/03610918.2018.1520877)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2020c/)]
 
-2020. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2020).
+2020. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2020).
 A study on the X-bar and S control charts with unequal sample sizes.
 _Mathematics_ **8**(5), 698.
 doi:[10.3390/math8050698](https://doi.org/10.3390/math8050698) 
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2020a)]
 
-2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/), and 
+2020. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and 
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2020).
 A study on robustness of the paired sample tests. 
 _Industrial Engineering & Management Systems_ **19**(2), 386-397.  
@@ -330,12 +332,12 @@ A Highly Efficient Robust Design Under Data Contamination.
 _Computers and Industrial Engineering_ **93**, 131-142.
 doi:[10.1016/j.cie.2015.11.016](https://doi.org/10.1016/j.cie.2015.11.016)
 
-2016. Wang, M.,  X. Sun and **C. Park** (2016).
+2016. [Wang, M.](https://business.utsa.edu/faculty/profiles/wang-min.html),  X. Sun and **C. Park** (2016).
 Bayesian analysis of Birnbaum-Saunders distribution via the generalized ratio-of-uniforms method.
 _Computational Statistics_ **31**(1), 207-225.
 doi:[10.1007/s00180-015-0629-z](https://doi.org/10.1007/s00180-015-0629-z)
 
-2015. Wang, M., **C. Park**, and X. Sun (2015).
+2015. [Wang, M.](https://business.utsa.edu/faculty/profiles/wang-min.html), **C. Park**, and X. Sun (2015).
 Simple Robust Parameter Estimation for the Birnbaum-Saunders Distribution.
 _Journal of Statistical Distributions and Applications_ **2**(14), 1-11.
 doi:[10.1186/s40488-015-0038-4](https://doi.org/10.1186/s40488-015-0038-4)
@@ -361,7 +363,7 @@ An Improved p Chart based on the Wilson Interval.
 _Journal of Statistics & Management Systems_ **16**:2-3, 201-221.
 doi:[10.1080/09720510.2013.777576](https://doi.org/10.1080/09720510.2013.777576)
 
-2013. Wang, M., J. Zhao, X. Sun and **C. Park** (2013).
+2013. [Wang, M.](https://business.utsa.edu/faculty/profiles/wang-min.html), J. Zhao, X. Sun and **C. Park** (2013).
 Robust Explicit Estimation of the Two-parameter Birnbaum-Saunders Distribution.
 _Journal of Applied Statistics_ **40**, 2259-2274.
 doi:[10.1080/02664763.2013.809570](https://doi.org/10.1080/02664763.2013.809570)

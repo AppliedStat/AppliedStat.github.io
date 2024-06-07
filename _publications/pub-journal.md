@@ -36,9 +36,10 @@ doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 
 2024. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
-Parameter Estimation of Birnbaum-Saunders Distribution Under Competing Risks 
-Using the Quantile Variant of the Expectation-Maximization Algorithm. 
-_Mathematics_  **To Appear**. 
+Parameter Estimation of Birnbaum-Saunders Distribution Under Competing Risks
+Using the Quantile Variant of the Expectation-Maximization Algorithm.
+_Mathematics_  **12**(11), 1757.
+doi:[10.3390/math12111757](https://doi.org/10.3390/math12111757)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2024b)]
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),

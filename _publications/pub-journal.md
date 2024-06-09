@@ -14,14 +14,6 @@ Improving the efficiency and efficacy of robust sequential bifurcation under dat
 _Communications in Statistics - Theory and Methods_ **To Appear**.
 doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
 
-2024. **Park, C.**,
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
-[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
-Robust explicit estimators using the power-weighted repeated medians.
-_Journal of Applied Statistics_ **To Appear**.
-doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
-[[R Code](https://github.com/AppliedStat/R-code/blob/master/2024a/)]
-
 2024. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2024). 
 A new heuristic for the continuous fixed-radius disk cover problem.
@@ -34,6 +26,14 @@ based on the Expectation-Maximization Algorithm.
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
+
+2024. **Park, C.**,
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and
+[M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
+Robust explicit estimators using the power-weighted repeated medians.
+_Journal of Applied Statistics_ **51**(8), 1590-1608.
+doi:[10.1080/02664763.2023.2229969](https://doi.org/10.1080/02664763.2023.2229969)
+[[R Code](https://github.com/AppliedStat/R-code/blob/master/2024a/)]
 
 2024. **Park, C.** and [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html) (2024).
 Parameter Estimation of Birnbaum-Saunders Distribution Under Competing Risks

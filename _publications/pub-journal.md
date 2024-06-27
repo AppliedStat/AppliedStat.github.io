@@ -2,12 +2,6 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
-[S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).
-Robust Confidence Intervals for the Process Capability Index Cpk with Bootstrap Improvement.
-_Quality Engineering_ **To Appear**.
-doi:[10.1080/08982112.2023.2263523](https://doi.org/10.1080/08982112.2023.2263523)
-
 2024. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou, and 
 [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2024).
 Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
@@ -26,6 +20,12 @@ based on the Expectation-Maximization Algorithm.
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
+
+2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
+[S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).
+Robust Confidence Intervals for the Process Capability Index Cpk with Bootstrap Improvement.
+_Quality Engineering_ **36**(3), 624-637.
+doi:[10.1080/08982112.2023.2263523](https://doi.org/10.1080/08982112.2023.2263523)
 
 2024. **Park, C.**,
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), and

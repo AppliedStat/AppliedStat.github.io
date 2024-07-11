@@ -93,6 +93,7 @@ doi:[10.1080/03610926.2022.2044492](https://doi.org/10.1080/03610926.2022.204449
 Robust Model Design by Comparative Evaluation of Clustering Algorithms.
 _IEEE Access_ **11**, 88135-88151.
 doi:[10.1109/ACCESS.2023.3306023](https://doi.org/10.1109/ACCESS.2023.3306023)
+[[Python](https://github.com/AppliedStat/R-code/tree/master/2023d)]
 
 2023. **Park, C.** (2023).
 A Note on Weibull Parameter Estimation with Interval Censoring Using the EM Algorithm.

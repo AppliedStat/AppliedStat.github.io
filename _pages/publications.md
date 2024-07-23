@@ -21,6 +21,7 @@ doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.217041
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2024).
 A new heuristic for the continuous fixed-radius disk cover problem.
 _Engineering Optimization_ **To Appear**.
+doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)
 
 2024. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489),
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), and **C. Park** (2024).

@@ -22,6 +22,11 @@ _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 
+2024. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen, 
+[B. Kim](https://sites.google.com/view/bosungkim), and **C. Park** (2024). 
+A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator.
+_Industrial Engineering & Management Systems_ **To Appear**.
+
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).
 Robust Confidence Intervals for the Process Capability Index Cpk with Bootstrap Improvement.

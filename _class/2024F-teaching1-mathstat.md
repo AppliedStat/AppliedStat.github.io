@@ -10,7 +10,7 @@ location: "Busan, Korea"
 
 Description
 ======
-+ Mathematical Statistics (DE-76044) will focus on the theories of statistics. 
++ Mathematical Statistics (DE-7600044) will focus on the theories of statistics. 
 + First Topics (probability part) covered in this class include basic distribution theories and
   various probability distributions such as binomial, negative binomial, Poisson, exponential, normal, bivariate, etc.
 + Second Topics (statistics part) covered in this class include point estimation, 

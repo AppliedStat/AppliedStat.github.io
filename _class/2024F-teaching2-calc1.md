@@ -1,5 +1,5 @@
 ---
-title: "Engineering Calculus"
+title: "Engineering Calculus I"
 collection: class
 type: "Undergraduate course"
 venue: "IE-1500379"

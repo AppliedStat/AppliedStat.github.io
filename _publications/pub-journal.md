@@ -18,7 +18,7 @@ doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.236860
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), and **C. Park** (2024).
 Parameter Estimation of Inverse Weibull Distribution Under Competing Risks 
 based on the Expectation-Maximization Algorithm. 
-_Quality and Reliability Engineering International_ **To Appear**.
+_Quality and Reliability Engineering International_ **40**(7), 3795–3808.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
 

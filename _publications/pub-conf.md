@@ -2,6 +2,10 @@
 title: "Conference Papers and Manuscripts"
 collection: publications
 ---
+1. Park, W., **Park, C.**, and [D. Kim](https://sites.google.com/view/riskanalyticslab) (2024).
+정규성 검정을 통한 노이즈 제거 기반 데이터 이상치 탐지 및 X-bar 관리도 적용 연구. 
+한국품질경영학회/한국신뢰성학회 공동 추계학술대회, 경주화백컨벤션센터 (2024년 11월 1일).
+
 1. **Park, C.**, W. Park, [N. Jeong](https://www.researchgate.net/profile/Nami-Jeong), and 
 [D. Kim](https://sites.google.com/view/riskanalyticslab) (2024).
 Improvement of anomaly detection using a leave-one-out cross-validation approach and its application to X-bar control charts. 

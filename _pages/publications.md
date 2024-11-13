@@ -23,6 +23,12 @@ Improving the efficiency and efficacy of robust sequential bifurcation under dat
 _Communications in Statistics - Theory and Methods_ **53**(11), 5143-5159.
 doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
 
+2024. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen,
+[B. Kim](https://sites.google.com/view/bosungkim), and **C. Park** (2024).
+A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator.
+_Industrial Engineering & Management Systems_ **23**(3), 323-341.
+doi:[10.7232/iems.2024.23.3.323](https://doi.org/10.7232/iems.2024.23.3.323)
+
 2024. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489),
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), and **C. Park** (2024).
 Parameter Estimation of Inverse Weibull Distribution Under Competing Risks 
@@ -30,11 +36,6 @@ based on the Expectation-Maximization Algorithm.
 _Quality and Reliability Engineering International_ **40**(7), 3795–3808.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
-
-2024. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen,
-[B. Kim](https://sites.google.com/view/bosungkim), and **C. Park** (2024).
-A Note on Location Parameter Estimation using the Weighted Hodges-Lehmann Estimator.
-_Industrial Engineering & Management Systems_ **To Appear**.
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).

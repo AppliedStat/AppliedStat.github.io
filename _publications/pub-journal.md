@@ -2,17 +2,17 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2024. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou, and 
-[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2024).
-Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
-_Communications in Statistics - Theory and Methods_ **To Appear**.
-doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
-
 2024. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2024). 
 A new heuristic for the continuous fixed-radius disk cover problem.
 _Engineering Optimization_ **To Appear**.
 doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)
+
+2024. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou, and 
+[Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2024).
+Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
+_Communications in Statistics - Theory and Methods_ **53**(11), 5143-5159.
+doi:[10.1080/03610918.2023.2170416](https://doi.org/10.1080/03610918.2023.2170416)
 
 2024. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), 
 [H. Rezk](https://orcid.org/0000-0002-7501-7232), and **C. Park** (2024).

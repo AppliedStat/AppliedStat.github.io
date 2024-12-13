@@ -1,5 +1,5 @@
 ---
-title: "Reliability Engineering - (신뢰성공학)"
+title: "Reliability Engineering (신뢰성공학)"
 collection: teaching
 type: "Undergraduate course"
 venue: "IE-2700581"

@@ -6,10 +6,11 @@ collection: publications
 Robust control charts using R.  _In Preparation_
 [[R Codes](https://github.com/AppliedStat/RCC)]
 
-1. **C. Park** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2024). 
+1. **C. Park** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2025). 
 A goodness-of-fit test for the Birnbaum-Saunders distribution based on the probability plot. 
-Reliability Analysis and Maintenance Optimization of Complex Systems.
-In _Springer Book Series,_ To Appear.
+In Reliability Analysis and Maintenance Optimization of Complex Systems.
+_Springer Book Series in Reliability Engineering,_ To Appear.
+doi:[10.1007/978-3-031-70288-4_19](https://doi.org/10.1007/978-3-031-70288-4_19).
 [[R package](https://appliedstat.github.io/R/R-package-4/)]
 
 1. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41), **C. Park**, J.-H. Byun, and M. Leeds (2019). 

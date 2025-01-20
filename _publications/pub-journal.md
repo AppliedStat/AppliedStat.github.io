@@ -2,8 +2,8 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
-2024. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2024). 
+2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2025). 
 A new heuristic for the continuous fixed-radius disk cover problem.
 _Engineering Optimization_ **To Appear**.
 doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)

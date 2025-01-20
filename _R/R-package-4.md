@@ -4,8 +4,8 @@ excerpt: "Goodness-of-Fit Test for Birnbaum-Saunders Distribution"
 collection: R
 ---
 This R package performs a <i>Birnbaum-Saunders goodness-of-fit test</i> and
-provides the parameter estimates of the Birnbaum-Saunders distribution.
-For more details, see [Park and Wang (2025)](https://doi.org/10.1007/978-3-031-70288-4_19). 
+provides the parameter estimates of the Birnbaum-Saunders distribution. 
+For more details, see [Park and Wang (2025)](https://doi.org/10.1007/978-3-031-70288-4_19).
 
 This work was supported by the National Research Foundation of Korea (NRF) grants funded
 by the Korea government (MSIT) (No. 2022R1A2C1091319, RS-2023-00242528).

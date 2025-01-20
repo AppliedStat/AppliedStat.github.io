@@ -9,7 +9,7 @@ Robust control charts using R.  _In Preparation_
 1. **C. Park** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2025). 
 A goodness-of-fit test for the Birnbaum-Saunders distribution based on the probability plot. 
 In Reliability Analysis and Maintenance Optimization of Complex Systems.
-_Springer Book Series in Reliability Engineering,_ To Appear.
+_Springer Book Series in Reliability Engineering._ 
 doi:[10.1007/978-3-031-70288-4_19](https://doi.org/10.1007/978-3-031-70288-4_19).
 [[R package](https://appliedstat.github.io/R/R-package-4/)]
 

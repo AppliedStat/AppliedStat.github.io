@@ -2,6 +2,16 @@
 title: "Peer-reviewed Journal Papers"
 collection: publications
 ---
+2025. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), X. Chen, **C. Park**, and 
+[B. Kim](https://sites.google.com/view/bosungkim) (2025).
+Facility Location Decision under Data Contamination: Robustness Properties and Performance.
+_European Journal of Industrial Engineering_ **To Appear**
+
+2025. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and
+[W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2025).
+Robust Estimation of Weibull Parameters using the Probability Plot. 
+_Industrial Engineering & Management Systems_ **To Appear**.
+
 2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2025). 
 A new heuristic for the continuous fixed-radius disk cover problem.

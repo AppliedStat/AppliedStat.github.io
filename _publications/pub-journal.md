@@ -13,12 +13,6 @@ Robust Estimation of Weibull Parameters using the Probability Plot.
 _Industrial Engineering & Management Systems_ **24**(2), i135-144.
 doi:[10.7232/iems.2025.24.2.135](https://doi.org/10.7232/iems.2025.24.2.135)
 
-2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2025). 
-A new heuristic for the continuous fixed-radius disk cover problem.
-_Engineering Optimization_ **To Appear**.
-doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)
-
 2024. [Xie, E.](https://www.researchgate.net/profile/Xie-En-3), **C. Park**, L. Liu, J. Zhou, and 
 [Y. Ma](https://www.researchgate.net/profile/Yi_Zhong_Ma) (2024).
 Improving the efficiency and efficacy of robust sequential bifurcation under data contamination.
@@ -38,6 +32,12 @@ based on the Expectation-Maximization Algorithm.
 _Quality and Reliability Engineering International_ **40**(7), 3795–3808.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
+
+2024. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2024).
+A new heuristic for the continuous fixed-radius disk cover problem.
+_Engineering Optimization_ **57**(7), 1764–1777.
+doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).

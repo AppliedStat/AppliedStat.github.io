@@ -9,8 +9,9 @@ _European Journal of Industrial Engineering_ **To Appear**
 
 2025. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2025).
-Robust Estimation of Weibull Parameters using the Probability Plot. 
-_Industrial Engineering & Management Systems_ **To Appear**.
+Robust Estimation of Weibull Parameters using the Probability Plot.
+_Industrial Engineering & Management Systems_ **24**(2), i135-144.
+doi:[10.7232/iems.2025.24.2.135](https://doi.org/10.7232/iems.2025.24.2.135)
 
 2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2025). 

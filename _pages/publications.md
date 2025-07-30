@@ -16,6 +16,12 @@ Recent Publications
 Facility Location Decision under Data Contamination: Robustness Properties and Performance.
 _European Journal of Industrial Engineering_ **To Appear**
 
+2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2025).
+A new heuristic for the continuous fixed-radius disk cover problem.
+_Engineering Optimization_ **57**(7), 1764–1777.
+doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)
+
 2025. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and
 [W.-Y. Hwang](https://www.researchgate.net/profile/Wook_Yeon_Hwang) (2025).
 Robust Estimation of Weibull Parameters using the Probability Plot.
@@ -41,12 +47,6 @@ based on the Expectation-Maximization Algorithm.
 _Quality and Reliability Engineering International_ **40**(7), 3795–3808.
 doi:[10.1002/qre.3599](https://doi.org/10.1002/qre.3599)
 [[R Code](https://github.com/AppliedStat/R-code/blob/master/2024c/)]
-
-2024. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2024).
-A new heuristic for the continuous fixed-radius disk cover problem.
-_Engineering Optimization_ **57**(7), 1764–1777.
-doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)
 
 2024. [Ouyang, L.](https://cn.linkedin.com/in/linhan-ouyang-94834b41),
 [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2024).

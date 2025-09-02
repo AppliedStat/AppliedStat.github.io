@@ -6,7 +6,7 @@ collection: publications
 Robust confidence intervals for process capability index based on cost
 and loss functions with bootstrap enhancement.
 _Quality and Reliability Engineering International_ **To Appear**.
-doi:[0.1002/qre.70055](https://doi.org/0.1002/qre.70055)
+doi:[10.1002/qre.70055](https://doi.org/10.1002/qre.70055)
 
 2025. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), X. Chen, **C. Park**, and 
 [B. Kim](https://sites.google.com/view/bosungkim) (2025).

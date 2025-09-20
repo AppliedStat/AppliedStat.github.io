@@ -41,5 +41,6 @@ Links
 + [Syllabus](/files/syllabus/syl-DE-7600044-2025.pdf)
 + [R Programs and supplemental notes](https://github.com/AppliedStat/class/tree/master/MathStat)
 + [R4pda](https://enook.jbnu.ac.kr/16/ch01/01/r4pda.pdf) (R written in Korean)
++ [Free R books](https://cran.r-project.org/doc/contrib/)
 
 

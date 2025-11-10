@@ -22,6 +22,11 @@ doi:[10.1002/qre.70055](https://doi.org/10.1002/qre.70055)
 Facility Location Decision under Data Contamination: Robustness Properties and Performance.
 _European Journal of Industrial Engineering_ **To Appear**
 
+2025. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), *C. Park*, H. Rezk and A. Elshahhat (2025).
+Statistical Analysis of Progressive Interval Type-I Partially Accelerated Test and Its Inspection of Optimum Periods.
+_Rev. int. métodos numér. cálc. diseño ing_, **41**(3), 54.
+doi:[10.23967/j.rimni.2025.10.65809](https://doi.org/10.23967/j.rimni.2025.10.65809)
+
 2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2025).
 A new heuristic for the continuous fixed-radius disk cover problem.

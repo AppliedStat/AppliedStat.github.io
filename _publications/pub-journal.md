@@ -6,7 +6,7 @@ collection: publications
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2025).
 Two hybrid genetic algorithms for the continuous *p*-center problem.
 _Engineering Optimization_ **Accepted for publication**
-[[R Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
+[[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
 
 2025. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2025).
 Robust confidence intervals for process capability index based on cost

@@ -11,8 +11,13 @@ author_profile: true
 
 Recent Publications
 ------
-2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang, 
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2025).
+2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen, 
+**C. Park**, and K. Liu (2026).
+Outlier-Resistant Robust Medical Supply Prepositioning and Rebalancing in Response to Disasters.
+_RAIRO-Operations Research_ **Accepted for publication**
+
+2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang, 
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).
 Two hybrid genetic algorithms for the continuous *p*-center problem.
 _Engineering Optimization_ **Accepted for publication**
 [[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]

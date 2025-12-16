@@ -14,24 +14,25 @@ Recent Publications
 2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen, 
 **C. Park**, and K. Liu (2026).
 Outlier-Resistant Robust Medical Supply Prepositioning and Rebalancing in Response to Disasters.
-_RAIRO-Operations Research_ **Accepted for publication**
+_RAIRO-Operations Research_ **To Appear**
 
 2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).
 Two hybrid genetic algorithms for the continuous *p*-center problem.
-_Engineering Optimization_ **Accepted for publication**
+_Engineering Optimization_ **To Appear**
 [[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
 
-2025. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2025).
+2026. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2026).
 Robust confidence intervals for process capability index based on cost 
 and loss functions with bootstrap enhancement. 
 _Quality and Reliability Engineering International_ **To Appear**.
 doi:[10.1002/qre.70055](https://doi.org/10.1002/qre.70055)
 
-2025. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), X. Chen, **C. Park**, and
-[B. Kim](https://sites.google.com/view/bosungkim) (2025).
+2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), X. Chen, **C. Park**, and
+[B. Kim](https://sites.google.com/view/bosungkim) (2026).
 Facility Location Decision under Data Contamination: Robustness Properties and Performance.
-_European Journal of Industrial Engineering_ **To Appear**
+_European Journal of Industrial Engineering_ **21**(3).
+doi:[10.1504/ejie.2026.10073237](https://doi.org/10.1504/ejie.2026.10073237)
 
 2025. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), **C. Park**, H. Rezk and A. Elshahhat (2025).
 Statistical Analysis of Progressive Interval Type-I Partially Accelerated Test and Its Inspection of Optimum Periods.

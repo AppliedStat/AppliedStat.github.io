@@ -56,7 +56,7 @@ Links
 + [Syllabus](/files/syllabus/syl-IE-3500452-2026.pdf)
 + [Class Notes](https://github.com/AppliedStat/LM/tree/master/Notes)
 + [R and Minitab Codes](https://github.com/AppliedStat/LM/)
-+ [R4pda](http://r4pda.co.kr/) (R written in Korean)
++ [R4pda](https://enook.jbnu.ac.kr/16/ch01/01/r4pda.pdf) (R written in Korean)
 + [Minitab (trial SW)](http://www.minitab.com/en-us/products/minitab/free-trial/)
 + [Minitab (manual)](https://www.minitab.com/en-us/support/documents/)
 

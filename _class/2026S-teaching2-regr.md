@@ -57,6 +57,7 @@ Links
 + [Class Notes](https://github.com/AppliedStat/LM/tree/master/Notes)
 + [R and Minitab Codes](https://github.com/AppliedStat/LM/)
 + [R4pda](https://enook.jbnu.ac.kr/16/ch01/01/r4pda.pdf) (R written in Korean)
++ [Free R books](https://cran.r-project.org/doc/contrib/)
 + [Minitab (trial SW)](http://www.minitab.com/en-us/products/minitab/free-trial/)
 + [Minitab (manual)](https://www.minitab.com/en-us/support/documents/)
 

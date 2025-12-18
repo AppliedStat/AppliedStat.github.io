@@ -15,6 +15,7 @@ Recent Publications
 **C. Park**, and K. Liu (2026).
 Outlier-Resistant Robust Medical Supply Prepositioning and Rebalancing in Response to Disasters.
 _RAIRO-Operations Research_ **To Appear**
+doi:[10.1051/ro/2025163](https://doi.org/10.1051/ro/2025163)
 
 2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).

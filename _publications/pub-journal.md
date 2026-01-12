@@ -12,12 +12,13 @@ doi:[10.1051/ro/2025163](https://doi.org/10.1051/ro/2025163)
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).
 Two hybrid genetic algorithms for the continuous *p*-center problem.
 _Engineering Optimization_ **To Appear**
+doi:[10.1080/0305215X.2025.2600326](https://doi.org/10.1080/0305215X.2025.2600326)
 [[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
 
 2026. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2026).
 Robust confidence intervals for process capability index based on cost
 and loss functions with bootstrap enhancement.
-_Quality and Reliability Engineering International_ **To Appear**.
+_Quality and Reliability Engineering International_ **42**(1), 212-224.
 doi:[10.1002/qre.70055](https://doi.org/10.1002/qre.70055)
 
 2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), X. Chen, **C. Park**, and
@@ -34,7 +35,7 @@ doi:[10.23967/j.rimni.2025.10.65809](https://doi.org/10.23967/j.rimni.2025.10.65
 2025. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12),
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), C. Li, and **C. Park** (2025).
 A new heuristic for the continuous fixed-radius disk cover problem.
-_Engineering Optimization_ **57**(7), 1764–1777.
+_Engineering Optimization_ **57**(7), 1764-1777.
 doi:[10.1080/0305215X.2024.2368609](https://doi.org/10.1080/0305215X.2024.2368609)
 
 2025. **Park, C.**, [M. Wang](https://business.utsa.edu/faculty/profiles/wang-min.html), and

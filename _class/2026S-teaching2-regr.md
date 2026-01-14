@@ -26,7 +26,7 @@ Description
 Objectives 
 ======
 Upon successful completion of this course, students will be able to:
-1. Program statistical softwares (Minitab and R). 
+1. Program statistical softwares (R, Minitab, and Python3).  
 1. Derive parameter estimates under the simple linear regression model. 
 1. Do basic statistical inference for the simple linear regression model. 
 1. Know how to use matrix algebra in regression models. 

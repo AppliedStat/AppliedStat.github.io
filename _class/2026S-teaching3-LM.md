@@ -46,7 +46,6 @@ Upon successful completion of this course, students will be able to:
 Why regression?
 ======
 + [Key Types of Regressions: Which One to Use?](https://www.datasource.ai/en/data-science-articles/key-types-of-regressions-which-one-to-use)
-+ [What is “linear” regression model?](https://towardsdatascience.com/what-is-linear-regression-model-f24f1a24f9bb)
 + [R Vs Python: What’s the Difference?](https://www.guru99.com/r-vs-python.html)
 + [Why R for Data Science – and not  Python?](http://blog.ephorie.de/why-r-for-data-science-and-not-python)
 
@@ -55,7 +54,7 @@ Links
 ======
 + [Syllabus](/files/syllabus/syl-IE-6800722-2026.pdf)
 + [Class Notes](https://github.com/AppliedStat/LM/tree/master/Notes)
-+ [R and Minitab Codes](https://github.com/AppliedStat/LM/)
++ [R, Python and Minitab Codes](https://github.com/AppliedStat/LM/)
 + [R4pda](https://enook.jbnu.ac.kr/16/ch01/01/r4pda.pdf) (R written in Korean)
 + [Free R books](https://cran.r-project.org/doc/contrib/)
 + [Minitab (trial SW)](http://www.minitab.com/en-us/products/minitab/free-trial/)

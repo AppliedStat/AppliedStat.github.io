@@ -24,7 +24,7 @@ doi:[10.1002/qre.70055](https://doi.org/10.1002/qre.70055)
 2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), X. Chen, **C. Park**, and
 [B. Kim](https://sites.google.com/view/bosungkim) (2026).
 Facility Location Decision under Data Contamination: Robustness Properties and Performance.
-_European Journal of Industrial Engineering_ **21**(3).
+_European Journal of Industrial Engineering_ **21**(2), 169-199. 
 doi:[10.1504/ejie.2026.10073237](https://doi.org/10.1504/ejie.2026.10073237)
 
 2025. [Alotaibi, R.](https://orcid.org/0000-0002-9449-7489), **C. Park**, H. Rezk and A. Elshahhat (2025).

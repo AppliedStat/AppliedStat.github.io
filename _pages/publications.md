@@ -11,18 +11,18 @@ author_profile: true
 
 Recent Publications
 ------
-2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen, 
-**C. Park**, and K. Liu (2026).
-Outlier-Resistant Robust Medical Supply Prepositioning and Rebalancing in Response to Disasters.
-_RAIRO-Operations Research_ **To Appear**. 
-doi:[10.1051/ro/2025163](https://doi.org/10.1051/ro/2025163)
-
 2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).
 Two hybrid genetic algorithms for the continuous *p*-center problem.
 _Engineering Optimization_ **To Appear**
 doi:[10.1080/0305215X.2025.2600326](https://doi.org/10.1080/0305215X.2025.2600326)
 [[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
+
+2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen,
+**C. Park**, and K. Liu (2026).
+Outlier-Resistant Robust Medical Supply Prepositioning and Rebalancing in Response to Disasters.
+_RAIRO-Operations Research_ **60**(2), 989-1023.
+doi:[10.1051/ro/2025163](https://doi.org/10.1051/ro/2025163)
 
 2026. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2026).
 Robust confidence intervals for process capability index based on cost 

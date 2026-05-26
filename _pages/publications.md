@@ -11,6 +11,11 @@ author_profile: true
 
 Recent Publications
 ------
+2026. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), A. S. Yadav, M. Saha, and **C. Park** (2026).
+Estimation and Confidence Intervals of a Quantile-Based Process Capability Index for the Power Rayleigh Distribution with ROC Analysis and Applications to Industrial Data.
+_Quality and Reliability Engineering International_ **To Appear**, 
+doi:
+
 2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang, 
 [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).
 Two hybrid genetic algorithms for the continuous *p*-center problem.

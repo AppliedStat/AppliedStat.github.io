@@ -24,7 +24,7 @@ doi:[10.1080/0305215X.2025.2600326](https://doi.org/10.1080/0305215X.2025.260032
 [[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
 
 2026. [Gao, X.](https://www.researchgate.net/profile/Xuehong-Gao), Z. Chen,
-**C. Park**, and K. Liu (2026).
+**C. Park**, K. Liu, and Q. Zhao (2026).
 Outlier-Resistant Robust Medical Supply Prepositioning and Rebalancing in Response to Disasters.
 _RAIRO-Operations Research_ **60**(2), 989-1023.
 doi:[10.1051/ro/2025163](https://doi.org/10.1051/ro/2025163)

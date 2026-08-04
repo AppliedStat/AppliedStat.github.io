@@ -1,11 +1,9 @@
 ---
 layout: archive
+title: "R Packages"
 permalink: /R/
 author_profile: true
 ---
-
-R Packages
-======
 
 {% include base_path %}
 

@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "R Packages"
 permalink: /R/
 author_profile: true
 ---
@@ -10,14 +11,24 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-R Packages
-======
-
 [weibullness](https://appliedstat.github.io/R/R-package-1/)
 <br />
 Goodness-of-Fit Test for Weibull Distribution 
 <br />
 DOI: [10.32614/CRAN.package.weibullness](https://doi.org/10.32614/CRAN.package.weibullness)
+<br />
+
+
+[rt.test](https://appliedstat.github.io/R/R-package-2/)
+<br />
+Robustified t-test
+<br />
+DOI: [10.32614/CRAN.package.rt.test](https://doi.org/10.32614/CRAN.package.rt.test)
+<br />
+
+
+
+
 
 
 <br />

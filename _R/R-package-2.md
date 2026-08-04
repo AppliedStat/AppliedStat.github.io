@@ -7,6 +7,8 @@ This R package performs one-sample t-test based on robustified statistics using 
 (TA) and Hodges-Lehmann/Shamos (TB). 
 For more details, see [Park and Wang (2018)](https://arxiv.org/abs/1807.02215). 
 
+DOI: [10.32614/CRAN.package.rt.test](https://doi.org/10.32614/CRAN.package.rt.test)
+
 ### Links
 [![cran](https://cranlogs.r-pkg.org/badges/grand-total/rt.test)](https://cran.r-project.org/web/packages/rt.test/)
 [![rdrr](https://img.shields.io/badge/%20-rdrr.io-yellowgreen.svg)](https://rdrr.io/cran/rt.test/)

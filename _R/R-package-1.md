@@ -15,6 +15,9 @@ accompanied by parameter estimations.  For more details, see
 This work was supported by the National Research Foundation of Korea (NRF) grants funded by the Korea government (MSIT) 
 (No. 2022R1A2C1091319, RS-2023-00242528).
 
+DOI: [10.32614/CRAN.package.weibullness](https://doi.org/10.32614/CRAN.package.weibullness)
+
+
 ### Links
 [![cran](https://cranlogs.r-pkg.org/badges/grand-total/weibullness)](https://cran.r-project.org/web/packages/weibullness/) 
 [![rdrr](https://img.shields.io/badge/%20-rdrr.io-yellowgreen.svg)](https://rdrr.io/cran/weibullness/)

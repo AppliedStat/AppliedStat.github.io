@@ -15,6 +15,9 @@ see [Park and Wang (2022)](https://doi.org/10.1080/03610926.2022.2044492).
 This work was supported by the National Research Foundation of Korea (NRF) grants funded
 by the Korea government (MSIT) (No. 2022R1A2C1091319).
 
+DOI: [10.32614/CRAN.package.rQCC](https://doi.org/10.32614/CRAN.package.rQCC)
+
+
 ### Links
 [![cran](https://cranlogs.r-pkg.org/badges/grand-total/rQCC)](https://cran.r-project.org/web/packages/rQCC/) 
 [![rdrr](https://img.shields.io/badge/%20-rdrr.io-yellowgreen.svg)](https://rdrr.io/cran/rQCC/)

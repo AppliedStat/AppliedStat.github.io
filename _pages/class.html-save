@@ -1,4 +1,3 @@
-<!--
 ---
 layout: archive
 title: "Classes"
@@ -10,7 +9,6 @@ author_profile: true
 {% for post in site.class %}
   {% include archive-single.html %}
 {% endfor %}
--->
 
 <HTML>
 <img src="/images/cheongchul.png" alt="靑出於藍"  width="500"/>

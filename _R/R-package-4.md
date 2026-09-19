@@ -8,7 +8,7 @@ provides the parameter estimates of the Birnbaum-Saunders distribution.
 For more details, see [Park and Wang (2025)](https://doi.org/10.1007/978-3-031-70288-4_19).
 
 This work was supported by the National Research Foundation of Korea (NRF) grants funded
-by the Korea government (MSIT) (No. 2022R1A2C1091319).
+by the Korea government (No. 2022R1A2C1091319).
 
 DOI: [10.32614/CRAN.package.bsgof](https://doi.org/10.32614/CRAN.package.bsgof)
  

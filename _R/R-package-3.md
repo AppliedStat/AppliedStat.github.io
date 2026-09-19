@@ -13,7 +13,7 @@ For more details on _g_ and _h_ charts,
 see [Park and Wang (2022)](https://doi.org/10.1080/03610926.2022.2044492).
 
 This work was supported by the National Research Foundation of Korea (NRF) grants funded
-by the Korea government (MSIT) (No. 2022R1A2C1091319).
+by the Korea government (No. 2022R1A2C1091319).
 
 DOI: [10.32614/CRAN.package.rQCC](https://doi.org/10.32614/CRAN.package.rQCC)
 

@@ -173,7 +173,7 @@ Simulation optimization using stochastic kriging with robust statistics.
 _Journal of the Operational Research Society_ **74**(3), 623-636.
 doi:[10.1080/01605682.2022.2055498](https://doi.org/10.1080/01605682.2022.2055498)
 
-2023. [Ma, Z.](https://www.linkedin.com/in/zhuanzhuan/), 
+2023. [Ma, Z.](https://www.researchgate.net/profile/Zhuanzhuan-Ma), 
 [M. Wang](https://www.researchgate.net/profile/Min-Wang), and **C. Park** (2023).
 Robust explicit estimation of the log-logistic with applications. 
 _Journal of Statistical Theory and Practice_ **17**, 21.
@@ -246,7 +246,8 @@ alpha power exponential distribution based on type-I progressive censored sample
 _Symmetry_ **14**(4), 830.
 doi:[10.3390/sym14040830](https://doi.org/10.3390/sym14040830)
 
-2022. Ma, Z., **C. Park**, and [M. Wang](https://www.researchgate.net/profile/Min-Wang) (2022).
+2022. [Ma, Z.](https://www.researchgate.net/profile/Zhuanzhuan-Ma), 
+**C. Park**, and [M. Wang](https://www.researchgate.net/profile/Min-Wang) (2022).
 A robust bootstrap control chart for the log-logistic percentiles.
 _Journal of Statistical Theory and Practice_ **16**, 3.
 doi:[10.1007/s42519-021-00239-3](https://doi.org/10.1007/s42519-021-00239-3)

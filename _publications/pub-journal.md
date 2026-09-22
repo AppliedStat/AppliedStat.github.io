@@ -358,7 +358,8 @@ _Journal of Algorithms & Computational Technology_ **12**(3), 253-272.
 doi:[10.1177/1748301818779007](https://doi.org/10.1177/1748301818779007)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2018)]
 
-2018. Park, J. P., **C. Park**, Y. J. Oh, J. H. Kim and C. B. Bahn (2018). 
+2018. Park, J. P., **C. Park**, Y. J. Oh, J. H. Kim and 
+[C. B. Bahn](https://www.researchgate.net/profile/Chi-Bum-Bahn-2) (2018). 
 Statistical Analysis of Parameter Estimation of a Probabilistic Crack Initiation Model for Alloy 182 Weld Considering Right-Censored Data and the Covariate Effect.
 _Nuclear Engineering and Technology_ **50**(1), 107-115. 
 doi:[10.1016/j.net.2017.09.005](https://doi.org/10.1016/j.net.2017.09.005)
@@ -377,7 +378,8 @@ Robust Design Under Normal Model Departure.
 _Computers and Industrial Engineering_ **113**, 206-220. 
 doi:[10.1016/j.cie.2017.09.010](https://doi.org/10.1016/j.cie.2017.09.010)
 
-2017. Park, J. P., **C. Park**,  J. Cho, and C. B. Bahn (2017).
+2017. Park, J. P., **C. Park**,  J. Cho, and 
+[C. B. Bahn](https://www.researchgate.net/profile/Chi-Bum-Bahn-2) (2017).
 Effects of Cracking Test Conditions on Estimation Uncertainty for Weibull Parameters Considering Time-Dependent Censoring Interval. 
 _Materials_ **10**(1), 3. 
 doi:[10.3390/ma10010003](https://doi.org/10.3390/ma10010003)
@@ -483,7 +485,7 @@ _Quality Technology & Quantitative Management_ **4**, 17 - 34.
 doi:[10.1080/16843703.2007.11673132](https://doi.org/10.1080/16843703.2007.11673132)
 
 2006. Tiwari, R.,
-[K.B. Kulasekera](https://louisville.edu/sphis/directory/kb-kulasekera-phd),
+[K. B. Kulasekera](https://louisville.edu/sphis/directory/kb-kulasekera-phd),
 and **C. Park** (2006).
 Nonparametric tests for cause specific hazard rates with censored data
 in competing risks among several groups.
@@ -491,18 +493,18 @@ _Journal of Statistical Planning and Inference_ **136**, 1718-1745.
 doi:[10.1016/j.jspi.2004.12.016](https://doi.org/10.1016/j.jspi.2004.12.016)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006c)]
 
-2006. **Park, C.** and  [W.J. Padgett](https://people.stat.sc.edu/padgett/), (2006).
+2006. **Park, C.** and  [W. J. Padgett](https://people.stat.sc.edu/padgett/), (2006).
 A general class of cumulative damage models for materials failure.
 _Journal of Statistical Planning and Inference_ **136**, 3783-3801.
 doi:[10.1016/j.jspi.2005.03.009](https://doi.org/10.1016/j.jspi.2005.03.009)
 
-2006. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/), (2006).
+2006. **Park, C.** and [W. J. Padgett](https://people.stat.sc.edu/padgett/), (2006).
 Analysis of Strength Distributions of Multi-Modal Failures Using the EM Algorithm.
  _Journal of Statistical Computation and Simulation_ **76**, 619-636.
 doi:[10.1080/10629360500108970](https://doi.org/10.1080/10629360500108970)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2006b)]
 
-2006. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/) (2006).
+2006. **Park, C.** and [W. J. Padgett](https://people.stat.sc.edu/padgett/) (2006).
 Stochastic Degradation Models with Several Accelerating Variables.
 _IEEE Trans. on Reliability_ **55**, 379-390.
 doi:[10.1109/TR.2006.874937](https://doi.org/10.1109/TR.2006.874937)
@@ -532,12 +534,12 @@ _IEEE Trans. on Reliability_ **54**, 282-290.
 doi:[10.1109/TR.2005.846360](https://doi.org/10.1109/TR.2005.846360)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2005)]
 
-2005. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/) (2005). 
+2005. **Park, C.** and [W. J. Padgett](https://people.stat.sc.edu/padgett/) (2005). 
 New Cumulative Damage Models for Failure Using Stochastic Processes as Initial Damage.
 _IEEE Trans. on Reliability_ **54**, 530-540.
 doi:[10.1109/TR.2005.853278](https://doi.org/10.1109/TR.2005.853278)
 
-2005. **Park, C.** and [W.J. Padgett](https://people.stat.sc.edu/padgett/) (2005).
+2005. **Park, C.** and [W. J. Padgett](https://people.stat.sc.edu/padgett/) (2005).
 Accelerated degradation models for failure based on geometric Brownian motion and gamma processes.
 _Lifetime Data Analysis_ **11**, 511-527.
 doi:[10.1007/s10985-005-5237-8](https://doi.org/10.1007/s10985-005-5237-8)
@@ -553,7 +555,7 @@ _Bulletin of Informatics and Cybernetics_ **36**, 19-33.
 Web: http://hdl.handle.net/2324/12576
 
 2004. **Park, C.** and 
-[K.B. Kulasekera](https://louisville.edu/sphis/directory/kb-kulasekera-phd) (2004).
+[K. B. Kulasekera](https://louisville.edu/sphis/directory/kb-kulasekera-phd) (2004).
 Parametric inference of incomplete data with competing risks among several groups.
 _IEEE Trans. on Reliability_ **53**, 11-21.
 doi:[10.1109/TR.2003.821946](https://doi.org/10.1109/TR.2003.821946)
@@ -565,7 +567,7 @@ Some Variants of Minimum Disparity Estimation.
 _Computational Statistics and Data Analysis_ **45**, 741-763.
 doi:[10.1016/S0167-9473(03)00098-7](https://doi.org/10.1016/S0167-9473(03)00098-7)
 
-2004. [Kulasekera, K.B.](https://louisville.edu/sphis/directory/kb-kulasekera-phd)
+2004. [Kulasekera, K. B.](https://louisville.edu/sphis/directory/kb-kulasekera-phd)
 and **C. Park** (2004).
 Robust nonparametric regression estimation. 
 _Journal of Statistical Theory and Applications_ **3**, 125-133.

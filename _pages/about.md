@@ -51,6 +51,7 @@ Dr. Park is currently a tenured full professor in the Department of Industrial E
 통계연구실), where he leads an applied statistics research group, teaches a variety of statistics courses, and conducts research in areas such as quality and reliability engineering, competing risks models, robust inference, and solid mechanics. From 2017 to 2019, he served as Chair of the Department of Industrial Engineering at Pusan National University.
 </p>
 
+<p>
 Prior to joining Pusan National University, Dr. Park was a faculty member in the Department of Mathematical Sciences at Clemson University, South Carolina, USA, from 2001 to 2015. He was appointed as an assistant professor on August 15, 2001, and was promoted to tenured associate professor on August 15, 2007.
 </p>
 

@@ -19,7 +19,7 @@ DOI: [10.32614/CRAN.package.bsgof](https://doi.org/10.32614/CRAN.package.bsgof)
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/bsgof)
 
 ### Usage
-> install.packages(\"bsgof\") 
+\> install.packages(\"bsgof\") 
 
-> library(\"bsgof\")  <br />
-> help(package=\"bsgof\") 
+\> library(\"bsgof\")  <br />
+\> help(package=\"bsgof\") 

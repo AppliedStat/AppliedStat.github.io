@@ -18,7 +18,7 @@ DOI: [10.32614/CRAN.package.rt.test](https://doi.org/10.32614/CRAN.package.rt.te
 
 
 ### Usage
-> install.packages(\"rt.test\") 
+\> install.packages(\"rt.test\") 
 
-> library(\"rt.test\")  <br />
-> help(package=\"rt.test\")  
+\> library(\"rt.test\")  <br />
+\> help(package=\"rt.test\")  

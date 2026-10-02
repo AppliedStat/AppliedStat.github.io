@@ -25,12 +25,11 @@ DOI: [10.32614/CRAN.package.rQCC](https://doi.org/10.32614/CRAN.package.rQCC)
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/rQCC)
 
 ### Usage
-> install.packages(\"rQCC\")  
+\> install.packages(\"rQCC\")  
 
-> news(package=\"rQCC\")      
+\> library(\"rQCC\")  <br/>
+\> news(package=\"rQCC\")      
+\> help(package=\"rQCC\") 
+\> vignette(\"rcc\", package=\"rQCC\")  <br/>
+\> vignette(\"factors.cc\", package=\"rQCC\")  
 
-> vignette(\"rcc\", package=\"rQCC\")  <br/>
-> vignette(\"factors.cc\", package=\"rQCC\")  
-
-> library(\"rQCC\")  <br/>
-> help(package=\"rQCC\") 

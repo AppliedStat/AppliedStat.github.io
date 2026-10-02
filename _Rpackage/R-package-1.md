@@ -24,7 +24,8 @@ DOI: [10.32614/CRAN.package.weibullness](https://doi.org/10.32614/CRAN.package.w
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/weibullness)
 
 ### Usage
-> install.packages(\"weibullness\") 
+\> install.packages(\"weibullness\") 
 
-> library(\"weibullness\")  <br />
-> help(package=\"weibullness\") 
+\> library(\"weibullness\")  <br />
+\> news(package=\"weibullness\")      
+\> help(package=\"weibullness\") 

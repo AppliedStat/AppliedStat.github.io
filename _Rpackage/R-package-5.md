@@ -16,7 +16,7 @@ by the Korea government (MSIT) (No. 2022R1A2C1091319).
 [![github](https://img.shields.io/badge/%20-github-lightgrey.svg)](https://github.com/appliedstat/R/tree/master/laplace)
 
 ### Usage
-> install.packages(\"laplace\") 
+\> install.packages(\"laplace\") 
 
-> library(\"laplace\")  <br />
-> help(package=\"laplace\") 
+\> library(\"laplace\")  <br />
+\> help(package=\"laplace\") 

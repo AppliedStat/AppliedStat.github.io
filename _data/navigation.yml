@@ -14,14 +14,27 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "R Packages"
+    url: /R-package/
+
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/    
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Lab"
+    url: /lab/
+
+
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/

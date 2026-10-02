@@ -1,4 +1,4 @@
-# main links links
+# main links 
 main:
   - title: "Publications"
     url: /publications/
@@ -20,3 +20,5 @@ main:
 
   - title: "Lab"
     url: /ASL/    
+
+<button id="theme-toggle" type="button">🌓</button> 

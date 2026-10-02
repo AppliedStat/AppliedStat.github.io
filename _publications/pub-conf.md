@@ -1,5 +1,5 @@
 ---
-# title: "Conference Papers and Manuscripts"
+title: "Conference Papers and Manuscripts"
 collection: conferences
 ---
 1. Park, W., **Park, C.**, and [D. Kim](https://sites.google.com/view/riskanalyticslab) (2024).

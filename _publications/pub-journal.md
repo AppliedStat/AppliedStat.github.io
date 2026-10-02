@@ -1,5 +1,5 @@
 ---
-# title: "Peer-reviewed Journal Papers"
+title: "Peer-reviewed Journal Papers"
 collection: full_list
 ---
 2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang,

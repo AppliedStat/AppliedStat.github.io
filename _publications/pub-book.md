@@ -1,5 +1,5 @@
 ---
-# title: "Books and Book Chapters"
+title: "Books and Book Chapters"
 collection: books 
 ---
 1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2025+).

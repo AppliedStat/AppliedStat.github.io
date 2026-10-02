@@ -24,8 +24,6 @@ DOI: [10.32614/CRAN.package.weibullness](https://doi.org/10.32614/CRAN.package.w
 ### Usage
 \> install.packages(\"weibullness\") 
 
-\> library(\"weibullness\")  
-
-\> news(package=\"weibullness\")      
-
+\> library(\"weibullness\") \
+\> news(package=\"weibullness\") \
 \> help(package=\"weibullness\") 

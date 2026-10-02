@@ -17,6 +17,5 @@ by the Korea government (MSIT) (No. 2022R1A2C1091319).
 ### Usage
 \> install.packages(\"laplace\") 
 
-\> library(\"laplace\")  
-
+\> library(\"laplace\")  \
 \> help(package=\"laplace\") 

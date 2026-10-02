@@ -25,12 +25,8 @@ DOI: [10.32614/CRAN.package.rQCC](https://doi.org/10.32614/CRAN.package.rQCC)
 ### Usage
 \> install.packages(\"rQCC\")  
 
-\> library(\"rQCC\")  
-
-\> news(package=\"rQCC\")      
-
-\> help(package=\"rQCC\") 
-
-\> vignette(\"rcc\", package=\"rQCC\")  
-
+\> library(\"rQCC\")  \
+\> news(package=\"rQCC\")  \
+\> help(package=\"rQCC\")  \
+\> vignette(\"rcc\", package=\"rQCC\")   \
 \> vignette(\"factors.cc\", package=\"rQCC\")  

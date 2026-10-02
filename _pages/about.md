@@ -82,12 +82,20 @@ Byung Ho Lee</A>(響堂 李炳昊) of the Department of Nuclear Engineering at S
 <BR/>
 
 <center>
-   <img src="/images/LiveLife.png" alt="인생은 유화처럼">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+    <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+    <img src="/images/LiveLife.png" alt="인생은 유화처럼">
+</picture>
 </center>
 <BR/>
 
 <center>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+    <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
 <a href="http://s08.flagcounter.com/more/xvo"><img src="http://s08.flagcounter.com/count/xvo/bg=FFFFFF/txt=000000/border=CCCCCC/columns=8/maxflags=16/viewers=3/labels=1/" alt="free counters" border="0"></a>
+</picture>
  <script src="//t1.extreme-dm.com/f.js" id="eXF-applied-0" async defer></script>
 </center>
 <center>

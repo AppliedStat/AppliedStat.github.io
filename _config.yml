@@ -307,7 +307,7 @@ defaults:
   # _Rpackage
   - scope:
       path: ""
-      type: teaching 
+      type: Rpackage
     values:
       layout: single 
       author_profile: true

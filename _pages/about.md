@@ -1,77 +1,45 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Webpage of Chanseok Park"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Current Position
+======
+- Professor of [Industrial Engineering](http://ie.pusan.ac.kr) at [Pusan National University](ttp://pusan.ac.kr)
+- Vice president of [Korean Society for Quality Management (KSQM)](A href="https://www.ksqm.org) 
+- Advisor of [Daemyung-Hwasung Co. LTD](http://www.alcotex.co.kr)
 
-<HTML>
-<HEAD>
-<title>Chanseok PARK</title>
+Fields of Interest
+======
+- **Supply Chain Design**: Distance-based SCD, Location-driven SCD.
+- **Robustness**: De-noising, Model departure, Robust SCD.
+- **Engineering**: Cracking of materials, Cumulative damage.
+- **Applied Statistics**: Minimum distance method, Reliability, Quality control.
 
-<!-- 
-You can set your favicon here 
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
--->
+Work Experience
+======
+- Board of Directors of <A href="https://www.ksqm.org/">Korean Society for Quality Management</A>
+- Academic Excellence Award for Quality Management (<A href="https://ksqm.org/homepage/custom/award09">KSQM</A>) (2025)
+- Award for Excellence in Internationalization (<A href="https://kiie.org/newsletter/20241130/newsletter_202411_0149.htm#news3">KIIE</A>) (2024)
+- PNU Award for Excellence in Research (2022)
+- Chair of Industrial Engineering at Pusan National University (2017 - 2019)
+- Full Professor with tenure in Department of Industrial Engineering at Pusan National University (2015 - )
+- CUSG Outstanding Professor recognized by Clemson University Student Government (2007)
+- Assistant / Associate / Tenure-granted Professor of <A href="https://www.clemson.edu/science/departments/math-stat/">Mathematical and Statistical Sciences</A> at <A href="https://www.clemson.edu">Clemson University</A> (2001 - 2015)
 
-<meta charset="UTF-8">
-<meta name="naver-site-verification" content="8bc75f41ec44350cecfc4aa8a4bdbc9c5cf6b5eb"/>
-<meta name="google-site-verification" content="DMhSzs-UUqYlTGTY3NH0SLnGzN-keJG6yQG5nInl1fM" />
-<meta name="author" content="Chanseok PARK">
-<meta name="description" content="Chanseok PARK">
-<meta name="keywords" 
-      content="Chanseok PARK, 박찬석, Applied Statistics, 인생은 유화처럼"> 
-</HEAD>
-
-
-
-<BODY>
-<h2>Current Position</h2>
-<UL>
-  <LI> Professor of
-    <A href="http://ie.pusan.ac.kr">Industrial Engineering</A> at <A href="http://pusan.ac.kr">Pusan National University</A>
-  <LI> Vice president of <A href="https://www.ksqm.org/">Korean Society for Quality Management (KSQM)</A>
-  <LI> Advisor of <A href="http://www.alcotex.co.kr/">Daemyung-Hwasung Co. LTD.</A>
-</UL>
-
-<h2>Fields of Interest</h2>
-<UL>
-  <LI> <b>Supply Chain Design</b>: Distance-based SCD, Location-driven SCD.
-  <LI> <b>Robustness</b>: De-noising, Model departure, Robust SCD.
-  <LI> <b>Engineering</b>: Cracking of materials, Cumulative damage.
-  <LI> <b>Applied Statistics</b>: Minimum distance method, Reliability, Quality control.
-</UL>
-
-<h2>Work Experience</h2>
-<UL>
-  <LI> Board of Directors of <A href="https://www.ksqm.org/">Korean Society for Quality Management</A>
-  <LI> Academic Excellence Award for Quality Management
-        (<A href="https://ksqm.org/homepage/custom/award09">KSQM</A>) (2025)
-  <LI> Award for Excellence in Internationalization
-        (<A href="https://kiie.org/newsletter/20241130/newsletter_202411_0149.htm#news3">KIIE</A>) (2024)
-  <LI> PNU Award for Excellence in Research (2022)
-  <LI> Chair of Industrial Engineering at Pusan National University (2017 - 2019)
-<!-- https://drive.google.com/file/d/0B-GVxDJZNtwYblN3NTFYakJHTXc/view -->
-  <LI> Full Professor with tenure in Department of Industrial Engineering at Pusan National University (2015 - )
-<!-- https://drive.google.com/open?id=0B-GVxDJZNtwYVG9jZDJJSGFNNU0 -->
-  <LI> CUSG Outstanding Professor recognized by Clemson University Student Government (2007)
-<!-- https://drive.google.com/open?id=0B-GVxDJZNtwYUGg3ZjNGeHU5QTQ -->
-  <LI> Assistant / Associate / Tenure-granted Professor of
-      <A href="https://www.clemson.edu/science/departments/math-stat/">Mathematical and Statistical Sciences</A> at <A href="https://www.clemson.edu">Clemson University</A> (2001 - 2015)
-</UL>
-
-<h2>Education</h2>
-<UL>
-  <LI> Ph.D in Statistics, Pennsylvania State University
-  <LI> M.S. in Mathematics, University of Texas at Austin
-  <LI> B.S. in Mechanical Engineering, Seoul National University
-</UL>
+Education
+======
+- Ph.D in Statistics, Pennsylvania State University
+- M.S. in Mathematics, University of Texas at Austin
+- B.S. in Mechanical Engineering, Seoul National University
 
 
-<h2>Biography</h2>  <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  -->
+Biography
+======
 <p>
 Chanseok PARK (박찬석) was born and raised in Cheongju City (淸州市), South Korea. After graduating from Yoido High School in Seoul, he began his undergraduate studies in the Department of Mechanical Engineering at Seoul National University. Under the mentorship of the late Professor Taik Sik Lee (南軒 李澤植), he earned a B.S. degree in February 1987. He subsequently pursued graduate studies and obtained an M.A. in Mathematics from the University of Texas at Austin under the supervision of Professor Ayanendranath Basu.
 He then completed his Ph.D. in Statistics at <A href="https://www.psu.edu/">Pennsylvania State University</A>
@@ -131,12 +99,6 @@ Pen name (號) is 亞&and;士, and   <BR/>
 Courtesy name (字) is 참바우(眞巖).
 </font>
 </center>
-
-</BODY>
-</HTML>
-
-
-
 
 
 

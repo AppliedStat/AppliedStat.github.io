@@ -83,10 +83,10 @@ Byung Ho Lee</A>(響堂 李炳昊) of the Department of Nuclear Engineering at S
 <BR/>
 
 <center>
-   <img src="/images/LiveLife.png" alt="인생은 유화처럼">
+   <img src="/images/LiveLife.png" alt="인생은 유화처럼" style="display: block; margin-top: 25px; margin-bottom: 25px;">
 </center>
 
-<BR/> <BR/>
+<BR/>
 
 <center>
 <a href="http://s08.flagcounter.com/more/xvo"><img src="http://s08.flagcounter.com/count/xvo/bg=FFFFFF/txt=000000/border=CCCCCC/columns=8/maxflags=16/viewers=3/labels=1/" alt="free counters" border="0"></a>

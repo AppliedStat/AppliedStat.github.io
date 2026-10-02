@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-Current Position
-======
 - Professor of [Industrial Engineering](http://ie.pusan.ac.kr) at [Pusan National University](ttp://pusan.ac.kr)
 - Vice president of [Korean Society for Quality Management (KSQM)](A href="https://www.ksqm.org) 
 - Advisor of [Daemyung-Hwasung Co. LTD](http://www.alcotex.co.kr)

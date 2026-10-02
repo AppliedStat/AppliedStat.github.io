@@ -11,3 +11,7 @@ comments:
 
 sass:
   style: expanded
+
+# Theme setting
+site_theme: "air"
+

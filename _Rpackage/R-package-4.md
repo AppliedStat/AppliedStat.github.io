@@ -3,18 +3,6 @@ title: "bsgof"
 excerpt: "Goodness-of-Fit Test for Birnbaum-Saunders Distribution"
 collection: R
 ---
-<style>
-  .dark-text-fix {
-    color: #000000; /* Default/Light mode color */
-  }
-  @media (prefers-color-scheme: dark) {
-    .dark-text-fix {
-      color: #ffffff; /* Dark mode color */
-    }
-  }
-</style>
-
-<span class="dark-text-fix">This text changes color based on your system or viewer theme!</span>
 
 This R package performs a <i>Birnbaum-Saunders goodness-of-fit test</i> and
 provides the parameter estimates of the Birnbaum-Saunders distribution. 

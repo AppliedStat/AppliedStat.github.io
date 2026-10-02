@@ -3,17 +3,7 @@ title: "weibullness"
 excerpt: "Goodness-of-Fit Test for Weibull Distribution"
 collection: R
 ---
-<style>
-  .dark-text-fix {
-    color: #000000; /* Default/Light mode color */
-  }
-  @media (prefers-color-scheme: dark) {
-    .dark-text-fix {
-      color: #ffffff; /* Dark mode color */
-    }
-  }
-</style>
-<span class="dark-text-fix">This text changes color based on your system or viewer theme!</span>
+
 This R package conducts a goodness-of-fit test for the Weibull distribution (referred to as the weibullness test) and 
 furnishes parameter estimations for both the two-parameter and three-parameter Weibull distributions. 
 Notably, the threshold parameter is derived through correlation from the Weibull plot. 

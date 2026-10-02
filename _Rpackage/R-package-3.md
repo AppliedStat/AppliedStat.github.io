@@ -3,18 +3,6 @@ title: "rQCC"
 excerpt: "Robust Quality Control Chart"
 collection: R
 ---
-<style>
-  .dark-text-fix {
-    color: #000000; /* Default/Light mode color */
-  }
-  @media (prefers-color-scheme: dark) {
-    .dark-text-fix {
-      color: #ffffff; /* Dark mode color */
-    }
-  }
-</style>
-
-<span class="dark-text-fix">This text changes color based on your system or viewer theme!</span>
 
 This \"rQCC\" package constructs robust quality control chart based on the median or Hodges-Lehmann estimator (location) and the median absolute deviation (MAD) or Shamos estimator (scale). 
 These estimators are all unbiased with a sample of finite size. 

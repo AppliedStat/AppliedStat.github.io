@@ -1,7 +1,7 @@
 ---
 title: "rt.test"
 excerpt: "Robustified t-test"
-collection: R
+collection: Rpackage
 ---
 This R Package performs one-sample t-test based on robustified statistics using median/MAD (TA) and Hodges-Lehmann/Shamos (TB). For more details, see [Park and Wang (2018)](https://arxiv.org/abs/1807.02215) and [Park et al. (2022)](https://doi.org/10.7232/iems.2022.21.3.432). 
 

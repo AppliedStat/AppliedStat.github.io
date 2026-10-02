@@ -1,7 +1,7 @@
 ---
 title: "bsgof" 
 excerpt: "Goodness-of-Fit Test for Birnbaum-Saunders Distribution"
-collection: R
+collection: Rpackage
 ---
 This R package performs a <i>Birnbaum-Saunders goodness-of-fit test</i> and
 provides the parameter estimates of the Birnbaum-Saunders distribution. 

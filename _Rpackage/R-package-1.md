@@ -1,7 +1,7 @@
 ---
 title: "weibullness" 
 excerpt: "Goodness-of-Fit Test for Weibull Distribution"
-collection: R
+collection: Rpackage
 ---
 This R package conducts a goodness-of-fit test for the Weibull distribution (referred to as the weibullness test) and 
 furnishes parameter estimations for both the two-parameter and three-parameter Weibull distributions. 

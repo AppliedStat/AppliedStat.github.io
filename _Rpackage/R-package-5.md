@@ -1,7 +1,7 @@
 ---
 title: "laplace" 
 excerpt: "Goodness-of-Fit Test for Laplace Distribution"
-collection: R
+collection: Rpackage
 ---
 This R package performs a <i>goodness-of-fit test</i> for the Laplace distribution and
 provides the parameter estimates.

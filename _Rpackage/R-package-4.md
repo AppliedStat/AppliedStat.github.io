@@ -21,5 +21,6 @@ DOI: [10.32614/CRAN.package.bsgof](https://doi.org/10.32614/CRAN.package.bsgof)
 ### Usage
 \> install.packages(\"bsgof\") 
 
-\> library(\"bsgof\")  <br />
+\> library(\"bsgof\")  
+
 \> help(package=\"bsgof\") 

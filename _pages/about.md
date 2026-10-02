@@ -1,10 +1,12 @@
 ---
 permalink: /
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 Current Position
 ======
 - Professor of [Industrial Engineering](http://ie.pusan.ac.kr) at [Pusan National University](ttp://pusan.ac.kr)

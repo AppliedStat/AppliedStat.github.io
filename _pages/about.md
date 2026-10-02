@@ -79,13 +79,11 @@ The Minimum Distance Approach (Chapman &amp; Hall)</em></A>, which he dedicated 
 <A href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B3%91%ED%98%B8_(%ED%95%B5%EA%B3%B5%ED%95%99%EC%9E%90)">
 Byung Ho Lee</A>(響堂 李炳昊) of the Department of Nuclear Engineering at Seoul National University.
 </p>
-
 <BR/>
 
 <center>
-   <img src="/images/LiveLife.png" alt="인생은 유화처럼" style="margin-top: 50px; margin-bottom: 50px;">
+   <img src="/images/LiveLife.png" alt="인생은 유화처럼">
 </center>
-
 <BR/>
 
 <center>

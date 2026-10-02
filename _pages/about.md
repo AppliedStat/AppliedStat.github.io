@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome to Webpage of Chanseok Park"
 author_profile: true
 redirect_from: 
   - /about/

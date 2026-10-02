@@ -238,6 +238,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  miscellaneous:
+    output: true
+    permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
+  lab:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -298,12 +307,11 @@ defaults:
   # _Rpackage
   - scope:
       path: ""
-      type: package
+      type: teaching 
     values:
       layout: single 
       author_profile: true
       share: true
-      comment: true
 
 # Sass/SCSS
 sass:

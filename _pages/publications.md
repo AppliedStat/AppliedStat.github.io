@@ -18,7 +18,7 @@ _Engineering Optimization_ **To Appear**
 doi:[10.1080/0305215X.2025.2600326](https://doi.org/10.1080/0305215X.2025.2600326)
 [[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
 
-2026. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), A. S. Yadav, M. Saha, and **C. Park** (2026).
+2026. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), A. S. Yadav, M. Saha, and **C. Park** (2026).
 Estimation and Confidence Intervals of a Quantile-Based Process Capability Index for the Power Rayleigh Distribution with ROC Analysis and Applications to Industrial Data.
 _Quality and Reliability Engineering International_ **42**(7), 3715-3735.
 doi:[10.1002/qre.70286](https://doi.org/10.1002/qre.70286)
@@ -29,7 +29,7 @@ Outlier-Resistant Robust Medical Supply Prepositioning and Rebalancing in Respon
 _RAIRO-Operations Research_ **60**(2), 989-1023.
 doi:[10.1051/ro/2025163](https://doi.org/10.1051/ro/2025163)
 
-2026. [S. Dey](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2026).
+2026. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), and **C. Park** (2026).
 Robust confidence intervals for process capability index based on cost 
 and loss functions with bootstrap enhancement. 
 _Quality and Reliability Engineering International_ **42**(1), 212-224.

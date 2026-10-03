@@ -509,7 +509,7 @@ Stochastic Degradation Models with Several Accelerating Variables.
 _IEEE Trans. on Reliability_ **55**, 379-390.
 doi:[10.1109/TR.2006.874937](https://doi.org/10.1109/TR.2006.874937)
 
-2006. J. Y. Jeong, J. S. Park, S. J. Kim, S. Y. Lee, W. H. Lee, **C. Park**, J. P. Hong, 
+2006. Jeong, J. Y., J. S. Park, S. J. Kim, S. Y. Lee, W. H. Lee, **C. Park**, J. P. Hong, 
 and [S. B. Lee](https://www.researchgate.net/profile/Seong-Beom-Lee) (2006).
 An experimental study of automotive bushing for radial mode.
 _Key Engineering Materials_ **326-328**, 1097-1100.
@@ -562,7 +562,7 @@ doi:[10.1109/TR.2003.821946](https://doi.org/10.1109/TR.2003.821946)
 [[R Code](https://github.com/AppliedStat/R-code/tree/master/2004)]
 
 2004. [Basu, A.](https://www.researchgate.net/profile/Ayanendranath-Basu), **C. Park**, 
-[B.G. Lindsay](https://en.wikipedia.org/wiki/Bruce_G._Lindsay) and H. Li (2004).
+[B. G. Lindsay](https://en.wikipedia.org/wiki/Bruce_G._Lindsay) and H. Li (2004).
 Some Variants of Minimum Disparity Estimation. 
 _Computational Statistics and Data Analysis_ **45**, 741-763.
 doi:[10.1016/S0167-9473(03)00098-7](https://doi.org/10.1016/S0167-9473(03)00098-7)
@@ -583,7 +583,7 @@ _Quality Engineering_ **15**, 463-469.
 doi:[10.1081/QEN-120018045](https://doi.org/10.1081/QEN-120018045)
 
 2002. **Park, C.**, [A. Basu](https://www.researchgate.net/profile/Ayanendranath-Basu), and 
-[B.G. Lindsay](https://en.wikipedia.org/wiki/Bruce_G._Lindsay) (2002).
+[B. G. Lindsay](https://en.wikipedia.org/wiki/Bruce_G._Lindsay) (2002).
 The Residual Adjustment Function and Weighted Likelihood:
 A Graphical Interpretation of Robustness of Minimum Disparity Estimators.
 _Computational Statistics and Data Analysis_ **39**, 21-33.

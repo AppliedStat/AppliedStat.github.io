@@ -20,14 +20,17 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Lab"
+    url: /lab/
+    
   - title: "Miscellaneous"
     url: /miscellaneous/    
 
+  - title: "Guide"
+    url: /markdown/
+
   - title: "Contact"
     url: /contact/
-
-  - title: "Lab"
-    url: /lab/
 
 
 #  - title: "Portfolio"
@@ -38,6 +41,3 @@ main:
     
 #  - title: "CV"
 #    url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/

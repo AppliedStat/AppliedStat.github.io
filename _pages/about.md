@@ -86,21 +86,27 @@ Byung Ho Lee</A>(響堂 李炳昊) of the Department of Nuclear Engineering at S
 <BR/>
 
 <p class="indented">
-<a href="https://appliedstat.github.io/miscellaneous/">
-    <img src="/images/LiveLife.png" alt="인생은 유화처럼">
-</a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+<source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+<a href="https://appliedstat.github.io/miscellaneous/"><img src="/images/LiveLife.png" alt="인생은 유화처럼"></a>
+</picture>
 </p>
 
 <BR/>
 
+<p class="indented">
 <center>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
 <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
 <a href="http://s08.flagcounter.com/more/xvo"><img src="http://s08.flagcounter.com/count/xvo/bg=FFFFFF/txt=000000/border=CCCCCC/columns=8/maxflags=16/viewers=3/labels=1/" alt="free counters" border="0"></a>
 </picture>
- <script src="//t1.extreme-dm.com/f.js" id="eXF-applied-0" async defer></script>
+<script src="//t1.extreme-dm.com/f.js" id="eXF-applied-0" async defer></script>
 </center>
+</p>
+
+<p class="indented">
 <center>
 <font size="-1">
 His name in Korean is 박찬석 (朴燦奭), <BR/>
@@ -108,6 +114,7 @@ Pen name (號) is 亞&and;士, and   <BR/>
 Courtesy name (字) is 참바우(眞巖).
 </font>
 </center>
+</p>
 
 
 

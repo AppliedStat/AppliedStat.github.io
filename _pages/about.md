@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<style>
+  p {
+    text-indent: 2em; /* Indents the first line by 2 em-spaces */
+  }
+</style>
 Current Position
 ======
 - Professor of [Industrial Engineering](http://ie.pusan.ac.kr) at [Pusan National University](ttp://pusan.ac.kr)
@@ -82,7 +86,9 @@ Byung Ho Lee</A>(響堂 李炳昊) of the Department of Nuclear Engineering at S
 <BR/>
 
 <center>
+<a href="https://appliedstat.github.io/miscellaneous/">
     <img src="/images/LiveLife.png" alt="인생은 유화처럼">
+</a>
 </center>
 <BR/>
 
@@ -101,8 +107,6 @@ Pen name (號) is 亞&and;士, and   <BR/>
 Courtesy name (字) is 참바우(眞巖).
 </font>
 </center>
-
-
 
 
 

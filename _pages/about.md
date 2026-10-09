@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 <style>
-  p {
-    text-indent: 2em; /* Indents the first line by 2 em-spaces */
+  p.indented {
+    margin-left: 40px; /* Shifts the entire paragraph block to the right */
   }
 </style>
 Current Position
@@ -44,29 +44,29 @@ Education
 
 Biography
 ======
-<p>
+<p class="indented">
 Chanseok PARK (박찬석) was born and raised in Cheongju City (淸州市), South Korea. After graduating from Yoido High School in Seoul, he began his undergraduate studies in the Department of Mechanical Engineering at Seoul National University. Under the mentorship of the late Professor Taik Sik Lee (南軒 李澤植), he earned a B.S. degree in February 1987. He subsequently pursued graduate studies and obtained an M.A. in Mathematics from the University of Texas at Austin under the supervision of Professor Ayanendranath Basu.
 He then completed his Ph.D. in Statistics at <A href="https://www.psu.edu/">Pennsylvania State University</A>
 under the guidance of the late Professor
 <A href="https://en.wikipedia.org/wiki/Bruce_G._Lindsay">Bruce G. Lindsay</A>.
 </p>
 
-<p>
+<p class="indented">
 Dr. Park is currently a tenured full professor in the Department of Industrial Engineering at Pusan National University (부산대학교 산업공학과), Busan, South Korea. He also serves as the Director of the Applied Statistics Laboratory (응용
 통계연구실), where he leads an applied statistics research group, teaches a variety of statistics courses, and conducts research in areas such as quality and reliability engineering, competing risks models, robust inference, and solid mechanics. From 2017 to 2019, he served as Chair of the Department of Industrial Engineering at Pusan National University.
 </p>
 
-<p>
+<p class="indented">
 Prior to joining Pusan National University, Dr. Park was a faculty member in the Department of Mathematical Sciences at Clemson University, South Carolina, USA, from 2001 to 2015. He was appointed as an assistant professor on August 15, 2001, and was promoted to tenured associate professor on August 15, 2007.
 </p>
 
-<p>
+<p class="indented">
 Dr. Park has served on the editorial boards of the Journal of Probability and Statistics and the International Journal of Quality Engineering and Technology.
 His research interests encompass engineering statistics, supply chain design, robust inference, reliability, competing risks models, statistical computing and simulation, acoustics, and solid mechanics.
 </p>
 
 
-<p>
+<p class="indented">
 In addition to his academic career, Dr. Park has received several awards and honors,
 including the Outstanding Professor Award from the Clemson University Student Government
 (2007), the PNU Award for Excellence in Research (2022),
@@ -76,7 +76,7 @@ and the Prestigious Academic Excellence Award for Quality Management from
 <A href="https://ksqm.org/homepage/custom/award09">KSQM (2025)</A>.
 </p>
 
-<p>
+<p class="indented">
 Dr. Park holds <A href="https://appliedstat.github.io/publications/pub-patent/">two patents</A>
 and is the author of <A href="https://www.amazon.com/Chanseok-Park/e/B005NE2GU0"><em>Statistical Inference: 
 The Minimum Distance Approach (Chapman &amp; Hall)</em></A>, which he dedicated to the late Professor

@@ -48,14 +48,13 @@ In _Statistical Computing: Existing Methods and Recent Developments._
 Alpha Science International. ISBN: 978-1842652022.
 [[PDF](https://github.com/AppliedStat/files/tree/master/Book-2)]
 
-1. **Park**, **C**. (1992).
-_Mechanical Engineering Experiments I,_  Revised 2nd Ed.
-Published on Feb. 29, 1992. 
-[[PDF](https://github.com/AppliedStat/files/blob/master/Book-1/README.md)]
-
 1. **Park**, **C**., etc. (1992).
 _Self-study Questionnaire for Review of Science and Engineering Programs,_
 submitted by Korea Advanced Institute of Science and Technology. 
 Published on July 1992.
 [[PDF](https://github.com/AppliedStat/files/tree/master/Book-3)]
 
+1. **Park**, **C**. (1992).
+_Mechanical Engineering Experiments I,_  Revised 2nd Ed.
+Published on Feb. 29, 1992. 
+[[PDF](https://github.com/AppliedStat/files/blob/master/Book-1/README.md)]

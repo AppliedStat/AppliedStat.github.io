@@ -89,7 +89,7 @@ Byung Ho Lee</A>(響堂 李炳昊) of the Department of Nuclear Engineering at S
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
 <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
-<a href="https://appliedstat.github.io/miscellaneous/"><img src="/images/LiveLife.png" alt="인생은 유화처럼"></a>
+<a href="https://appliedstat.github.io/misc/"><img src="/images/LiveLife.png" alt="인생은 유화처럼"></a>
 </picture>
 </p>
 

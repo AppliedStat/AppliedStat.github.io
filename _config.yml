@@ -238,9 +238,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  miscellaneous:
-    output: true
-    permalink: /:collection/:path/
   misc:
     output: true
     permalink: /:collection/:path/

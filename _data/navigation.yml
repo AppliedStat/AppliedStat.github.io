@@ -24,7 +24,7 @@ main:
     url: /lab/
     
   - title: "Miscellaneous"
-    url: /miscellaneous/    
+    url: /misc/    
 
   - title: "Guide"
     url: /markdown/

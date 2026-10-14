@@ -1,12 +1,13 @@
 ---
 title: "Statistics (Tentative)"
-collection: class
+collection: teaching
 type: "Graduate course"
+permalink: /teaching/2027F-teaching3-mathstat
 venue: "Tentative"
 date: 2027-09-01
 location: "Busan, Korea"
 ---
----
+---                   
 
 Description
 ======

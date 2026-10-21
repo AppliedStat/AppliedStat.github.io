@@ -59,7 +59,7 @@ _Mechanical Engineering Experiments I,_  Revised 2nd Ed.
 Published on Feb. 29, 1992. 
 [[PDF](https://github.com/AppliedStat/files/blob/master/Book-1/README.md)]
 
-1. Kim, Y-H., J. W. Choi, **C. Park** (1991).
+1. [Kim, Y-H.](https://www.researchgate.net/profile/Yang-Hann-Kim), J. W. Choi, **C. Park** (1991).
 _Array Microphone을 이용한 움직이는 음원의 탐지에 관한 연구._
 한국과학재단.
 [[PDF](https://github.com/AppliedStat/files/tree/master/Book-4/)]

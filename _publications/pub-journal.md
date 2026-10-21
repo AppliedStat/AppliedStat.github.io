@@ -2,12 +2,12 @@
 title: "Peer-reviewed Journal Papers"
 collection: full_list
 ---
-2026. Gao, S., G. Huang, **C. Park**, P. Zheng, I. M. Hezam, Y. Wang, Y. Sun, and [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao) (2027).
+2027. Gao, S., G. Huang, **C. Park**, P. Zheng, I. M. Hezam, Y. Wang, Y. Sun, and [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao) (2027).
 Hodges-Lehmann and Vision-Language Model Based Intelligent Fire Detection in Complex Environments
 _Expert Systems_ **To Appear**
 
 2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang,
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026+).
 Two hybrid genetic algorithms for the continuous *p*-center problem.
 _Engineering Optimization_ **To Appear**
 doi:[10.1080/0305215X.2025.2600326](https://doi.org/10.1080/0305215X.2025.2600326)

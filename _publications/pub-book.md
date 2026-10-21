@@ -2,7 +2,7 @@
 title: "Books and Book Chapters"
 collection: books 
 ---
-1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2025+).
+1. **Park**, **C** and [M. Wang](https://business.utsa.edu/faculty/min-wang-ph-d/) (2027+).
 Robust control charts using R.  _In Preparation_
 [[R Codes](https://github.com/AppliedStat/RCC)]
 
@@ -58,3 +58,15 @@ Published on July 1992.
 _Mechanical Engineering Experiments I,_  Revised 2nd Ed.
 Published on Feb. 29, 1992. 
 [[PDF](https://github.com/AppliedStat/files/blob/master/Book-1/README.md)]
+
+1. 연구보고서 (1991). _Array Microphone을 이용한 움직이는 음원의 탐지에 관한 연구._
+한국과학재단.
+
+1. 연구보고서 (1990). _Cross-spectral Matrix의 Eignstructure 해석 기술 개발 (2차년도)._
+한국표준과학연구원.
+
+1. 연구보고서 (1989). _Cross-spectral Matrix의 Eignstructure 해석 기술 개발 (1차년도)._
+한국표준과학연구원.
+
+1. 연구보고서 (1989). _Development of Acoustic Antenna Technology for Noise Source Detection._ 과학기술처.
+

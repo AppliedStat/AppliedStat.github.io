@@ -4,8 +4,8 @@ title: "Publication List"
 permalink: /publications/
 author_profile: true
 ---
-+ [Books and Book Chapters](/publications/pub-book)
 + [Peer-reviewed Journal Papers](/publications/pub-journal)
++ [Books and Book Chapters](/publications/pub-book)
 + [Conference Papers and Manuscripts](/publications/pub-conf)
 + [Patents](/publications/pub-patent)
 

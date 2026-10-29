@@ -8,9 +8,9 @@ _Expert Systems_ **To Appear**
 doi:[10.1111/exsy.70469](https://doi.org/10.1111/exsy.70469)
 
 2026. [Chen, X.](https://www.researchgate.net/profile/Xiaopeng-Chen-12), X. Liang,
-[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026+).
+[X. Gao](https://www.researchgate.net/profile/Xuehong-Gao), T. Xiao, and **C. Park** (2026).
 Two hybrid genetic algorithms for the continuous *p*-center problem.
-_Engineering Optimization_ **To Appear**
+_Engineering Optimization_ **58**(10), 2958-2972.
 doi:[10.1080/0305215X.2025.2600326](https://doi.org/10.1080/0305215X.2025.2600326)
 [[Python Code](https://github.com/AppliedStat/R-code/tree/master/2026a/)]
 

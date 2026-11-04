@@ -12,7 +12,7 @@ author_profile: true
 Recent Publications
 ------
 2026. Gao, S., G. Huang, **C. Park**, P. Zheng, I. M. Hezam, Y. Wang, Y. Sun, and [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao) (2026).
-Hodges-Lehmann and Vision-Language Model Based Intelligent Fire Detection in Complex Environments
+Hodges-Lehmann and Vision-Language Model Based Intelligent Fire Detection in Complex Environments. 
 _Expert Systems_ **43**(12), e70469.
 doi:[10.1111/exsy.70469](https://doi.org/10.1111/exsy.70469)
 

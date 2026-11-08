@@ -11,9 +11,8 @@ author_profile: true
 
 ## Recent Publications
 2027. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), M. Saha, and **C. Park** (2027).
-Estimation and Confidence Intervals of a Quantile-Based Process Capability Index for the Power Rayleigh Distribution with ROC Analysis and Applications to Industrial Data.
-_Quality and Reliability Engineering International_ **42**(7), 3715-3735.
-doi:[10.1002/qre.70286](https://doi.org/10.1002/qre.70286)
+Investigation of confidence intervals of the PCI $S_{pk}'$ using bootstrap technique and ROC curves.
+_International Journal of Reliability, Quality and Safety Engineering_  **To Appear**
 
 2026. Gao, S., G. Huang, **C. Park**, P. Zheng, I. M. Hezam, Y. Wang, Y. Sun, and [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao) (2026).
 Hodges-Lehmann and Vision-Language Model Based Intelligent Fire Detection in Complex Environments. 

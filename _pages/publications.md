@@ -50,7 +50,7 @@ Facility Location Decision under Data Contamination: Robustness Properties and P
 _European Journal of Industrial Engineering_ **21**(2), 169-199.
 doi:[10.1504/ejie.2026.10073237](https://doi.org/10.1504/ejie.2026.10073237)
 
-### &emsp; [_**More Publications**_](https://appliedstat.github.io/publications/pub-journal/)
+## &ensp; &ensp; [_**More Publications**_](https://appliedstat.github.io/publications/pub-journal/)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

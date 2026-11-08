@@ -9,7 +9,12 @@ author_profile: true
 + [Conference Papers and Manuscripts](/publications/pub-conf)
 + [Patents](/publications/pub-patent)
 
-Recent Publications
+## Recent Publications
+2027. [Dey, S.](https://www.researchgate.net/profile/Sanku_Dey), M. Saha, and **C. Park** (2027).
+Estimation and Confidence Intervals of a Quantile-Based Process Capability Index for the Power Rayleigh Distribution with ROC Analysis and Applications to Industrial Data.
+_Quality and Reliability Engineering International_ **42**(7), 3715-3735.
+doi:[10.1002/qre.70286](https://doi.org/10.1002/qre.70286)
+
 2026. Gao, S., G. Huang, **C. Park**, P. Zheng, I. M. Hezam, Y. Wang, Y. Sun, and [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao) (2026).
 Hodges-Lehmann and Vision-Language Model Based Intelligent Fire Detection in Complex Environments. 
 _Expert Systems_ **43**(12), e70469.
@@ -45,7 +50,7 @@ Facility Location Decision under Data Contamination: Robustness Properties and P
 _European Journal of Industrial Engineering_ **21**(2), 169-199.
 doi:[10.1504/ejie.2026.10073237](https://doi.org/10.1504/ejie.2026.10073237)
 
-### [_**More Publications**_](https://appliedstat.github.io/publications/pub-journal/)
+## &emsp; [_**More Publications**_](https://appliedstat.github.io/publications/pub-journal/)
 
 - - -
 

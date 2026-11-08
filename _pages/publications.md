@@ -10,7 +10,6 @@ author_profile: true
 + [Patents](/publications/pub-patent)
 
 Recent Publications
-------
 2026. Gao, S., G. Huang, **C. Park**, P. Zheng, I. M. Hezam, Y. Wang, Y. Sun, and [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao) (2026).
 Hodges-Lehmann and Vision-Language Model Based Intelligent Fire Detection in Complex Environments. 
 _Expert Systems_ **43**(12), e70469.
@@ -46,9 +45,10 @@ Facility Location Decision under Data Contamination: Robustness Properties and P
 _European Journal of Industrial Engineering_ **21**(2), 169-199.
 doi:[10.1504/ejie.2026.10073237](https://doi.org/10.1504/ejie.2026.10073237)
 
-* [ **More Publications** ](https://appliedstat.github.io/publications/pub-journal/)
+### [_**More Publications**_](https://appliedstat.github.io/publications/pub-journal/)
 
----
+- - -
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

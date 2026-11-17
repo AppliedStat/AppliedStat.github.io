@@ -48,7 +48,7 @@ In _Statistical Computing: Existing Methods and Recent Developments._
 Alpha Science International. ISBN: 978-1842652022.
 [[PDF](https://github.com/AppliedStat/files/tree/master/Book-2/)]
 
-1. **Park, C.**, etc. (1992).
+1. **Park, C.** et al. (1992).
 _Self-study Questionnaire for Review of Science and Engineering Programs,_
 submitted by Korea Advanced Institute of Science and Technology. 
 Published on July 1992.

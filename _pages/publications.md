@@ -14,6 +14,7 @@ author_profile: true
 Investigation of confidence intervals of the PCI _S_'<sub>pk</sub> 
 using bootstrap technique and ROC curves.
 _International Journal of Reliability, Quality and Safety Engineering._  **To Appear**
+doi:[10.1142/S0218539326500609](https://doi.org/10.1142/S0218539326500609)
 
 2026. Gao, S., G. Huang, **C. Park**, P. Zheng, I. M. Hezam, Y. Wang, Y. Sun, and [X. Gao](https://www.researchgate.net/profile/Xuehong-Gao) (2026).
 Hodges-Lehmann and Vision-Language Model Based Intelligent Fire Detection in Complex Environments. 
